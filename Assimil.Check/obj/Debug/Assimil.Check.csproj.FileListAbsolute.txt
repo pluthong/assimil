@@ -1,0 +1,15 @@
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Assimil.Check.exe.config
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Assimil.Check.exe
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Assimil.Check.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Assimil.Core.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Assimil.Domain.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\HtmlAgilityPack.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Newtonsoft.Json.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Assimil.Core.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Assimil.Domain.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\HtmlAgilityPack.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\HtmlAgilityPack.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\bin\Debug\Newtonsoft.Json.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\obj\Debug\Assimil.Check.csprojResolveAssemblyReference.cache
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\obj\Debug\Assimil.Check.exe
+E:\PROJECTS\Anglais\Assimil\Assimil.Check\obj\Debug\Assimil.Check.pdb

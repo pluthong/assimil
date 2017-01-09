@@ -1,0 +1,200 @@
+﻿{
+    "age": 31,
+    "haveIntro": true,
+    "introduction": "Eating",
+    "idfile": "lesson_031",
+    "page_number_descr_left": "61 sixty-one (siks'té oueune)",
+    "page_number_descr_right": "sixty-two (siks'té tou) 62",
+    "page_info_english": { "description_lang": "Thirty-first (31th) Lesson","description_audio_begin": 0,"description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Trente et unième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_31.jpg",
+    "audioUrl": "../../audio/audio_lesson_31.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Sometimes, David and Joan go out to eat.",
+                    "frenchspeech": "",
+                    "beginplay": 4,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are very few English restaurants where they live. (1) (N.3)",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 13.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Most of them are either Indian or Chinese, with a few Italian ones. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 13.5,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They like Indian food, though Joan finds it very hot.",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The meals are quite cheap and there is a lot to eat.",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They eat curry and rice and fruit",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 35.8
+                },
+                   {
+                    "alterSpeech": false,
+                    "speech": "And Joan drinks a lot of water. (3) (4)",
+                    "frenchspeech": "",
+                    "beginplay": 35.8,
+                    "endplay": 39.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You can find English food in pubs, as well as beer, but they shut quite early.",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello darling.",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 52.6
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "Hello love. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 52.6,
+                    "endplay": 54.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you want to go out to a restaurant tonight?",
+                    "frenchspeech": "",
+                    "beginplay": 54.5,
+                    "endplay": 57.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No. I've cooked a roast. We're going to eat in. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 57.5,
+                    "endplay": 62.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Okay, I'll go and buy some wine at the off-licence. (7) (8)",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 67.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, but don't stop to play darts.",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 71.8
+                }
+            ]
+        },
+             {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, The darts match was last night. (N.4)",
+                    "frenchspeech": "",
+                    "beginplay": 71.8,
+                    "endplay": 77
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

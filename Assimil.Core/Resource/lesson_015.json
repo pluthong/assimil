@@ -1,0 +1,189 @@
+﻿{
+    "age": 15,
+    "haveIntro": true,
+    "introduction": "Let's meet David",
+    "idfile": "lesson_015",
+    "page_number_descr_left": "29 twenty-nine (touèn'té naïn')",
+    "page_number_descr_right": "thirty (feûrté) 30",
+    "page_info_english": { "description_lang": "Fifteenth (15th) Lesson","description_audio_begin": 0,"description_audio_end": 6 },
+    "page_info_french": { "description_lang": "Quinzième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_15.jpg",
+    "audioUrl": "../../audio/audio_lesson_15.mp3",
+    "numSentences": 12,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello, I'm David Wilson. I live in a suburb of London. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 6.5,
+                    "endplay": 13.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's called Harrow. There's a famous school here.",
+                    "frenchspeech": "",
+                    "beginplay": 13.5,
+                    "endplay": 18.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I work in London. I'm a journalist on the 'Daily Wail'. (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 18.5,
+                    "endplay": 23.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I travel to work by tube.",
+                    "frenchspeech": "",
+                    "beginplay": 23.5,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I go from the station to the office on foot. (4) (5) (N.1)",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What is his name?",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 35.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "He's David Wilson.",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 38.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where does he live?",
+                    "frenchspeech": "",
+                    "beginplay": 38.5,
+                    "endplay": 41.5
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "He lives in Harrow.",
+                    "frenchspeech": "",
+                    "beginplay": 41.5,
+                    "endplay": 44
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does he travel to work by car?",
+                    "frenchspeech": "",
+                    "beginplay": 44,
+                    "endplay": 48.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, he takes the tube, he doesn't take his car.",
+                    "frenchspeech": "",
+                    "beginplay": 48.5,
+                    "endplay": 56.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello, I'm David Wilson. I'm a journalist.",
+                    "frenchspeech": "",
+                    "beginplay": 57,
+                    "endplay": 64.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "My wife's a secretary.",
+                    "frenchspeech": "",
+                    "beginplay": 64.5,
+                    "endplay": 67.5
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We both work in London. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 72
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

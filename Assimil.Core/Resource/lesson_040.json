@@ -1,0 +1,211 @@
+﻿{
+    "age": 40,
+    "haveIntro": true,
+    "introduction": "Useful expressions",
+    "idfile": "lesson_040",
+    "page_number_descr_left": "79 seventy-nine (sèv'nté naïn)",
+    "page_number_descr_right": "eighty (éeté) 80",
+    "page_info_english": { "description_lang": "Fortieth (40th) Lesson", "description_audio_begin": 0, "description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Quarantième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_40.jpg",
+    "audioUrl": "../../audio/audio_lesson_40.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Can I help you?",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 7.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Yes, I'm looking for...",
+                    "frenchspeech": "",
+                    "beginplay": 7.5,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "please sit down. You look tired. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "have a drink. What will you have?",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Can you tell me the way to the town centre? (N.3)",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "London is larger than Paris but smaller than New York.",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 33.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "please come in. Make yourself at home.",
+                    "frenchspeech": "",
+                    "beginplay": 33.5,
+                    "endplay": 38.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Sorry, say that again.",
+                    "frenchspeech": "",
+                    "beginplay": 38.5,
+                    "endplay": 43
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't like beetroot.",
+                    "frenchspeech": "",
+                    "beginplay": 43,
+                    "endplay": 46.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, neither do I. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 50
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Can't you do better than that?",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 55
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This lesson is more interesting than the first one.",
+                    "frenchspeech": "",
+                    "beginplay": 55,
+                    "endplay": 61
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I can't speak English fluently yet, but I can understand quite well.",
+                    "frenchspeech": "",
+                    "beginplay": 61,
+                    "endplay": 68
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Please speak a little slower. Thanks.",
+                    "frenchspeech": "",
+                    "beginplay": 68,
+                    "endplay": 74
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How far is it from London to Edinburgh?",
+                    "frenchspeech": "",
+                    "beginplay": 74,
+                    "endplay": 78.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He won't speak to you, he's in a bad mood. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 78.5,
+                    "endplay": 84
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

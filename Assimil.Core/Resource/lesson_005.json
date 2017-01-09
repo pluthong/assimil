@@ -1,0 +1,182 @@
+﻿{
+    "age": 5,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_005",
+    "page_number_descr_left": "9 nine (naïn')",
+    "page_number_descr_right": "ten (tèn') 10",
+    "page_info_english": { "description_lang": "Fifth Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Cinquième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_05.jpg",
+    "audioUrl": "../../audio/audio_lesson_05.mp3",
+    "numSentences": 12,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There's a good programme on the television. There are always good programmes on Saturday. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 12
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are always friends in the house.",
+                    "frenchspeech": "",
+                    "beginplay": 13,
+                    "endplay": 18
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Is Michael in his room?",
+                    "frenchspeech": "",
+                    "beginplay": 19,
+                    "endplay": 21.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Probably, the door of his room is open. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 21.8,
+                    "endplay": 27
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here is Peter and his friend Anne. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 27,
+                    "endplay": 32
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This is her brother Paul.",
+                    "frenchspeech": "",
+                    "beginplay": 33,
+                    "endplay": 36.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Her brother is very clever. He's an architect. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 36.8,
+                    "endplay": 43
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, but his clothes are terrible! (5)",
+                    "frenchspeech": "",
+                    "beginplay": 44,
+                    "endplay": 48.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, his tailor probably isn't rich!",
+                    "frenchspeech": "",
+                    "beginplay": 49,
+                    "endplay": 55
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where are Jim and Steve?",
+                    "frenchspeech": "",
+                    "beginplay": 56,
+                    "endplay": 59
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They aren't here yet. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 60,
+                    "endplay": 62
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, there's still time. They're very rude, they're always late.",
+                    "frenchspeech": "",
+                    "beginplay": 63,
+                    "endplay": 73
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Clever; probably; open.",
+                    "frenchspeech": "",
+                    "beginplay": 74,
+                    "endplay": 81
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

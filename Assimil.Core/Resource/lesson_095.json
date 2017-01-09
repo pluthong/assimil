@@ -1,0 +1,200 @@
+﻿{
+    "age": 95,
+    "haveIntro": true,
+    "introduction": "A favour",
+    "idfile": "lesson_095",
+    "page_number_descr_left": "175 one hundred and seventy-five",
+    "page_number_descr_right": "one hundred and seventy-six 176",
+    "page_info_english": { "description_lang": "Ninety-fifth (95th) Lesson", "description_audio_begin": 0, "description_audio_end": 5.5 },
+    "page_info_french": { "description_lang": "Quatre-vingt-quinzième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_95.jpg",
+    "audioUrl": "../../audio/audio_lesson_95.mp3",
+    "numSentences": 13,
+  "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, is that George's letter? I haven't seen* him for a long time.",
+                    "frenchspeech": "",
+                    "beginplay": 5.5,
+                    "endplay": 12
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In fact, since that party last year. How is he? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 12,
+                    "endplay": 16.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh he's fine. He needs some help with his new job.",
+                    "frenchspeech": "",
+                    "beginplay": 16.6,
+                    "endplay": 21.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, he's working in that school with a strange name.",
+                    "frenchspeech": "",
+                    "beginplay": 21.6,
+                    "endplay": 26.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You mean* Hungerford? It's a school that has an excellent reputation. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 26.6,
+                    "endplay": 32.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How long has he been teaching* there?",
+                    "frenchspeech": "",
+                    "beginplay": 32.5,
+                    "endplay": 35.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "For a month. Since another teacher resigned. He seems to be enjoying himself.",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "May I read* the letter?",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 44.5
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "Of course. It's over there on top of the television. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 49.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He always asks for information which is difficult to find.",
+                    "frenchspeech": "",
+                    "beginplay": 49.5,
+                    "endplay": 54.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Not really. We've got lots of files at the office.",
+                    "frenchspeech": "",
+                    "beginplay": 54.7,
+                    "endplay": 59.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I hope he doesn't expect you to write a book!",
+                    "frenchspeech": "",
+                    "beginplay": 59.5,
+                    "endplay": 62.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, just a few lines with the mail points. it won't take* too long.",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 67.5
+                }
+            ]
+        },
+          {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I hope not.",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 69
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "I'll start straight away and I should be finished by tomorrow at the latest. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 69,
+                    "endplay": 74
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

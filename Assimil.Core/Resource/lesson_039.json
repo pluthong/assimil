@@ -1,0 +1,197 @@
+﻿{
+    "age": 39,
+    "haveIntro": true,
+    "introduction": "London",
+    "idfile": "lesson_039",
+    "page_number_descr_left": "77 seventy-seven (sèv'nté sèv'n)",
+    "page_number_descr_right": "seventy-eight (sèv'nté èe't) 78",
+    "page_info_english": { "description_lang": "Thirty-ninth (39th) Lesson","description_audio_begin": 0,"description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Trente-neuvième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_39.jpg",
+    "audioUrl": "../../audio/audio_lesson_39.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "London is larger than Paris but smaller than New York.",
+                    "frenchspeech": "",
+                    "beginplay": 4,
+                    "endplay": 10.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are more than eight million inhabitants in Greater London, (1) (2)",
+                    "frenchspeech": "",
+                    "beginplay": 10.8,
+                    "endplay": 17.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "more than the populations of Scotland and Wales together.",
+                    "frenchspeech": "",
+                    "beginplay": 17.5,
+                    "endplay": 22.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "inner London is smaller, Here you find the \" West End \" with its theatres.",
+                    "frenchspeech": "",
+                    "beginplay": 22.5,
+                    "endplay": 29.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and the City, which is the financial centre of England. (3) (4)",
+                    "frenchspeech": "",
+                    "beginplay": 29.8,
+                    "endplay": 34.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It is also the oldest part of London and still has some ancient traditions.",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 41.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "For example, the Lord Mayor of London is mayor of the City only.",
+                    "frenchspeech": "",
+                    "beginplay": 41.5,
+                    "endplay": 49
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The most important part of the City is the Stock Exchange. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 49,
+                    "endplay": 55.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Which is an important as the Bourse in Paris.",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 59.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In almost every street, there is a beautiful church, often designed by Wren. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 59.7,
+                    "endplay": 67.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Among the places of interest to see are Trafalgar Square.",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 73.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "With its colony of pigeons and four bronze lions;",
+                    "frenchspeech": "",
+                    "beginplay": 73.5,
+                    "endplay": 78.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and the Houses of Parliament and Big Ben.",
+                    "frenchspeech": "",
+                    "beginplay": 78.3,
+                    "endplay": 82.5
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In fact, it is the bell and not the clock which is called Big Ben.",
+                    "frenchspeech": "",
+                    "beginplay": 82.5,
+                    "endplay": 92
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

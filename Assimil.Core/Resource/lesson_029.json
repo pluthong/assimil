@@ -1,0 +1,186 @@
+﻿{
+    "age": 29,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_029",
+    "page_number_descr_left": "57 fifty-seven (fivté sèv'n)",
+    "page_number_descr_right": "fifty-eight (fivté èe't) 58",
+    "page_info_english": { "description_lang": "Twenty-ninth (29th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Vingt-neuvième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_29.jpg",
+    "audioUrl": "../../audio/audio_lesson_29.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's meet our friends the Wilsons again. (1) (2)",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "At the office, David has a lot of work. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 9,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He receives calls from people who phone to offer him information. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "If he can, he goes out to see them.",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 24.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But if he is too busy, he sends a colleague. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 24.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Because his is a daily paper, the amount of work is huge. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 37
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "At her office, Joan types her boss'letters and answers the phone. (7)",
+                    "frenchspeech": "",
+                    "beginplay": 37,
+                    "endplay": 43.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She only works part-time, so she goes home at half past twelve. (8)",
+                    "frenchspeech": "",
+                    "beginplay": 43.5,
+                    "endplay": 51.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then she does the housework, because they cannot afford a \" help \". (9) ",
+                    "frenchspeech": "",
+                    "beginplay": 51.5,
+                    "endplay": 60
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When she finishes, She makes a cup of tea and reads a magazine.",
+                    "frenchspeech": "",
+                    "beginplay": 60,
+                    "endplay": 68.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then She starts preparing David's dinner. ",
+                    "frenchspeech": "",
+                    "beginplay": 68.5,
+                    "endplay": 73.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David usually arrives home about half-past six.",
+                    "frenchspeech": "",
+                    "beginplay": 73.5,
+                    "endplay": 79.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But sometimes he works late and does not arrive home until nine O'clock. (N.1)",
+                    "frenchspeech": "",
+                    "beginplay": 79.5,
+                    "endplay": 87
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

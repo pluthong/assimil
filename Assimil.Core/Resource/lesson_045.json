@@ -1,0 +1,211 @@
+﻿{
+    "age": 45,
+    "haveIntro": true,
+    "introduction": "Holiday plans",
+    "idfile": "lesson_045",
+    "page_number_descr_left": "89 eighty-nine (éeté naïn)",
+    "page_number_descr_right": "ninety (naïnté) 90",
+    "page_info_english": { "description_lang": "Forty-fifth (45th) Lesson", "description_audio_begin": 0, "description_audio_end": 5 },
+    "page_info_french": { "description_lang": "Quarante-cinquième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_45.jpg",
+    "audioUrl": "../../audio/audio_lesson_45.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David and Joan are discussing their plans.",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I think we'll go to Brighton next week-end. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 9,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But why? There's nothing to do at this time of the year.",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 18.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I know, but look if the weather is fine, we can drive along the coast",
+                    "frenchspeech": "",
+                    "beginplay": 18.5,
+                    "endplay": 25.4
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and visit all those little villages.",
+                    "frenchspeech": "",
+                    "beginplay": 25.4,
+                    "endplay": 27.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, but David, er... My mother's coming next weekend.",
+                    "frenchspeech": "",
+                    "beginplay": 27.5,
+                    "endplay": 35.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Damn!",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 36.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "But she only comes once a year! (2)",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 39.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, and it's always when we want to go away.",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 42.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You mean: when you want to go away.",
+                    "frenchspeech": "",
+                    "beginplay": 42.8,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm sorry.",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 48.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "She's arriving on Friday.",
+                    "frenchspeech": "",
+                    "beginplay": 48.5,
+                    "endplay": 52
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then we'll take her with us and visit the antique shops. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 52,
+                    "endplay": 56.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She'll feel at home among all those old things.",
+                    "frenchspeech": "",
+                    "beginplay": 56.5,
+                    "endplay": 60.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David! Don't be nasty!",
+                    "frenchspeech": "",
+                    "beginplay": 60.5,
+                    "endplay": 64.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'll meet her at the station, then we'll be able to make our plans together. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 64.5,
+                    "endplay": 70
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,189 @@
+﻿{
+    "age": 48,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_048",
+    "page_number_descr_left": "95 ninety-five (naïnté faiv)",
+    "page_number_descr_right": "ninety-six (naïnté siks) 96",
+    "page_info_english": { "description_lang": "Forty-eighth (48th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Quarante-huitième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_48.jpg",
+    "audioUrl": "../../audio/audio_lesson_48.mp3",
+    "numSentences": 12,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How far is it to the station?",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 5.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Oh, not too far. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 5.5,
+                    "endplay": 7.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It takes about ten minutes on foot and only two by car. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 7.5,
+                    "endplay": 12
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Shall I call you a taxi?",
+                    "frenchspeech": "",
+                    "beginplay": 12,
+                    "endplay": 14.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No thanks, I'll walk. I have plenty of time. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A sociologist is studying the average height of the English. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 20,
+                    "endplay": 25
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you know, he says to his girlfriend, only one Englishman in nine hundred twenty (920) is six feet tall? (5)",
+                    "frenchspeech": "",
+                    "beginplay": 25,
+                    "endplay": 33.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, says the girl, but it's always him.",
+                    "frenchspeech": "",
+                    "beginplay": 33.8,
+                    "endplay": 38.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "that sits in front of me in the cinema.",
+                    "frenchspeech": "",
+                    "beginplay": 38.7,
+                    "endplay": 42
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A businessman is writing to a competitor who is very dishonest: (6)",
+                    "frenchspeech": "",
+                    "beginplay": 42,
+                    "endplay": 48.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "“ As my secretary is a lady, she cannot tell you what I think of you.",
+                    "frenchspeech": "",
+                    "beginplay": 48.5,
+                    "endplay": 54.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and as I am a gentleman, I cannot even think it;",
+                    "frenchspeech": "",
+                    "beginplay": 54.5,
+                    "endplay": 58.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "but as you are neither one nor the other, ",
+                    "frenchspeech": "",
+                    "beginplay": 58.7,
+                    "endplay": 61.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I hope you understand! ”.",
+                    "frenchspeech": "",
+                    "beginplay": 61.8,
+                    "endplay": 65
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

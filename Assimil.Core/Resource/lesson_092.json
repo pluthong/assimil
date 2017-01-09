@@ -1,0 +1,197 @@
+﻿{
+    "age": 92,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_092",
+    "page_number_descr_left": "169 one hundred and sixty-nine",
+    "page_number_descr_right": "one hundred and seventy 170",
+    "page_info_english": { "description_lang": "Ninety-second (92nd) Lesson", "description_audio_begin": 0, "description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Quatre-vingt-douzième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_92.jpg",
+    "audioUrl": "../../audio/audio_lesson_92.mp3",
+    "numSentences": 14,
+   "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Jack, I'm freezing*. Close the window, it's cold outside.",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 9.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You want me to get out of bed and close the window. (N. 1)",
+                    "frenchspeech": "",
+                    "beginplay": 9.5,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "but if I do, it won't be warm outside. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 19
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do tell* me about Mrs Haines'divorce. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 19,
+                    "endplay": 25
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'd prefer you to ask Mrs Haines herself! (N. 2)",
+                    "frenchspeech": "",
+                    "beginplay": 25,
+                    "endplay": 29
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We expect her to arrive at eight o'clock. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 29,
+                    "endplay": 34.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I hope the train will be on time. I don't like waiting.",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 41.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He'd like them to introduce themselves because he has forgotten* their names.",
+                    "frenchspeech": "",
+                    "beginplay": 41.5,
+                    "endplay": 49.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We've asked them to come* round for drinks this evening, (4)",
+                    "frenchspeech": "",
+                    "beginplay": 49.5,
+                    "endplay": 53
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "but they would like to come* to dinner.",
+                    "frenchspeech": "",
+                    "beginplay": 53,
+                    "endplay": 56.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Would you like me to make* reservations for the theatre?",
+                    "frenchspeech": "",
+                    "beginplay": 56.5,
+                    "endplay": 60.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No thanks, I'll do it myself.",
+                    "frenchspeech": "",
+                    "beginplay": 60.8,
+                    "endplay": 64.5
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'd like you to say a prayer before your meal.",
+                    "frenchspeech": "",
+                    "beginplay": 64.5,
+                    "endplay": 69
+                }
+            ]
+        },
+                  {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But why? My mother is a good cook.",
+                    "frenchspeech": "",
+                    "beginplay": 69,
+                    "endplay": 73
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

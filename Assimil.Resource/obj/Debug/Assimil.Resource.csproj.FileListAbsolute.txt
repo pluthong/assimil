@@ -1,0 +1,4 @@
+E:\PROJECTS\Anglais\Assimil\Assimil.Resource\bin\Debug\Assimil.Resource.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Resource\bin\Debug\Assimil.Resource.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Resource\obj\Debug\Assimil.Resource.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Resource\obj\Debug\Assimil.Resource.pdb

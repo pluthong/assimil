@@ -1,0 +1,197 @@
+﻿{
+    "age": 27,
+    "haveIntro": true,
+    "introduction": "Some Idioms",
+    "idfile": "lesson_027",
+    "page_number_descr_left": "53 fifty-three (fivté trî)",
+    "page_number_descr_right": "fifty-four (fivté fôr) 54",
+    "page_info_english": { "description_lang": "Twenty-seventh (27th) Lesson", "description_audio_begin": 0, "description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Vingt-septième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_27.jpg",
+    "audioUrl": "../../audio/audio_lesson_27.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here are some idioms. We already know some of them.",
+                    "frenchspeech": "",
+                    "beginplay": 4,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Please close the window, my wife is cold.",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You are very lucky to have a charming wife.",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't want to swim. I'm scared of fish, especially sharks. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You are right, it's very hot outside but I'm not hot.",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 38.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm going to bed. I'm very sleepy and it's late.",
+                    "frenchspeech": "",
+                    "beginplay": 38.5,
+                    "endplay": 45.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You're wrong, today is the twenty-fifth and not the twenty-sixth.",
+                    "frenchspeech": "",
+                    "beginplay": 45.5,
+                    "endplay": 54.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Come close to the fire, you're very cold.",
+                    "frenchspeech": "",
+                    "beginplay": 54.5,
+                    "endplay": 59.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You're right, I'm freezing. I haven't got a coat and it's snowing. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 59.5,
+                    "endplay": 68.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She's scared of ghosts and I'm afraid of the dark.",
+                    "frenchspeech": "",
+                    "beginplay": 68.5,
+                    "endplay": 75.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm afraid I can't come, I have an important appointment. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 75.5,
+                    "endplay": 81.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Never mind. You can come on Friday instead. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 81.5,
+                    "endplay": 87.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The months of the year are: January; February; March; April; May; June; ",
+                    "frenchspeech": "",
+                    "beginplay": 87.5,
+                    "endplay": 102.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "July; August; September; October; November; December.",
+                    "frenchspeech": "",
+                    "beginplay": 102.5,
+                    "endplay": 116
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

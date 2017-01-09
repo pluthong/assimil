@@ -1,0 +1,219 @@
+﻿{
+    "age": 85,
+    "haveIntro": true,
+    "introduction": "Two Sundays",
+    "idfile": "lesson_085",
+    "page_number_descr_left": "155 one hundred and fifty-five",
+    "page_number_descr_right": "one hundred and fifty-six 156",
+    "page_info_english": { "description_lang": "Eighty-fifth (85th) Lesson", "description_audio_begin": 0, "description_audio_end": 3.5 },
+    "page_info_french": { "description_lang": "Quatre-vingt-cinquième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_85.jpg",
+    "audioUrl": "../../audio/audio_lesson_85.mp3",
+    "numSentences": 16,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David and Joan decided to go* for a picnic in Richmond.",
+                    "frenchspeech": "",
+                    "beginplay": 3.5,
+                    "endplay": 8.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "On Sundays, David has a lie-in and Joan brings* him breakfast in bed. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 8.7,
+                    "endplay": 17.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This Sunday, David got* up at eleven O'clock and after shaving and washing, went downstairs.",
+                    "frenchspeech": "",
+                    "beginplay": 17.5,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Joan was preparing the picnic basket.",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She put* in cold meat, hard boiled eggs, some cold sausages and a lettuce.",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 37.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She added a loaf of bread, some butter and the knives and forks.",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 44.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Meanwhile David got* the car out of the garage. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 51
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They put* the basket in the boot and set* off for Bushey Park.",
+                    "frenchspeech": "",
+                    "beginplay": 51,
+                    "endplay": 57.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "On the way, David stopped to buy some wine.",
+                    "frenchspeech": "",
+                    "beginplay": 57.5,
+                    "endplay": 62
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Bushey Park is a huge park on the outskirts of London.",
+                    "frenchspeech": "",
+                    "beginplay": 62,
+                    "endplay": 69
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When they arrived, they found* a quiet place and sat* down on a rug to eat their lunch. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 69,
+                    "endplay": 78
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Pass me some chicken, please... and some salt, as well.",
+                    "frenchspeech": "",
+                    "beginplay": 78,
+                    "endplay": 83.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh dear, said* Joan, I think* I've forgotten* the salt.",
+                    "frenchspeech": "",
+                    "beginplay": 83.5,
+                    "endplay": 88.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Idiot! said* David, but seeing* she was upset, he said: (4)",
+                    "frenchspeech": "",
+                    "beginplay": 88.5,
+                    "endplay": 94.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Never mind, Let's have a glass of wine.",
+                    "frenchspeech": "",
+                    "beginplay": 94.5,
+                    "endplay": 98.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He took* the bottle out of the basket, then said*: \" Oh dear, I've forgotten the corkscrew! \"",
+                    "frenchspeech": "",
+                    "beginplay": 98.5,
+                    "endplay": 108
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

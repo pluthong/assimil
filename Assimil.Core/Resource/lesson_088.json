@@ -1,0 +1,197 @@
+﻿{
+    "age": 88,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_088",
+    "page_number_descr_left": "161 one hundred and sixty-one",
+    "page_number_descr_right": "one hundred and sixty-two 162",
+    "page_info_english": { "description_lang": "Eighty-eighth (88th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Quatre-vingt-huitième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_88.jpg",
+    "audioUrl": "../../audio/audio_lesson_88.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello Joan! Sorry, I'm late. I've just met* old Barker. He's so boring. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 9.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He started telling* me about his holiday: \" You must go here, you should go there \".",
+                    "frenchspeech": "",
+                    "beginplay": 9.5,
+                    "endplay": 16.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Actually, we should start thinking* about our holiday, you know*.",
+                    "frenchspeech": "",
+                    "beginplay": 16.3,
+                    "endplay": 20.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes; where did we say we would go*? (2)",
+                    "frenchspeech": "",
+                    "beginplay": 20.2,
+                    "endplay": 24.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, you said* we would (N. 2) go* either to Spain or to Scotland.",
+                    "frenchspeech": "",
+                    "beginplay": 24.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Ah, but I've also been thinking* of Wales since I met* a colleague who went* there last year.",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 37
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, no! You promised we could go* abroad this year!",
+                    "frenchspeech": "",
+                    "beginplay": 37,
+                    "endplay": 41
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, but that was before I received my bank-statement. Wales is cheaper than Spain.",
+                    "frenchspeech": "",
+                    "beginplay": 41,
+                    "endplay": 49.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, but I want a sun tan! I've even bought* a new bikini.",
+                    "frenchspeech": "",
+                    "beginplay": 49.5,
+                    "endplay": 54.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, it's sunny in Wales, the scenery is fantastic... and we're broke. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 54.2,
+                    "endplay": 60.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You're impossible! I'm going* to the travel agent's tomorrow to book two seats on any plane. Good night! (4)",
+                    "frenchspeech": "",
+                    "beginplay": 60.7,
+                    "endplay": 68
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David sighed as Joan slammed the door.",
+                    "frenchspeech": "",
+                    "beginplay": 68,
+                    "endplay": 71.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He sat* down in an armchair and poured himself a Scotch",
+                    "frenchspeech": "",
+                    "beginplay": 71.8,
+                    "endplay": 77.5
+                }
+            ]
+        },
+            {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and began* to look at the travel agent's brochures.",
+                    "frenchspeech": "",
+                    "beginplay": 77.5,
+                    "endplay": 82
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

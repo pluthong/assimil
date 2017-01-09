@@ -1,0 +1,175 @@
+﻿{
+    "age": 52,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_52",
+    "page_number_descr_left": "103 one hundred and three",
+    "page_number_descr_right": "one hundred and four 104",
+    "page_info_english": { "description_lang": "Fifty-second (52nd) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Cinquante-deuxième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_52.jpg",
+    "audioUrl": "../../audio/audio_lesson_52.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here are a few more examples of regular verbs in the present, in the past and with the past participle:",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I hope, I hoped, I have hoped. He lives, he lived, he has lived. We finish, we finished, we have finished. (1) (2)",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 30
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They talk, they talked, they have talked. She changes, She changed, She has Changed. You play, you played, you have played.",
+                    "frenchspeech": "",
+                    "beginplay": 30,
+                    "endplay": 45.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's practise the past of “ do ”: (3) ",
+                    "frenchspeech": "",
+                    "beginplay": 45.5,
+                    "endplay": 49.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does he smoke? Did he smoke? We don't ask questions; we didn't ask questions.",
+                    "frenchspeech": "",
+                    "beginplay": 49.5,
+                    "endplay": 63
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What do you do? What did you do?",
+                    "frenchspeech": "",
+                    "beginplay": 63,
+                    "endplay": 68.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does he wait? Did he wait? She doesn't answer. She didn't answer.",
+                    "frenchspeech": "",
+                    "beginplay": 68.5,
+                    "endplay": 78
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": " “ Can ” and “ will ” are irregular and become “ could ” and “ would ” in the past. They have no past participle. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 78,
+                    "endplay": 88.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I can begin now. I couldn't begin yesterday.",
+                    "frenchspeech": "",
+                    "beginplay": 88.5,
+                    "endplay": 95
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He wouldn't work this morning, but he will now.",
+                    "frenchspeech": "",
+                    "beginplay": 95,
+                    "endplay": 100
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I have (I've), I had.",
+                    "frenchspeech": "",
+                    "beginplay": 100,
+                    "endplay": 104.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I am (I'm), we are (we're). I was, we were, I have been.",
+                    "frenchspeech": "",
+                    "beginplay": 104.5,
+                    "endplay": 116
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

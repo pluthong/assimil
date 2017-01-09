@@ -1,0 +1,175 @@
+﻿{
+    "age": 78,
+    "haveIntro": true,
+    "introduction": "Don't worry",
+    "idfile": "lesson_078",
+    "page_number_descr_left": "155 one hundred and fifty-five",
+    "page_number_descr_right": "one hundred and fifty-six 156",
+    "page_info_english": { "description_lang": "Seventy-eighth (78th) Lesson", "description_audio_begin": 0, "description_audio_end": 5.5 },
+    "page_info_french": { "description_lang": "Soixante-dix-huitième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_78.jpg",
+    "audioUrl": "../../audio/audio_lesson_78.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We have seen* many expressions and words already,",
+                    "frenchspeech": "",
+                    "beginplay": 6,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and perhaps you are worried by some of the unusual ones, like: (1)",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 17.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": " \" They began* to read* \" or \" Studying is easy \".  ",
+                    "frenchspeech": "",
+                    "beginplay": 17.5,
+                    "endplay": 23.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But, if you read* a lesson every day, you will come* to know* these words and idioms",
+                    "frenchspeech": "",
+                    "beginplay": 23.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and will be able to use them naturally.",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 32.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You already know* enough English to survive in England",
+                    "frenchspeech": "",
+                    "beginplay": 32.5,
+                    "endplay": 37.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and you know a little about the country.",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 39.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "All this with just one lesson a day.",
+                    "frenchspeech": "",
+                    "beginplay": 39.8,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But you must continue reading* and writing*",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 47.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and do not worry about making* mistakes: you make* mistakes in your own language, too! (2)",
+                    "frenchspeech": "",
+                    "beginplay": 47.5,
+                    "endplay": 55.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You probably want to speak* fluently now, after only eleven weeks.",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 61.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "but you should (N. 1) remember the saying: \" You must learn to walk before you can run* \".",
+                    "frenchspeech": "",
+                    "beginplay": 61.5,
+                    "endplay": 69
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

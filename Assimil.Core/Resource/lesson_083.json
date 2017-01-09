@@ -1,0 +1,193 @@
+﻿{
+    "age": 83,
+    "haveIntro": true,
+    "introduction": "Shopping",
+    "idfile": "lesson_083",
+    "page_number_descr_left": "165 one hundred and sixty-five",
+    "page_number_descr_right": "one hundred and sixty-six 166",
+    "page_info_english": { "description_lang": "Eighty-third (83rd) Lesson", "description_audio_begin": 0, "description_audio_end": 3 },
+    "page_info_french": { "description_lang": "Quatre-vingt-troisième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_83.jpg",
+    "audioUrl": "../../audio/audio_lesson_83.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I haven't done the shopping yet.",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'd better go* now or it'll be too late.",
+                    "frenchspeech": "",
+                    "beginplay": 7,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's see*, we need some meat. I'll get* some chops for tonight, and a joint of beef. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 20.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I can put* that in the freezer.",
+                    "frenchspeech": "",
+                    "beginplay": 20.5,
+                    "endplay": 23.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then vegetables: I'll buy* some cabbage, some peas and some rice. We've already got* beetroot and lettuce.",
+                    "frenchspeech": "",
+                    "beginplay": 23.5,
+                    "endplay": 35.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'll buy some flour and make* a Yorkshire pudding (N. 5) to eat* with the roast beef on Sunday.",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What else do we need? Some toilet paper and some bleach... and some sweets for the kids. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I think* that's all. I can get* everything at the supermarket.",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 56
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "John, may I take* the car?",
+                    "frenchspeech": "",
+                    "beginplay": 56,
+                    "endplay": 61.5
+                },
+                     {
+                    "alterSpeech": true,
+                    "speech": "Yes. Do you want a hand?",
+                    "frenchspeech": "",
+                    "beginplay": 61.5,
+                    "endplay": 63.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "If you're not doing anything, that would be lovely.",
+                    "frenchspeech": "",
+                    "beginplay": 63.5,
+                    "endplay": 68
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let me watch the end of this programme.",
+                    "frenchspeech": "",
+                    "beginplay": 68,
+                    "endplay": 70.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Alright, I'll take* the car out of the garage and fetch the shopping bags. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 70.5,
+                    "endplay": 77.5
+                }
+            ]
+        },
+            {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I won't be a minute, but I've been waiting to see this programme for a week. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 77.5,
+                    "endplay": 83
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,249 @@
+﻿{
+    "age": 4,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_004",
+    "page_number_descr_left": "7 seven (sèv'n)",
+    "page_number_descr_right": "eight (ée't) 8",
+    "page_info_english": { "description_lang": "Fourth Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Quatrième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_04.jpg",
+    "audioUrl": "../../audio/audio_lesson_04.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This is my sister.",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 6
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "How old is she? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 6,
+                    "endplay": 8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She's thirteen",
+                    "frenchspeech": "",
+                    "beginplay": 9,
+                    "endplay": 12
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This is our garden.",
+                    "frenchspeech": "",
+                    "beginplay": 13,
+                    "endplay": 15.7
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Is it big?",
+                    "frenchspeech": "",
+                    "beginplay": 16,
+                    "endplay": 17.5
+                },
+                 {
+                    "alterSpeech": false,
+                    "speech": "Not really.",
+                    "frenchspeech": "",
+                    "beginplay": 18,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These are my parents.",
+                    "frenchspeech": "",
+                    "beginplay": 21,
+                    "endplay": 24.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Are they old?",
+                    "frenchspeech": "",
+                    "beginplay": 25,
+                    "endplay": 27.5
+                },
+                    {
+                    "alterSpeech": false,
+                    "speech": "I'm not sure!",
+                    "frenchspeech": "",
+                    "beginplay": 28,
+                    "endplay": 30
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This is our new car. It's a big red car. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 31,
+                    "endplay": 39
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That is our library. It's a small library.",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 46
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Is this Station Street?",
+                    "frenchspeech": "",
+                    "beginplay": 47,
+                    "endplay": 49.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, you're in Bridge Street. (3) (N.6)",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 54
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Station Street is over there.",
+                    "frenchspeech": "",
+                    "beginplay": 55,
+                    "endplay": 59
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Where?",
+                    "frenchspeech": "",
+                    "beginplay": 60,
+                    "endplay": 61
+                },
+                {
+                    "alterSpeech": false,
+                    "speech": "Near those shops. (4) (5)",
+                    "frenchspeech": "",
+                    "beginplay": 62,
+                    "endplay": 65
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "An old car but a new bike.",
+                    "frenchspeech": "",
+                    "beginplay": 66,
+                    "endplay": 70
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Our parents are in the car.",
+                    "frenchspeech": "",
+                    "beginplay": 71,
+                    "endplay": 75
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A small house with a big garden.",
+                    "frenchspeech": "",
+                    "beginplay": 76,
+                    "endplay": 80
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello, John. Where are your parents?",
+                    "frenchspeech": "",
+                    "beginplay": 81,
+                    "endplay": 86
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I'm not really sure.",
+                    "frenchspeech": "",
+                    "beginplay": 87,
+                    "endplay": 89
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Perhaps they are at the shops. Ah, here they are!",
+                    "frenchspeech": "",
+                    "beginplay": 90,
+                    "endplay": 98
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,197 @@
+﻿{
+    "age": 8,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_008",
+    "page_number_descr_left": "15 fifteen (fiftin')",
+    "page_number_descr_right": "sixteen (siks'tin) 16",
+    "page_info_english": { "description_lang": "Eighth (8th) Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Huitième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_08.jpg",
+    "audioUrl": "../../audio/audio_lesson_08.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Can I help you?",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you got any tea? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 5.5,
+                    "endplay": 8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Of course. Do you want some? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 9,
+                    "endplay": 13
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes please. Give me two pounds. And a packet of biscuits. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 13.5,
+                    "endplay": 21
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you want some beans?",
+                    "frenchspeech": "",
+                    "beginplay": 22,
+                    "endplay": 26
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No thanks. We've got some at home. (N. 1) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 31
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, some bread?",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 34.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes please. Two loaves. Oh, and half a pound of butter. That's all.",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 44
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How much is that? (4)",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That's six pounds.",
+                    "frenchspeech": "",
+                    "beginplay": 47,
+                    "endplay": 49.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh dear, I've only got five pounds.",
+                    "frenchspeech": "",
+                    "beginplay": 49.8,
+                    "endplay": 55
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You can pay the rest next time.",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 59.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Thanks very much. Good-bye.",
+                    "frenchspeech": "",
+                    "beginplay": 59.7,
+                    "endplay": 63.5
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Good-bye madam. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 63.8,
+                    "endplay": 68
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

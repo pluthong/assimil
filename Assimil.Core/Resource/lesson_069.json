@@ -1,0 +1,204 @@
+﻿{
+    "age": 69,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_069",
+    "page_number_descr_left": "137 one hundred and thirty-seven",
+    "page_number_descr_right": "one hundred and thirty-eight 138",
+    "page_info_english": { "description_lang": "Sixty-ninth (69th) Lesson", "description_audio_begin": 0, "description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Soixante-neuvième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_69.jpg",
+    "audioUrl": "../../audio/audio_lesson_69.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Excuse me, doesn't my nephew Peter Bates work in this office? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 10
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, you're his uncle. He went* to your funeral this morning.",
+                    "frenchspeech": "",
+                    "beginplay": 10,
+                    "endplay": 18
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David, what are those empty whisky-bottles doing in the cellar?",
+                    "frenchspeech": "",
+                    "beginplay": 18,
+                    "endplay": 26
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't know*, darling. I've never bought* an empty bottle of whisky in my life. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 26,
+                    "endplay": 33
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How many people work in your office?",
+                    "frenchspeech": "",
+                    "beginplay": 33,
+                    "endplay": 37.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "About half of them.",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 40
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mrs Thomas and Mrs Jones met* in the shopping-center.",
+                    "frenchspeech": "",
+                    "beginplay": 40,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mrs Jones was pushing a pram with her two little boys inside.",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 53
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Good morning Mrs Jones. What beautiful children. Tell me, how old are they?",
+                    "frenchspeech": "",
+                    "beginplay": 53,
+                    "endplay": 61.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, said Mrs Jones, the doctor is two and the lawyer is three. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 61.5,
+                    "endplay": 69
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I forgot my wife's birthday.",
+                    "frenchspeech": "",
+                    "beginplay": 69,
+                    "endplay": 73.3
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "What did she say*?",
+                    "frenchspeech": "",
+                    "beginplay": 73.3,
+                    "endplay": 75.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Nothing. That's alright then.",
+                    "frenchspeech": "",
+                    "beginplay": 75.6,
+                    "endplay": 77.9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, nothing... for three weeks.",
+                    "frenchspeech": "",
+                    "beginplay": 77.9,
+                    "endplay": 82
+                }
+            ]
+        },
+            {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Don't forget* to learn the irregular verbs we meet*.",
+                    "frenchspeech": "",
+                    "beginplay": 82,
+                    "endplay": 90
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

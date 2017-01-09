@@ -1,0 +1,222 @@
+﻿{
+    "age": 74,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_074",
+    "page_number_descr_left": "147 one hundred and forty-seven",
+    "page_number_descr_right": "one hundred and forty-eight 148",
+    "page_info_english": { "description_lang": "Seventy-fourth (74th) Lesson", "description_audio_begin": 0, "description_audio_end": 3 },
+    "page_info_french": { "description_lang": "Soixante-quatorzième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_74.jpg",
+    "audioUrl": "../../audio/audio_lesson_74.mp3",
+    "numSentences": 15,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's learn some useful expressions.",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When English people meet* for the first time, they say*: \" How do you do? \". (1) ",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The answer is: \" How do you do? \" ",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "After this first meeting, you may say: \" How are you? \", or simply \" Hello \". (2)",
+                    "frenchspeech": "",
+                    "beginplay": 20,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Younger people find* these formulas too formal and try to avoid them.",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 36.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "People rarely shake* hands in England.",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 41.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here is a typical \" polite \" conversation. ",
+                    "frenchspeech": "",
+                    "beginplay": 41.5,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello, David, how are you?",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 49.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Fine, thank you. And you?",
+                    "frenchspeech": "",
+                    "beginplay": 49.5,
+                    "endplay": 52.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm very well. Let* me introduce Andrew Williams. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 52.2,
+                    "endplay": 57.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How do you do?",
+                    "frenchspeech": "",
+                    "beginplay": 57.5,
+                    "endplay": 59.5
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "Pleased to meet* you.",
+                    "frenchspeech": "",
+                    "beginplay": 59.5,
+                    "endplay": 61.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Terrible weather, isn't it?",
+                    "frenchspeech": "",
+                    "beginplay": 61.5,
+                    "endplay": 63.5
+                },
+                     {
+                    "alterSpeech": true,
+                    "speech": "Yes, but it's getting* warmer now. (N.2)",
+                    "frenchspeech": "",
+                    "beginplay": 63.5,
+                    "endplay": 67.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I hope we will have some sun soon.",
+                    "frenchspeech": "",
+                    "beginplay": 67.2,
+                    "endplay": 70.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, I must be off or I'll be late. Give* my regards to your wife. Good-bye. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 70.5,
+                    "endplay": 79.5
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I will. Take* care of yourself. Good-bye.",
+                    "frenchspeech": "",
+                    "beginplay": 79.5,
+                    "endplay": 85
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

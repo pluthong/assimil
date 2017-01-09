@@ -1,0 +1,204 @@
+﻿{
+    "age": 23,
+    "haveIntro": true,
+    "introduction": "Can I help you? (N.1)",
+    "idfile": "lesson_023",
+    "page_number_descr_left": "45 forty-five (forté faïv)",
+    "page_number_descr_right": "forty-six (forté siks') 46",
+    "page_info_english": { "description_lang": "Twenty-third (23rd) Lesson", "description_audio_begin": 0, "description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Vingt-troisième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_23.jpg",
+    "audioUrl": "../../audio/audio_lesson_23.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "(Mummy) - can I have some sweets? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 10
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You can, but you may not. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 10,
+                    "endplay": 13.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh! Mummy, may I have some sweets?",
+                    "frenchspeech": "",
+                    "beginplay": 13.5,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Of course, dear, help yourself. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 20,
+                    "endplay": 23
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Can I help you?",
+                    "frenchspeech": "",
+                    "beginplay": 23.5,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes please. I want a map of London.",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you like this one? It's very detailed.",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 36.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, that's fine. How much is it? (4)",
+                    "frenchspeech": "",
+                    "beginplay": 36.7,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, it costs twenty pence, but you can have it for fifteen pence.",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where can I find a telephone?",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 54.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You can find one at the end of the street.",
+                    "frenchspeech": "",
+                    "beginplay": 54.4,
+                    "endplay": 60
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "may I ask you something?",
+                    "frenchspeech": "",
+                    "beginplay": 60.5,
+                    "endplay": 63.8
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Of course. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 63.8,
+                    "endplay": 65.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Can you tell me the time? My watch doesn't work.",
+                    "frenchspeech": "",
+                    "beginplay": 66,
+                    "endplay": 71.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "certainly, it's exactly two o'clock.",
+                    "frenchspeech": "",
+                    "beginplay": 71.3,
+                    "endplay": 77
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

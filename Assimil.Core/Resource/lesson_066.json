@@ -1,0 +1,200 @@
+﻿{
+    "age": 66,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_066",
+    "page_number_descr_left": "131 one hundred and thirty-one",
+    "page_number_descr_right": "one hundred and thirty-two 132",
+    "page_info_english": { "description_lang": "Sixty-sixth (66th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Soixante-sixième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_66.jpg",
+    "audioUrl": "../../audio/audio_lesson_66.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Learn this page as usual, then answer the questions with the help of the preceding lessons.",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 12.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What is the popular name for the Underground?",
+                    "frenchspeech": "",
+                    "beginplay": 12.5,
+                    "endplay": 18
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where else can you find* an underground railway system? what is it called?",
+                    "frenchspeech": "",
+                    "beginplay": 18,
+                    "endplay": 26
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Is the Tube expensive? Why is it dearer than the Parisian Metro?",
+                    "frenchspeech": "",
+                    "beginplay": 26,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Why must you keep* your ticket until you reach the exit? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What are London buses called? Can you smoke on a London bus? Where?",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Who collects the fares? Who drives* the bus?",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 56.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What are Hackney Cabs? What colour are they?",
+                    "frenchspeech": "",
+                    "beginplay": 56.8,
+                    "endplay": 63.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How do you know* if a cab is free?",
+                    "frenchspeech": "",
+                    "beginplay": 63.5,
+                    "endplay": 69
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Which is the best way to travel around London? (2)",
+                    "frenchspeech": "",
+                    "beginplay": 69,
+                    "endplay": 74
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Fares please.",
+                    "frenchspeech": "",
+                    "beginplay": 74,
+                    "endplay": 78
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Hyde Park, please",
+                    "frenchspeech": "",
+                    "beginplay": 78,
+                    "endplay": 80
+                },
+                      {
+                    "alterSpeech": false,
+                    "speech": "that's twelve pence. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 80,
+                    "endplay": 83
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't know London. Will you tell* me where I must get* off?",
+                    "frenchspeech": "",
+                    "beginplay": 83,
+                    "endplay": 90.5
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Of course, Oh, if you want to smoke, you must go* upstairs.",
+                    "frenchspeech": "",
+                    "beginplay": 90.5,
+                    "endplay": 98
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

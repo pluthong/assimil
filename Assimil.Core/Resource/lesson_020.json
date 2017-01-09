@@ -1,0 +1,211 @@
+﻿{
+    "age": 20,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_020",
+    "page_number_descr_left": "39 thirty-nine (feûrté naïn')",
+    "page_number_descr_right": "forty (forté) 40",
+    "page_info_english": { "description_lang": "Twentieth (20th) Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Vingtième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_20.jpg",
+    "audioUrl": "../../audio/audio_lesson_20.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you got any cigarettes?",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 5.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, What kind do you want? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 5.8,
+                    "endplay": 10
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, Turkish ones please.",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 14.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Here you are, sir. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 16.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Thank you. How much is that?",
+                    "frenchspeech": "",
+                    "beginplay": 16.5,
+                    "endplay": 21.5
+                },
+                    {
+                    "alterSpeech": true,
+                    "speech": "Fifty pence, please. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 21.8,
+                    "endplay": 25
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                 {
+                    "alterSpeech": false,
+                    "speech": "My son's a doctor of philosophy.",
+                    "frenchspeech": "",
+                    "beginplay": 26,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": true,
+                    "speech": "Oh good. What kind of illness is 'philosophy'?",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 37.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A bargain (4)",
+                    "frenchspeech": "",
+                    "beginplay": 38,
+                    "endplay": 41.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you want a carper, sir? Here are some beautiful carpets.",
+                    "frenchspeech": "",
+                    "beginplay": 41.5,
+                    "endplay": 48.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How much is that little one?",
+                    "frenchspeech": "",
+                    "beginplay": 48.8,
+                    "endplay": 52.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It is a real Oriental carpet sir. It is magnificent. It costs fifty pounds.",
+                    "frenchspeech": "",
+                    "beginplay": 52.5,
+                    "endplay": 62.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Ridiculous That's much too dear.",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 66.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, make me an offer.",
+                    "frenchspeech": "",
+                    "beginplay": 66.5,
+                    "endplay": 70.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Fifty pence; and not one penny more.",
+                    "frenchspeech": "",
+                    "beginplay": 70.5,
+                    "endplay": 75.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What? Fifty pence for this real Turkish carpet? Well, take it sir, it's yours.",
+                    "frenchspeech": "",
+                    "beginplay": 75.5,
+                    "endplay": 87.5
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

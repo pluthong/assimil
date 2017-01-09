@@ -1,0 +1,153 @@
+﻿{
+    "age": 10,
+    "haveIntro": true,
+    "introduction": "On the telephone",
+    "idfile": "lesson_010",
+    "page_number_descr_left": "19 nineteen (naïn'tin')",
+    "page_number_descr_right": "twenty (touèn'té) 20",
+    "page_info_english": { "description_lang": "Tenth (10th) Lesson","description_audio_begin": 0,"description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Dixième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_10.jpg",
+    "audioUrl": "../../audio/audio_lesson_10.mp3",
+    "numSentences": 11,
+     "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello. Who is this? Oh, good morning sir.",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 12.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, he's not here. Have you got his office number?",
+                    "frenchspeech": "",
+                    "beginplay": 12.8,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Wait a minute. Ah, it's four-two-six-eight. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 20.5,
+                    "endplay": 29
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Ask for extension thirty-five. It's a pleasure. Good-bye. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 29,
+                    "endplay": 37
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello. Who? No, I'm sorry.",
+                    "frenchspeech": "",
+                    "beginplay": 38,
+                    "endplay": 45.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You've got the wrong number. That's alright. Good-bye",
+                    "frenchspeech": "",
+                    "beginplay": 45.6,
+                    "endplay": 53
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you got a minute? This sentence is very strange: I'm fed up. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 53.5,
+                    "endplay": 65
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's an idiom, it means I'am bored. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 65.5,
+                    "endplay": 71
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Thank you, that's very kind of you.",
+                    "frenchspeech": "",
+                    "beginplay": 71.5,
+                    "endplay": 75.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Don't mention it.",
+                    "frenchspeech": "",
+                    "beginplay": 75.5,
+                    "endplay": 78
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

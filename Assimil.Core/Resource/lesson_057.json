@@ -1,0 +1,197 @@
+﻿{
+    "age": 57,
+    "haveIntro": true,
+    "introduction": "A touch of 'flu",
+    "idfile": "lesson_57",
+    "page_number_descr_left": "113 one hundred and thirteen",
+    "page_number_descr_right": "one hundred and fourteen 114",
+    "page_info_english": { "description_lang": "Fifty-seventh (57th) Lesson", "description_audio_begin": 0, "description_audio_end": 5 },
+    "page_info_french": { "description_lang": "Cinquante-septième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_57.jpg",
+    "audioUrl": "../../audio/audio_lesson_57.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David woke* up with a headache and a sore throat. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 10.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He called Joan and told* her he felt* ill.",
+                    "frenchspeech": "",
+                    "beginplay": 10.7,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She took* his temperature and saw* it was 102° (one hundred and two degrees) so she called the doctor. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 25.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David was sleeping* when the doctor arrived. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 25.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello. What's the matter with you?",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 33.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He felt* David's forehead and listened to his chest. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 33.5,
+                    "endplay": 39.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then he said*: It's a touch of 'flu, nothing serious. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 45
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Take* these tablets and keep* warm. You'll soon be on your feet.",
+                    "frenchspeech": "",
+                    "beginplay": 45,
+                    "endplay": 50.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That doctor put* me on my feet very quickly.",
+                    "frenchspeech": "",
+                    "beginplay": 50.3,
+                    "endplay": 55.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, how did he do that?",
+                    "frenchspeech": "",
+                    "beginplay": 55.2,
+                    "endplay": 57.9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I had to sell* my car to pay the bill! (6) (7)",
+                    "frenchspeech": "",
+                    "beginplay": 57.9,
+                    "endplay": 62
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "On the face, you have the eyes, the nose and the mouth.",
+                    "frenchspeech": "",
+                    "beginplay": 62,
+                    "endplay": 70
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "My head aches and my hands are cold.",
+                    "frenchspeech": "",
+                    "beginplay": 70,
+                    "endplay": 76.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I think* I have a touch of 'flu or a cold.",
+                    "frenchspeech": "",
+                    "beginplay": 76.5,
+                    "endplay": 81
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

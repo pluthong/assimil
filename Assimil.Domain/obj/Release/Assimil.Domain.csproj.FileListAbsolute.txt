@@ -1,0 +1,7 @@
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\bin\Release\Assimil.Domain.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\bin\Release\Assimil.Domain.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\bin\Release\Newtonsoft.Json.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\bin\Release\Newtonsoft.Json.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\obj\Release\Assimil.Domain.csprojResolveAssemblyReference.cache
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\obj\Release\Assimil.Domain.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\obj\Release\Assimil.Domain.pdb

@@ -1,0 +1,186 @@
+﻿{
+    "age": 89,
+    "haveIntro": true,
+    "introduction": "About Wales",
+    "idfile": "lesson_089",
+    "page_number_descr_left": "163 one hundred and sixty-three",
+    "page_number_descr_right": "one hundred and sixty-four 164",
+    "page_info_english": { "description_lang": "Eighty-ninth (89th) Lesson", "description_audio_begin": 0, "description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Quatre-vingt-neuvième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_89.jpg",
+    "audioUrl": "../../audio/audio_lesson_89.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Wales, unlike Scotland, is politically united to England.",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The whole of Wales is mountainous and there is much breath-taking scenery. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 18.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The main industry is coal-mining and the majority of the Welsh live around the industrial towns.",
+                    "frenchspeech": "",
+                    "beginplay": 18.5,
+                    "endplay": 27.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These are in the South.",
+                    "frenchspeech": "",
+                    "beginplay": 27.5,
+                    "endplay": 30.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The Welsh language - a Celtic language - survives more than in Scotland, but it is difficult to speak.",
+                    "frenchspeech": "",
+                    "beginplay": 30.5,
+                    "endplay": 39.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The Welsh have a deep love of poetry and music, and the international festival is famous throughout the world. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 48
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Wales has contributed much to the language and politics of England. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 48,
+                    "endplay": 55.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The son and heir of the monarch is given* the title: \" The Prince of Wales \", but this has no political significance. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 68
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Now answer these questions:",
+                    "frenchspeech": "",
+                    "beginplay": 68,
+                    "endplay": 72.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does the Welsh language still exist?",
+                    "frenchspeech": "",
+                    "beginplay": 72.5,
+                    "endplay": 77
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What is the main industry in Wales?",
+                    "frenchspeech": "",
+                    "beginplay": 77,
+                    "endplay": 81.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What is the scenery like?",
+                    "frenchspeech": "",
+                    "beginplay": 81.5,
+                    "endplay": 85.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Who is the Prince of Wales?",
+                    "frenchspeech": "",
+                    "beginplay": 85.5,
+                    "endplay": 90
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

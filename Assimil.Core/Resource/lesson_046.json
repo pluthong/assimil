@@ -1,0 +1,186 @@
+﻿{
+    "age": 46,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_046",
+    "page_number_descr_left": "91 ninety-one (naïnté oueune)",
+    "page_number_descr_right": "ninety-two (naïnté tou) 92",
+    "page_info_english": { "description_lang": "Forty-sixth (46th) Lesson", "description_audio_begin": 0, "description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Quarante-sixième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_46.jpg",
+    "audioUrl": "../../audio/audio_lesson_46.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Read this lesson as usual then answer the questions about the preceding one.",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What are David and Joan doing?",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 14
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "where does David want to go next week-end?",
+                    "frenchspeech": "",
+                    "beginplay": 14,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does he want to go to Birmingham?",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 23.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does he want to drive to Brighton? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 23.3,
+                    "endplay": 27
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Who is arriving next weekend?",
+                    "frenchspeech": "",
+                    "beginplay": 27,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How often does she come? (2) (N.3)",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 34.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "what will they do?",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 37.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you think they will go by train?",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 41
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Will the weather be fine?",
+                    "frenchspeech": "",
+                    "beginplay": 41,
+                    "endplay": 46
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where will David meet his mother-in-law?",
+                    "frenchspeech": "",
+                    "beginplay": 46,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When do people take their holidays?",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 54
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The four seasons are: spring, summer, autumn, winter.",
+                    "frenchspeech": "",
+                    "beginplay": 54,
+                    "endplay": 66
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

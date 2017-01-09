@@ -1,0 +1,204 @@
+﻿{
+    "age": 67,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_067",
+    "page_number_descr_left": "133 one hundred and thirty-three",
+    "page_number_descr_right": "one hundred and thirty-four 134",
+    "page_info_english": { "description_lang": "Sixty-seventh (67th) Lesson", "description_audio_begin": 0, "description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Soixante-septième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_67.jpg",
+    "audioUrl": "../../audio/audio_lesson_67.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We took* my cousin to see* a cricket match last month.",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But he fell* asleep during the game. (1) (N.1)",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 11.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He slept* peacefully for two hours until a ball hit* him on the head and woke* him up. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 11.8,
+                    "endplay": 21
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello, it's nice to see* you again. How are you?",
+                    "frenchspeech": "",
+                    "beginplay": 21,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Very well. I'm going to stay with you for a few days. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Ah, well, I'm leaving* tomorrow and my wife left* two hours ago.",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 37.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Oh well, goodbye. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 40
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mrs Higgins put* \" Rest in Peace \" on the tombstone of her husband's grave.",
+                    "frenchspeech": "",
+                    "beginplay": 40,
+                    "endplay": 50
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then the solicitor told* her that there was nothing for her in her husband's will.",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 57.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "So she told* the mason to add the words: \" until I come* \". ",
+                    "frenchspeech": "",
+                    "beginplay": 57.2,
+                    "endplay": 62
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "During the week,try to read* this book for at least half an hour every day, (5)",
+                    "frenchspeech": "",
+                    "beginplay": 62,
+                    "endplay": 69
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and for a little longer at the weekend.",
+                    "frenchspeech": "",
+                    "beginplay": 69,
+                    "endplay": 72.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This everyday contact will make* you feel* at home with English",
+                    "frenchspeech": "",
+                    "beginplay": 72.5,
+                    "endplay": 77.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and help you to build* a wide vocabulary, but remember: (6)",
+                    "frenchspeech": "",
+                    "beginplay": 77.8,
+                    "endplay": 82.3
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Read* some English every day.",
+                    "frenchspeech": "",
+                    "beginplay": 82.3,
+                    "endplay": 87
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

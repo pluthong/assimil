@@ -1,0 +1,186 @@
+﻿{
+    "age": 87,
+    "haveIntro": true,
+    "introduction": "A talkative neighbour",
+    "idfile": "lesson_087",
+    "page_number_descr_left": "159 one hundred and fifty-nine",
+    "page_number_descr_right": "one hundred and sixty 160",
+    "page_info_english": { "description_lang": "Eighty-seventh (87th) Lesson", "description_audio_begin": 0, "description_audio_end": 5.3 },
+    "page_info_french": { "description_lang": "Quatre-vingt-septième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_87.jpg",
+    "audioUrl": "../../audio/audio_lesson_87.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I must tell* you about my holiday!",
+                    "frenchspeech": "",
+                    "beginplay": 5.3,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Eventually, we had to go* to France. We couldn't get* a hotel anywhere in Spain. (1) (2)",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 18.7
+                }
+            ]
+        },
+               {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you ever been to France? No? You should go* there some day, it's fascinating.",
+                    "frenchspeech": "",
+                    "beginplay": 18.7,
+                    "endplay": 28
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We couldn't get* a charter, so we had to take* a normal flight, which was expensive,",
+                    "frenchspeech": "",
+                    "beginplay": 28,
+                    "endplay": 36.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "but it was worth it; it was much more comfortable. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 41.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I should start planning my holidays soon. We have been talking (N. 1) about them for ages.",
+                    "frenchspeech": "",
+                    "beginplay": 41.5,
+                    "endplay": 48
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Anyway, we flew* to Nice and spent* ten days in the South of France.",
+                    "frenchspeech": "",
+                    "beginplay": 48,
+                    "endplay": 55.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When we couldn't find* a hotel, we stayed in what they call \" pensions \".",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 62.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They're like Bed and Breakfasts in London, but dearer.",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 67.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then we flew* up to Paris. You must know* Paris?",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 72.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, actually I've been there a few times... (4)",
+                    "frenchspeech": "",
+                    "beginplay": 72.5,
+                    "endplay": 75.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, you should go* back. It's an exciting city and it...",
+                    "frenchspeech": "",
+                    "beginplay": 75.3,
+                    "endplay": 79.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I really must go now, Joan will be waiting for me. Thanks for the chat.",
+                    "frenchspeech": "",
+                    "beginplay": 79.3,
+                    "endplay": 85
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

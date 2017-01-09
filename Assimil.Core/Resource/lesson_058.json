@@ -1,0 +1,186 @@
+﻿{
+    "age": 58,
+    "haveIntro": true,
+    "introduction": "Your body",
+    "idfile": "lesson_58",
+    "page_number_descr_left": "115 one hundred and fifteen",
+    "page_number_descr_right": "one hundred and sixteen 116",
+    "page_info_english": { "description_lang": "Fifty-eighth (58th) Lesson", "description_audio_begin": 0, "description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Cinquante-huitième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_58.jpg",
+    "audioUrl": "../../audio/audio_lesson_58.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are many words in English which include parts of the body.",
+                    "frenchspeech": "",
+                    "beginplay": 4,
+                    "endplay": 9.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "For instance: When I have the 'flu, I keep* a supply of paper handkerchiefs. (1) (2)",
+                    "frenchspeech": "",
+                    "beginplay": 9.5,
+                    "endplay": 18
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You look very busy. Can I give* you a hand?",
+                    "frenchspeech": "",
+                    "beginplay": 18,
+                    "endplay": 23
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mr. Marsden is head of the board of directors. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 23,
+                    "endplay": 28
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He is too nosy. He is interested in anything that doesn't concern him. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 28,
+                    "endplay": 36.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Teacher - Is \" trousers \" singular or plural? (5)",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 41.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Pupil - Please sir, singular at the top and plural at the bottom.",
+                    "frenchspeech": "",
+                    "beginplay": 41.5,
+                    "endplay": 48.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That was a cheeky answer.",
+                    "frenchspeech": "",
+                    "beginplay": 48.2,
+                    "endplay": 51
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The two runners were very close, they were almost neck and neck.",
+                    "frenchspeech": "",
+                    "beginplay": 51,
+                    "endplay": 57
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When you are driving*, always keep* the spare wheel handy. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 57,
+                    "endplay": 64.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And, of course, when you are drinking* your beer, you can say* \" Chin chin \"! (7)",
+                    "frenchspeech": "",
+                    "beginplay": 64.5,
+                    "endplay": 71.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Other parts of the body are the arms, the elbows and the fingers.",
+                    "frenchspeech": "",
+                    "beginplay": 71.2,
+                    "endplay": 78.5
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Lower, we have the legs, the knees, the feet and the toes. (8)",
+                    "frenchspeech": "",
+                    "beginplay": 78.5,
+                    "endplay": 85
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

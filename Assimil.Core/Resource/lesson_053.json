@@ -1,0 +1,235 @@
+﻿{
+    "age": 53,
+    "haveIntro": true,
+    "introduction": "Difficult to please",
+    "idfile": "lesson_53",
+    "page_number_descr_left": "105 one hundred and five",
+    "page_number_descr_right": "one hundred and six 106",
+    "page_info_english": { "description_lang": "Fifty-third (53rd) Lesson", "description_audio_begin": 0, "description_audio_end": 5 },
+    "page_info_french": { "description_lang": "Cinquante-troisième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_53.jpg",
+    "audioUrl": "../../audio/audio_lesson_53.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A man is trying to entertain his guest in a club. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Would you like a Scocth?",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 13
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, thank you. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 13,
+                    "endplay": 14.9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I tried it once and didn't like it. I never tried it again.",
+                    "frenchspeech": "",
+                    "beginplay": 14.9,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, have some beer.",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 23
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, thank you.",
+                    "frenchspeech": "",
+                    "beginplay": 23,
+                    "endplay": 24.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I tried some once and didn't like it.",
+                    "frenchspeech": "",
+                    "beginplay": 24.8,
+                    "endplay": 28
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I never drank it again.",
+                    "frenchspeech": "",
+                    "beginplay": 28,
+                    "endplay": 30
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How about a game of billiards?",
+                    "frenchspeech": "",
+                    "beginplay": 30,
+                    "endplay": 34.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, thank you. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I played it once and didn't like it. I never tried it again.",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 41.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, a game of chess?",
+                    "frenchspeech": "",
+                    "beginplay": 41.7,
+                    "endplay": 45.2
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Again, no thank you.",
+                    "frenchspeech": "",
+                    "beginplay": 45.2,
+                    "endplay": 47.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I played it once and didn't like it.",
+                    "frenchspeech": "",
+                    "beginplay": 47.2,
+                    "endplay": 49.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But here is my son. He's an excellent player.",
+                    "frenchspeech": "",
+                    "beginplay": 49.7,
+                    "endplay": 53.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Your only son, I presume?",
+                    "frenchspeech": "",
+                    "beginplay": 53.5,
+                    "endplay": 57
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What did you do in America?",
+                    "frenchspeech": "",
+                    "beginplay": 57,
+                    "endplay": 61.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "We rented a car and visited the West Coast. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 61.5,
+                    "endplay": 65.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Did you see the Grand Canyon?",
+                    "frenchspeech": "",
+                    "beginplay": 65.5,
+                    "endplay": 67.6
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, we didn't have time. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 67.6,
+                    "endplay": 72
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

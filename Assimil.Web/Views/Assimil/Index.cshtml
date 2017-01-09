@@ -1,0 +1,83 @@
+﻿@{
+    Layout = null;
+    ViewBag.Title = "Anglais facile";
+}
+
+
+<div ng-controller="AssimilCtrl">
+
+
+    <h3>English Lesson</h3>
+
+    <hr />
+
+
+
+    @*<div ng-show="loading">Loading...</div>*@
+
+    <div ng-hide="loading">
+
+        <div class="text-right">
+            <ul class="pagination">
+                <li>
+                    <span>
+                        Show
+                        <select ng-model="selectpageSize" ng-change="selectPage()" ng-options="i.pageSize for i in pageSizes"></select>
+                        chapter for page
+                    </span>
+                </li>
+                <li><span class="classBold">  {{prev}} - {{succ}} di {{totalItems}}</span></li>
+                <li ng-class="{disabled: currentPage == 0}">
+                    <a href="#content" data-toggle="tooltip" data-placement="top" title="Nuovi" ng-click="prevPage()"><span class="glyphicon glyphicon-chevron-left"></span></a>
+                </li>
+                <li ng-class="{disabled: currentPage == numTotalOfPage - 1}">
+                    <a href="#content" data-toggle="tooltip" data-placement="top" title="Vecchi" ng-click="nextPage()"><span class="glyphicon glyphicon-chevron-right"></span></a>
+                </li>
+            </ul>
+        </div>
+
+        <table class="table track-list">
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Lesson</th>
+                    <th>Revision</th>
+                    <th></th>
+                    <th><img src="~/img/index.png" /></th>
+                    <th>Operazioni</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="track-list-row idle" ng-repeat="lesson in assimils">
+                    <td class="playback-icon-cell">
+                        <div class="track-number has-preview">{{lesson.Age}}</div>
+                        <div class="id-album-child playback-button idle" data-track-docid="{{lesson.AudioUrl}}"></div>
+                    </td>
+                    <td>{{lesson.Description}}</td>
+                    <td>{{lesson.IsRevision}}</td>
+                    <td><img width="30%" height="30%" ng-src="{{lesson.ImageUrl}}" /></td>
+                    <td>
+                        <tps-audio-duration data-track-docid="{{lesson.AudioUrl}}" />
+                    </td>
+                    <td align="left">
+                        <a href="@Url.Action("Index", "Lesson")/?id={{lesson.Age}}&amp;title={{lesson.Description}}" data-toggle="tooltip" data-placement="right" title="immagini"> Go to {{lesson.Description}}</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="text-right">
+            <ul class="pagination">
+                <li><span class="classBold">  {{prev}} - {{succ}} di {{totalItems}}</span></li>
+                <li ng-class="{disabled: currentPage == 0}">
+                    <a href="#content" data-toggle="tooltip" data-placement="bottom" title="Nuovi" ng-click="prevPage()"><span class="glyphicon glyphicon-chevron-left"></span></a>
+                </li>
+                <li ng-class="{disabled: currentPage == numTotalOfPage - 1}">
+                    <a href="#content" data-toggle="tooltip" data-placement="bottom" title="Vecchi" ng-click="nextPage()"><span class="glyphicon glyphicon-chevron-right"></span></a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+</div>

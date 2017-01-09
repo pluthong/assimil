@@ -1,0 +1,204 @@
+﻿{
+    "age": 64,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_064",
+    "page_number_descr_left": "127 one hundred and twenty-seven",
+    "page_number_descr_right": "one hundred and twenty-eight 128",
+    "page_info_english": { "description_lang": "Sixty-fourth (64th) Lesson", "description_audio_begin": 0, "description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Soixante-quatrième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_64.jpg",
+    "audioUrl": "../../audio/audio_lesson_64.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When France and England decided to build* a tunnel under the Channel, they asked for tenders.",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The firm with the lowest offer was accepted. Astonished by the low price, they asked the director:",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How are you going to do it for so little money? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 25
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's easy, the engineer said, I will start digging* on the English side. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 25,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And my son will start digging* on the French side.",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 34.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And we'll meet* in the middle.",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 37
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But that's ridiculous! You'll be miles apart.",
+                    "frenchspeech": "",
+                    "beginplay": 37,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What will happen if you don't meet*?",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In that case, the engineer said* calmly, you will have two tunnels for the price of one.",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 55
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A tourist in Cairo saw* two skulls in a Shop: a large one and a small one.",
+                    "frenchspeech": "",
+                    "beginplay": 55,
+                    "endplay": 64.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What are those? he asked.",
+                    "frenchspeech": "",
+                    "beginplay": 64.5,
+                    "endplay": 69.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "The big one is the skull of Queen Cleopatra, was the reply.",
+                    "frenchspeech": "",
+                    "beginplay": 69.5,
+                    "endplay": 76.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Really, said* the amazed tourist, and the little one?",
+                    "frenchspeech": "",
+                    "beginplay": 76.5,
+                    "endplay": 83.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That is the skull of Cleopatra when she was a young girl, answered the shopkeeper.",
+                    "frenchspeech": "",
+                    "beginplay": 83.5,
+                    "endplay": 91.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Don't forget* to repeat the irregular verbs.",
+                    "frenchspeech": "",
+                    "beginplay": 91.5,
+                    "endplay": 97
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

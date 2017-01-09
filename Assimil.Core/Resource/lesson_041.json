@@ -1,0 +1,222 @@
+﻿{
+    "age": 41,
+    "haveIntro": true,
+    "introduction": "Success",
+    "idfile": "lesson_041",
+    "page_number_descr_left": "81 eighty-one (éeté oueune)",
+    "page_number_descr_right": "eighty-two (éeté tou) 82",
+    "page_info_english": { "description_lang": "Forty-first (41st) Lesson","description_audio_begin": 0,"description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Quarante et unième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_41.jpg",
+    "audioUrl": "../../audio/audio_lesson_41.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Peter and Dave are fishing: ",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 8.5
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "pete. I've got a bite!",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Dave. Is it a trout?",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 12.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Pete. Ow, no! It's a wasp!",
+                    "frenchspeech": "",
+                    "beginplay": 12.8,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Innocence",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Little girl. Please drink your tea, Mr Williams. I want to watch you. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 25.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mr Williams. Of course my dear. But why?",
+                    "frenchspeech": "",
+                    "beginplay": 25.5,
+                    "endplay": 29.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Little girl. Because Mummy says you drink like a fish!",
+                    "frenchspeech": "",
+                    "beginplay": 29.8,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A Scottish prayer",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 39.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Heavenly Father, bless us and keep us all alive. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 44.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are eight of us for dinner.",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 46.9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And there's only enough for five.",
+                    "frenchspeech": "",
+                    "beginplay": 46.9,
+                    "endplay": 50
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What is the longest word in English?",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 54.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I don't know.",
+                    "frenchspeech": "",
+                    "beginplay": 54.5,
+                    "endplay": 56.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": " \" Smiles \", because there is a mile between the first and the last letter.",
+                    "frenchspeech": "",
+                    "beginplay": 56.5,
+                    "endplay": 63
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Keep quiet in the library. People are reading.",
+                    "frenchspeech": "",
+                    "beginplay": 63,
+                    "endplay": 70
+                }
+            ]
+        },
+          {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't want this old pullover. You can keep it.",
+                    "frenchspeech": "",
+                    "beginplay": 70,
+                    "endplay": 77
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

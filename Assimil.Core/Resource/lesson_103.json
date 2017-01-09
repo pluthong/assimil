@@ -1,0 +1,193 @@
+﻿{
+    "age": 103,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_103",
+    "page_number_descr_left": "191 one hundred and ninety-one",
+    "page_number_descr_right": "one hundred and ninety-two 192",
+    "page_info_english": { "description_lang": "Hundred and third (103rd) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Cent-troisième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_103.jpg",
+    "audioUrl": "../../audio/audio_lesson_103.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A Scotsman who was driving* home one night ran* into a car driven* by an Englishman. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The Scot got* out of the car to apologise and offered the Englishman a drink from a bottle of whisky.",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The Englishman was glad to have a drink. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 22.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Go on, said the Scot, have another drink.",
+                    "frenchspeech": "",
+                    "beginplay": 22.2,
+                    "endplay": 27.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The Englishman drank* gratefully.",
+                    "frenchspeech": "",
+                    "beginplay": 27.5,
+                    "endplay": 30
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "But don't you want one? he asked the Scot. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 30,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Perhaps, the other replied, when the police have gone.",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 42
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The park-keeper walked up to a tramp who was sleeping* on a bench in Green Park.",
+                    "frenchspeech": "",
+                    "beginplay": 42,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hey! you! he shouted, I'm going to shut* the park gates! (4)",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 60.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Alright; replied the tramp, try not to slam them. (5) (N. 3) (N. 4)",
+                    "frenchspeech": "",
+                    "beginplay": 60.5,
+                    "endplay": 67
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When mrs David told* her husband that guests were coming* to dinner that night,",
+                    "frenchspeech": "",
+                    "beginplay": 67,
+                    "endplay": 74
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "he went* out into the hall and hid* all the umbrellas.",
+                    "frenchspeech": "",
+                    "beginplay": 74,
+                    "endplay": 78.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What's the matter? asked his wife, are you afraid someone will steal* them?",
+                    "frenchspeech": "",
+                    "beginplay": 78.7,
+                    "endplay": 86
+                }
+            ]
+        },
+          {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's not that, replied her husband, but I'm afraid someone might recognise them.",
+                    "frenchspeech": "",
+                    "beginplay": 86,
+                    "endplay": 94
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

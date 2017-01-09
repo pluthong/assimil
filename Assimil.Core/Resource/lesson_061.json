@@ -1,0 +1,204 @@
+﻿{
+    "age": 61,
+    "haveIntro": true,
+    "introduction": "Holidays",
+    "idfile": "lesson_61",
+    "page_number_descr_left": "121 one hundred and twenty-one",
+    "page_number_descr_right": "one hundred and twenty-two 122",
+    "page_info_english": { "description_lang": "Sixty-first (61st) Lesson", "description_audio_begin": 0, "description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Soixante et unième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_61.jpg",
+    "audioUrl": "../../audio/audio_lesson_61.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I got* these brochures yesterday from the travel agent's. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 9.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh good! Let's have a look at them!",
+                    "frenchspeech": "",
+                    "beginplay": 9.8,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I like the ones about Spain. Let's go* to Spain this year.",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 20.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But neither you nor I speak* Spanish. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 20.5,
+                    "endplay": 24.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It doesn't matter. In these towns, everybody speaks* English.",
+                    "frenchspeech": "",
+                    "beginplay": 24.8,
+                    "endplay": 32
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, we can either go* to Spain or to Scotland. (N.2)",
+                    "frenchspeech": "",
+                    "beginplay": 32,
+                    "endplay": 38.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Scotland! But it's cold in Scotland and I want some sun.",
+                    "frenchspeech": "",
+                    "beginplay": 38.5,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's not too cold, and it's very beautiful. and you don't have to take* a plane. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 54.4
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't like flying and neither do you.",
+                    "frenchspeech": "",
+                    "beginplay": 54.4,
+                    "endplay": 60
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But Spanish is easier to understand* than the English they speak in Scotland.",
+                    "frenchspeech": "",
+                    "beginplay": 60,
+                    "endplay": 66.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Nonsense! Anyway, we might see* the LochNess Monster. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 66.5,
+                    "endplay": 73
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "it doesn't exist!",
+                    "frenchspeech": "",
+                    "beginplay": 73,
+                    "endplay": 75.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "How do you know*?",
+                    "frenchspeech": "",
+                    "beginplay": 75.5,
+                    "endplay": 77.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's either a myth or an invention to attract tourists.",
+                    "frenchspeech": "",
+                    "beginplay": 77.5,
+                    "endplay": 83
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, we must decide: either Spain or Scotland.",
+                    "frenchspeech": "",
+                    "beginplay": 83,
+                    "endplay": 91
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

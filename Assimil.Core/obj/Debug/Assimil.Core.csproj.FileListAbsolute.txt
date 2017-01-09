@@ -1,0 +1,27 @@
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\bin\Debug\Assimil.Core.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\bin\Debug\Assimil.Core.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\bin\Debug\Assimil.Domain.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\bin\Debug\Newtonsoft.Json.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\bin\Debug\Assimil.Domain.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\bin\Debug\Newtonsoft.Json.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\obj\Debug\Assimil.Core.csprojResolveAssemblyReference.cache
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\obj\Debug\Assimil.Core.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Core\obj\Debug\Assimil.Core.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\bin\Debug\Assimil.Core.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\bin\Debug\Assimil.Core.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\bin\Debug\Assimil.Domain.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\bin\Debug\Assimil.Domain.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\obj\Debug\Assimil.Core.csprojResolveAssemblyReference.cache
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\obj\Debug\Assimil.Core.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Core\obj\Debug\Assimil.Core.pdb
+C:\Projects\Assimil\Assimil.Core\bin\Debug\Assimil.Core.dll
+C:\Projects\Assimil\Assimil.Core\bin\Debug\Assimil.Core.pdb
+C:\Projects\Assimil\Assimil.Core\bin\Debug\Assimil.Domain.dll
+C:\Projects\Assimil\Assimil.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Assimil\Assimil.Core\bin\Debug\Assimil.Domain.pdb
+C:\Projects\Assimil\Assimil.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Assimil\Assimil.Core\obj\Debug\Assimil.Core.csprojResolveAssemblyReference.cache
+C:\Projects\Assimil\Assimil.Core\obj\Debug\Assimil.Core.dll
+C:\Projects\Assimil\Assimil.Core\obj\Debug\Assimil.Core.pdb

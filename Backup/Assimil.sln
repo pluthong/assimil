@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assimil.Core", "Assimil.Core\Assimil.Core.csproj", "{EC47144B-F812-42C2-A3A5-1E3C333B249A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assimil.Domain", "Assimil.Domain\Assimil.Domain.csproj", "{DD7391D6-BD73-40D5-A5A1-0BCA3313418C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assimil.Web", "Assimil.Web\Assimil.Web.csproj", "{F3E5E45B-B442-4530-9D10-51DE43AD63FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC47144B-F812-42C2-A3A5-1E3C333B249A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC47144B-F812-42C2-A3A5-1E3C333B249A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC47144B-F812-42C2-A3A5-1E3C333B249A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC47144B-F812-42C2-A3A5-1E3C333B249A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7391D6-BD73-40D5-A5A1-0BCA3313418C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7391D6-BD73-40D5-A5A1-0BCA3313418C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7391D6-BD73-40D5-A5A1-0BCA3313418C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7391D6-BD73-40D5-A5A1-0BCA3313418C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E5E45B-B442-4530-9D10-51DE43AD63FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E5E45B-B442-4530-9D10-51DE43AD63FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E5E45B-B442-4530-9D10-51DE43AD63FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E5E45B-B442-4530-9D10-51DE43AD63FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

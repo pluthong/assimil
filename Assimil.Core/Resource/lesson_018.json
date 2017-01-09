@@ -1,0 +1,186 @@
+﻿{
+    "age": 18,
+    "haveIntro": true,
+    "introduction": "Husband and wife",
+    "idfile": "lesson_018",
+    "page_number_descr_left": "35 thirty-five (feûrté faïv)",
+    "page_number_descr_right": "thirty-six (feûrté siks') 36",
+    "page_info_english": { "description_lang": "Eighteenth (18th) Lesson","description_audio_begin": 0,"description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Dix-huitième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_18.jpg",
+    "audioUrl": "../../audio/audio_lesson_18.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "On the train, David reads his paper.",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He stands because the train is full. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 17.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "People that travel to work every day are called 'commuters'.",
+                    "frenchspeech": "",
+                    "beginplay": 17.5,
+                    "endplay": 24
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The journey takes twenty minutes and he has ten minutes to walk to the office",
+                    "frenchspeech": "",
+                    "beginplay": 24.5,
+                    "endplay": 32.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He hasn't much time, so he walks quickly.",
+                    "frenchspeech": "",
+                    "beginplay": 32.5,
+                    "endplay": 38.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He crosses the City and arrives at his office. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 39,
+                    "endplay": 44.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He takes the lift to the fourth floor.",
+                    "frenchspeech": "",
+                    "beginplay": 44.8,
+                    "endplay": 51.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He goes to his desk and sits down. He is on time. (3) (4)",
+                    "frenchspeech": "",
+                    "beginplay": 51.5,
+                    "endplay": 58.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "His wife Joan washes the dishes and leaves the house at ten to nine. (5) (6)",
+                    "frenchspeech": "",
+                    "beginplay": 58.5,
+                    "endplay": 68.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Her office is quite near, so she always walks.",
+                    "frenchspeech": "",
+                    "beginplay": 68.5,
+                    "endplay": 74.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It takes her eight minutes to arrive at her office.",
+                    "frenchspeech": "",
+                    "beginplay": 75,
+                    "endplay": 80.4
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She is a secretary in an accountants firm.",
+                    "frenchspeech": "",
+                    "beginplay": 80.5,
+                    "endplay": 84.8
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "At nine o'clock, both the Wilsons are working.",
+                    "frenchspeech": "",
+                    "beginplay": 84.8,
+                    "endplay": 91
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

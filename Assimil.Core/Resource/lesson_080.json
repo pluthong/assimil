@@ -1,0 +1,194 @@
+﻿{
+    "age": 80,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_080",
+    "page_number_descr_left": "159 one hundred and fifty-nine",
+    "page_number_descr_right": "one hundred and sixty 160",
+    "page_info_english": { "description_lang": "Eightieth (80th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Quatre-vingtième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_80.jpg",
+    "audioUrl": "../../audio/audio_lesson_80.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "John saw* his neighbour smoking a pipe.",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He took* his own pipe out of his pocket and said*:",
+                    "frenchspeech": "",
+                    "beginplay": 7,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you got* a match?",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 13
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Yes, here you are.",
+                    "frenchspeech": "",
+                    "beginplay": 13,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh dear, said John, I've left* my tobacco at home.",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In that case, said* his neighbour, give* me back my match.",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 28
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "An actor saw* himself on film for the first time. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 28.5,
+                    "endplay": 34
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, said* the critic, now you see* what we have to suffer.",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 42
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Excuse me, sir, I want to marry your daughter.",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 48.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you seen* my wife, young man?",
+                    "frenchspeech": "",
+                    "beginplay": 48.5,
+                    "endplay": 52.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, sir, and I still want to marry your daughter. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 52.5,
+                    "endplay": 57
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A Rolls Royce stopped in front of Harrods and a lady in a fur coat and diamond necklace got* out. (3) (4)",
+                    "frenchspeech": "",
+                    "beginplay": 57.5,
+                    "endplay": 68.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A tramp ran* up to her and said: \" Please, lady, I haven't eaten* for a week. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 68.5,
+                    "endplay": 75.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well you will have to force yourself, was the reply.",
+                    "frenchspeech": "",
+                    "beginplay": 75.8,
+                    "endplay": 83
+                }
+            ]
+        }
+
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

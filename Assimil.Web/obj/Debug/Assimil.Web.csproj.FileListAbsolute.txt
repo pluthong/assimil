@@ -1,0 +1,105 @@
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Assimil.Web.dll.config
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Assimil.Web.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Assimil.Web.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Antlr3.Runtime.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Assimil.Core.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Assimil.Domain.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Newtonsoft.Json.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Ninject.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.Helpers.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.Mvc.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.Optimization.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.Razor.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.WebPages.Deployment.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.WebPages.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.WebPages.Razor.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\WebGrease.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Assimil.Core.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Assimil.Domain.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Antlr3.Runtime.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Newtonsoft.Json.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\Ninject.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.Optimization.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.Helpers.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.Mvc.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.Razor.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.WebPages.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.WebPages.Deployment.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\bin\System.Web.WebPages.Razor.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\obj\Debug\Assimil.Web.csprojResolveAssemblyReference.cache
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\obj\Debug\Assimil.Web.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Web\obj\Debug\Assimil.Web.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Assimil.Web.dll.config
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Assimil.Web.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Assimil.Web.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Antlr3.Runtime.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Assimil.Core.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Assimil.Domain.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Newtonsoft.Json.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Ninject.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.Helpers.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.Mvc.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.Optimization.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.Razor.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.WebPages.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\WebGrease.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Assimil.Core.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Assimil.Domain.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Newtonsoft.Json.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\Ninject.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.Optimization.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.Helpers.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.Mvc.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.Razor.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.WebPages.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\obj\Debug\Assimil.Web.csprojResolveAssemblyReference.cache
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\obj\Debug\Assimil.Web.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Web\obj\Debug\Assimil.Web.pdb
+C:\Projects\Assimil\Assimil.Web\bin\Assimil.Web.dll.config
+C:\Projects\Assimil\Assimil.Web\bin\Assimil.Web.dll
+C:\Projects\Assimil\Assimil.Web\bin\Assimil.Web.pdb
+C:\Projects\Assimil\Assimil.Web\bin\Antlr3.Runtime.dll
+C:\Projects\Assimil\Assimil.Web\bin\Assimil.Core.dll
+C:\Projects\Assimil\Assimil.Web\bin\Assimil.Domain.dll
+C:\Projects\Assimil\Assimil.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Assimil\Assimil.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projects\Assimil\Assimil.Web\bin\Newtonsoft.Json.dll
+C:\Projects\Assimil\Assimil.Web\bin\Ninject.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Net.Http.Formatting.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Helpers.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Http.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Http.WebHost.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Mvc.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Optimization.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Razor.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.WebPages.dll
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Assimil\Assimil.Web\bin\WebGrease.dll
+C:\Projects\Assimil\Assimil.Web\bin\Assimil.Core.pdb
+C:\Projects\Assimil\Assimil.Web\bin\Assimil.Domain.pdb
+C:\Projects\Assimil\Assimil.Web\bin\Antlr3.Runtime.pdb
+C:\Projects\Assimil\Assimil.Web\bin\Newtonsoft.Json.xml
+C:\Projects\Assimil\Assimil.Web\bin\Ninject.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Optimization.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Net.Http.Formatting.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Helpers.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Http.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Http.WebHost.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Mvc.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.Razor.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.WebPages.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Assimil\Assimil.Web\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Assimil\Assimil.Web\obj\Debug\Assimil.Web.csprojResolveAssemblyReference.cache
+C:\Projects\Assimil\Assimil.Web\obj\Debug\Assimil.Web.dll
+C:\Projects\Assimil\Assimil.Web\obj\Debug\Assimil.Web.pdb

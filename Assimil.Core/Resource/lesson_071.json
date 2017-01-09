@@ -1,0 +1,196 @@
+﻿{
+    "age": 71,
+    "haveIntro": true,
+    "introduction": "Important news",
+    "idfile": "lesson_071",
+    "page_number_descr_left": "141 one hundred and forty-one",
+    "page_number_descr_right": "one hundred and forty-two 142",
+    "page_info_english": { "description_lang": "Seventy-first (71st) Lesson", "description_audio_begin": 0, "description_audio_end": 5 },
+    "page_info_french": { "description_lang": "Soixante et onzième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_71.jpg",
+    "audioUrl": "../../audio/audio_lesson_71.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mr. Marshall and Mr. Hobbs were sitting in the seats near the door, opposite one another. (1) (2)",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 14
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David Wilson got* into the train and said*: \" Good morning \".",
+                    "frenchspeech": "",
+                    "beginplay": 14,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The two men replied \" Morning \" and continued reading* their papers.",
+                    "frenchspeech": "",
+                    "beginplay": 20,
+                    "endplay": 27.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David put* his brief-case on the rack over his head and sat* down.",
+                    "frenchspeech": "",
+                    "beginplay": 27.8,
+                    "endplay": 33.5
+                }
+            ]
+        },   {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He lit* a cigarette, threw* the match on the floor and opened his paper.",
+                    "frenchspeech": "",
+                    "beginplay": 33.5,
+                    "endplay": 39.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The three men read* in silence for a while.",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 44.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The window was half-open and there was a strong draught.",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 50
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I see* the Chinese Prime Minister is dead, said Marshall. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 56.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No one said* a word.",
+                    "frenchspeech": "",
+                    "beginplay": 56.5,
+                    "endplay": 59.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "After a few minutes, Hobbs said*: \" Oh dear, another terrible plane-crash \". ",
+                    "frenchspeech": "",
+                    "beginplay": 59.8,
+                    "endplay": 67
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The other two showed no interest.",
+                    "frenchspeech": "",
+                    "beginplay": 67,
+                    "endplay": 70.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then David shouted: \" Oh no! \", the others looked at him.",
+                    "frenchspeech": "",
+                    "beginplay": 70.5,
+                    "endplay": 78.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "\" Stiles, the Chelsea centre-forward is ill and won't be able to play against Spurs \".",
+                    "frenchspeech": "",
+                    "beginplay": 78.5,
+                    "endplay": 88
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The three man began* to discuss the terrible, tragic news. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 88,
+                    "endplay": 96
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

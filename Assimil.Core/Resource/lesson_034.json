@@ -1,0 +1,207 @@
+﻿{
+    "age": 34,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_034",
+    "page_number_descr_left": "67 sixty-seven (siks'té  sèv'n)",
+    "page_number_descr_right": "sixty-eight (siks'té  èe't) 68",
+    "page_info_english": { "description_lang": "Thirty-fourth (34th) Lesson","description_audio_begin": 0,"description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Trente-quatrième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_34.jpg",
+    "audioUrl": "../../audio/audio_lesson_34.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We'll see you tomorrow night at half-past seven.",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I've got nothing to do.",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 12.5
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "And it makes me tired.",
+                    "frenchspeech": "",
+                    "beginplay": 12.5,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Her husband drinks too much.",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 19.5
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "Or that is her opinion.",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 22.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "His wife's spending worries him.",
+                    "frenchspeech": "",
+                    "beginplay": 22.5,
+                    "endplay": 26
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You'll meet his son next week. He's coming to visit us. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 26,
+                    "endplay": 33
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "His son's record-player is much too noisy.",
+                    "frenchspeech": "",
+                    "beginplay": 33,
+                    "endplay": 39
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "My daughter always complains that I work too much.",
+                    "frenchspeech": "",
+                    "beginplay": 39,
+                    "endplay": 46
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The man for whom I work is very mean. He doesn't pay me enough. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 46,
+                    "endplay": 54
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Please excuse me, it is not my fault.",
+                    "frenchspeech": "",
+                    "beginplay": 54,
+                    "endplay": 60
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't want to go home. May I come with you?",
+                    "frenchspeech": "",
+                    "beginplay": 60,
+                    "endplay": 66
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Is it far to the tube station?",
+                    "frenchspeech": "",
+                    "beginplay": 66,
+                    "endplay": 69.8
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "No, about five minutes'walk.",
+                    "frenchspeech": "",
+                    "beginplay": 69.8,
+                    "endplay": 75
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What is the maximun penalty for bigamy?",
+                    "frenchspeech": "",
+                    "beginplay": 75,
+                    "endplay": 81
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Two mothers-in-law.",
+                    "frenchspeech": "",
+                    "beginplay": 81,
+                    "endplay": 85
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,186 @@
+﻿{
+    "age": 97,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_097",
+    "page_number_descr_left": "179 one hundred and seventy-nine",
+    "page_number_descr_right": "one hundred and eighty 180",
+    "page_info_english": { "description_lang": "Ninety-seventh (97th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Quatre-vingt-dix-septième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_97.jpg",
+    "audioUrl": "../../audio/audio_lesson_97.mp3",
+    "numSentences": 13,
+  "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Learn this lesson as  usual, then answer the following questions with the help of the preceding lesson.",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How much did David have to pay* the doctor when he was ill?",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What does National Health Service mean*?",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How is the National Health Service financed?",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 26
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "whose responsibility is the weekly contribution? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 26,
+                    "endplay": 30.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Who has to make* National Insurance contributions?",
+                    "frenchspeech": "",
+                    "beginplay": 30.5,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does the employer pay* anything?",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 40.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Who receives Supplementary Benefit?",
+                    "frenchspeech": "",
+                    "beginplay": 40.5,
+                    "endplay": 45
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Who are senior citizens?",
+                    "frenchspeech": "",
+                    "beginplay": 45,
+                    "endplay": 50
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Two little boys who were visiting the British Museum stopped to look at an Egyptian mummy.",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 59
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The mummy was covered with bandages and had a sign with 1215 B.C. (one thousand two hundred and fifteen) around its neck. (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 59,
+                    "endplay": 69.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I wonder what that sign means*, said one of the boys. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 69.5,
+                    "endplay": 76.5
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That must be the number of the car which knocked him over, replied his friend. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 76.5,
+                    "endplay": 85
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,175 @@
+﻿{
+    "age": 98,
+    "haveIntro": true,
+    "introduction": "REVISIONS AND NOTES",
+    "idfile": "lesson_098",
+    "page_number_descr_left": "181 one hundred and eighty-one",
+    "page_number_descr_right": "one hundred and eighty-two 182",
+    "page_info_english": { "description_lang": "Ninety-eighth (98th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Quatre-vingt-dix-huitième leçon" },
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_98.jpg",
+    "audioUrl": "../../audio/audio_lesson_98.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,215 @@
+﻿{
+    "age": 76,
+    "haveIntro": true,
+    "introduction": "Conditionals",
+    "idfile": "lesson_076",
+    "page_number_descr_left": "151 one hundred and fifty-one",
+    "page_number_descr_right": "one hundred and fifty-two 152",
+    "page_info_english": { "description_lang": "Seventy-sixth (76th) Lesson", "description_audio_begin": 0, "description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Soixante-seizième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_76.jpg",
+    "audioUrl": "../../audio/audio_lesson_76.mp3",
+    "numSentences": 15,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What can I do for you, sir?",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 7.5
+                },
+                {
+                    "alterSpeech": false,
+                    "speech": "I'd like to speak* to Mr Davis.",
+                    "frenchspeech": "",
+                    "beginplay": 7.5,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm sorry, he isn't in. Would you like to see* somebody else? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, but would you take* a message for me, please?",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 19
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'd be delighted.",
+                    "frenchspeech": "",
+                    "beginplay": 19.2,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": " \" Would \" is the conditional in English and is placed in front of the infinitive.",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The contraction is easy: \" Would \" becomes* ...'d ",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 36.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "For instance: I'd like a cup of tea.",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He'd help you. We'd prefer beer, if you have any.",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 50
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Questions are easy too: Would you like a cup of tea? Would you help me please?",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 60
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here are some more sentences: He would understand* if you spoke* more slowly.",
+                    "frenchspeech": "",
+                    "beginplay": 60,
+                    "endplay": 68.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He wouldn't ask for help if he didn't want it.",
+                    "frenchspeech": "",
+                    "beginplay": 68.5,
+                    "endplay": 72.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He wouln't need a teacher if he spoke* fluently.",
+                    "frenchspeech": "",
+                    "beginplay": 72.5,
+                    "endplay": 77
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A famous lawyer had lost* a case and was very angry. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 77,
+                    "endplay": 86.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "If this is the law, he shouted, I'll burn* my books!",
+                    "frenchspeech": "",
+                    "beginplay": 86.5,
+                    "endplay": 93
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The judge replied: \" It would be better if you read* them \". (3) ",
+                    "frenchspeech": "",
+                    "beginplay": 93,
+                    "endplay": 101
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

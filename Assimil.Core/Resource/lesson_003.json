@@ -1,0 +1,260 @@
+﻿{
+    "age": 3,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_003",
+    "page_number_descr_left": "5 five (faïv)",
+    "page_number_descr_right": "six (siks') 6",
+    "page_info_english": { "description_lang": "Third Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Troisième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_03.jpg",
+    "audioUrl": "../../audio/audio_lesson_03.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here's the book.",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 6
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Is it interesting?",
+                    "frenchspeech": "",
+                    "beginplay": 7,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, it's very interesting.",
+                    "frenchspeech": "",
+                    "beginplay": 9,
+                    "endplay": 13
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are the papers.",
+                    "frenchspeech": "",
+                    "beginplay": 14,
+                    "endplay": 17
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "Where are they?",
+                    "frenchspeech": "",
+                    "beginplay": 18,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There, on the bookcase.",
+                    "frenchspeech": "",
+                    "beginplay": 20,
+                    "endplay": 24
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Thank you. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 24,
+                    "endplay": 27
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here's your tea, James. Sugar?",
+                    "frenchspeech": "",
+                    "beginplay": 27,
+                    "endplay": 33
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "No, thank you.",
+                    "frenchspeech": "",
+                    "beginplay": 33,
+                    "endplay": 35
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Milk?",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 37
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Yes please. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 38,
+                    "endplay": 40
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Ow! It's very hot.",
+                    "frenchspeech": "",
+                    "beginplay": 43,
+                    "endplay": 46
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I'm sorry.",
+                    "frenchspeech": "",
+                    "beginplay": 46,
+                    "endplay": 48
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where's the ashtray?",
+                    "frenchspeech": "",
+                    "beginplay": 48,
+                    "endplay": 51
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Here, with my cigarettes.",
+                    "frenchspeech": "",
+                    "beginplay": 52,
+                    "endplay": 56
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where are the matches?",
+                    "frenchspeech": "",
+                    "beginplay": 57,
+                    "endplay": 59
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "There, near your hand.",
+                    "frenchspeech": "",
+                    "beginplay": 59,
+                    "endplay": 63
+                },
+                  {
+                    "alterSpeech": false,
+                    "speech": "Thanks very much. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 64,
+                    "endplay": 66
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here's your tea. Here are my cigarettes.",
+                    "frenchspeech": "",
+                    "beginplay": 67,
+                    "endplay": 72
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There's the radio. There are the matches. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 73,
+                    "endplay": 80
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's hot. It isn't very interesting.",
+                    "frenchspeech": "",
+                    "beginplay": 81,
+                    "endplay": 87
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hand; bookcase; matches.",
+                    "frenchspeech": "",
+                    "beginplay": 88,
+                    "endplay": 95
+                }
+            ]
+        },
+          {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes please. No, thank you.",
+                    "frenchspeech": "",
+                    "beginplay": 96,
+                    "endplay": 101
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

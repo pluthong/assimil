@@ -1,0 +1,235 @@
+﻿{
+    "age": 24,
+    "haveIntro": true,
+    "introduction": "An unwelcome conversation (1)",
+    "idfile": "lesson_024",
+    "page_number_descr_left": "47 forty-seven (forté sèv'n)",
+    "page_number_descr_right": "forty-eight (forté ée't) 48",
+    "page_info_english": { "description_lang": "Twenty-fourth (24th) Lesson", "description_audio_begin": 0, "description_audio_end": 5 },
+    "page_info_french": { "description_lang": "Vingt-quatrième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_24.jpg",
+    "audioUrl": "../../audio/audio_lesson_24.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Excuse me, may I sit down?",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 9.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Please do.",
+                    "frenchspeech": "",
+                    "beginplay": 9.5,
+                    "endplay": 11.4
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Thanks very much.",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 13.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Ah that's better! My name's Brian Sellers.",
+                    "frenchspeech": "",
+                    "beginplay": 13.5,
+                    "endplay": 20.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Oh, very interesting.",
+                    "frenchspeech": "",
+                    "beginplay": 20.5,
+                    "endplay": 23.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, I work in London. Do you work in London too?",
+                    "frenchspeech": "",
+                    "beginplay": 23.5,
+                    "endplay": 30.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, I do.",
+                    "frenchspeech": "",
+                    "beginplay": 30.7,
+                    "endplay": 32.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Have a cigarette.",
+                    "frenchspeech": "",
+                    "beginplay": 32.6,
+                    "endplay": 35.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, thank you. This is a non-smoking compartment.",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 39.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, do you mind if I smoke?",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 43.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Yes, I do! (2)",
+                    "frenchspeech": "",
+                    "beginplay": 43.5,
+                    "endplay": 47.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm cold. Are you cold too?",
+                    "frenchspeech": "",
+                    "beginplay": 47.5,
+                    "endplay": 52.2
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, I'm not. (N.2)",
+                    "frenchspeech": "",
+                    "beginplay": 52.2,
+                    "endplay": 55.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, you have a paper. I don't like reading. I prefer talking. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 65
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, I see.",
+                    "frenchspeech": "",
+                    "beginplay": 65,
+                    "endplay": 67.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, you hear. Ha! ha! ha!",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 71.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Good-bye sir.",
+                    "frenchspeech": "",
+                    "beginplay": 71.5,
+                    "endplay": 73.3
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Oh! good-bye.",
+                    "frenchspeech": "",
+                    "beginplay": 73.4,
+                    "endplay": 76.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you mind if I smoke? Mind your head.",
+                    "frenchspeech": "",
+                    "beginplay": 77.5,
+                    "endplay": 85.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He's cold; he's hot; he's unlucky.",
+                    "frenchspeech": "",
+                    "beginplay": 86,
+                    "endplay": 97
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

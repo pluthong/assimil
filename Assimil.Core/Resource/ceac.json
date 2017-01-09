@@ -1,0 +1,320 @@
+﻿[
+    { "REG": "AF", "CN": 156, "FCN": "2015AF156", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "12-ott-13", "STATUSDATE": "02-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 355, "FCN": "2015AF355", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "04-ott-13", "STATUSDATE": "29-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 372, "FCN": "2015AF372", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "02-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 384, "FCN": "2015AF384", "CON": "YDE", "STATUS": "Refused", "SUBMITDATE": "02-nov-13", "STATUSDATE": "13-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 1, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 475, "FCN": "2015AF475", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "31-ott-13", "STATUSDATE": "12-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 509, "FCN": "2015AF509", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "07-ott-13", "STATUSDATE": "03-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 549, "FCN": "2015AF549", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "08-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 598, "FCN": "2015AF598", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "07-ott-13", "STATUSDATE": "01-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 613, "FCN": "2015AF613", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "18-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 746, "FCN": "2015AF746", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "25-ott-13", "STATUSDATE": "03-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 760, "FCN": "2015AF760", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "02-ott-13", "STATUSDATE": "24-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 899, "FCN": "2015AF899", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "02-ott-13", "STATUSDATE": "27-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 965, "FCN": "2015AF965", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "02-nov-13", "STATUSDATE": "24-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 1247, "FCN": "2015AF1247", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "19-ott-13", "STATUSDATE": "29-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 1402, "FCN": "2015AF1402", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "29-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 1544, "FCN": "2015AF1544", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "01-nov-13", "STATUSDATE": "06-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 1602, "FCN": "2015AF1602", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "27-ott-13", "STATUSDATE": "20-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 2, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 1659, "FCN": "2015AF1659", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "03-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 1749, "FCN": "2015AF1749", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "13-ott-13", "STATUSDATE": "13-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 1898, "FCN": "2015AF1898", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "18-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 2198, "FCN": "2015AF2198", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "30-ott-13", "STATUSDATE": "25-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 2221, "FCN": "2015AF2221", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "09-ott-13", "STATUSDATE": "18-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 2259, "FCN": "2015AF2259", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "21-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 2280, "FCN": "2015AF2280", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "22-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 2734, "FCN": "2015AF2734", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "05-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 2815, "FCN": "2015AF2815", "CON": "YDE", "STATUS": "Refused", "SUBMITDATE": "02-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 4, "ISSUED": 0, "REFUSED": 1, "AP": 0, "READY": 3 },
+    { "REG": "AF", "CN": 2845, "FCN": "2015AF2845", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "07-ott-13", "STATUSDATE": "24-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 2984, "FCN": "2015AF2984", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "06-ott-13", "STATUSDATE": "09-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 3026, "FCN": "2015AF3026", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "14-ott-13", "STATUSDATE": "09-dic-14", "FAMILYNUMBERS": 3, "ISSUED": 3, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 3407, "FCN": "2015AF3407", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "14-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 3472, "FCN": "2015AF3472", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "01-ott-13", "STATUSDATE": "29-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 3663, "FCN": "2015AF3663", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "06-ott-13", "STATUSDATE": "13-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 3765, "FCN": "2015AF3765", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "26-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 4082, "FCN": "2015AF4082", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "23-ott-13", "STATUSDATE": "19-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 4102, "FCN": "2015AF4102", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "07-ott-13", "STATUSDATE": "19-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 4108, "FCN": "2015AF4108", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "30-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 4319, "FCN": "2015AF4319", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "29-ott-13", "STATUSDATE": "24-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 4464, "FCN": "2015AF4464", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "28-ott-13", "STATUSDATE": "17-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 4553, "FCN": "2015AF4553", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "01-nov-13", "STATUSDATE": "24-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 4592, "FCN": "2015AF4592", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "30-ott-13", "STATUSDATE": "24-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 4621, "FCN": "2015AF4621", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "30-ott-13", "STATUSDATE": "31-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 4985, "FCN": "2015AF4985", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "01-nov-13", "STATUSDATE": "09-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 5200, "FCN": "2015AF5200", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "02-ott-13", "STATUSDATE": "18-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 5201, "FCN": "2015AF5201", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "29-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 5443, "FCN": "2015AF5443", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "10-ott-13", "STATUSDATE": "17-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 5531, "FCN": "2015AF5531", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "22-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 5558, "FCN": "2015AF5558", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "07-ott-13", "STATUSDATE": "23-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 5822, "FCN": "2015AF5822", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "24-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 5830, "FCN": "2015AF5830", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "31-ott-13", "STATUSDATE": "12-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 5833, "FCN": "2015AF5833", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "22-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 5900, "FCN": "2015AF5900", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "26-ott-13", "STATUSDATE": "09-dic-14", "FAMILYNUMBERS": 5, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 4 },
+    { "REG": "AF", "CN": 5992, "FCN": "2015AF5992", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "09-ott-13", "STATUSDATE": "30-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 6382, "FCN": "2015AF6382", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "02-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 6389, "FCN": "2015AF6389", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 6532, "FCN": "2015AF6532", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "03-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 6537, "FCN": "2015AF6537", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "22-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 6562, "FCN": "2015AF6562", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "17-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 6615, "FCN": "2015AF6615", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "27-ott-13", "STATUSDATE": "26-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 6794, "FCN": "2015AF6794", "CON": "YDE", "STATUS": "Refused", "SUBMITDATE": "19-ott-13", "STATUSDATE": "13-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 1, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 6904, "FCN": "2015AF6904", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "11-ott-13", "STATUSDATE": "25-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 6993, "FCN": "2015AF6993", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "14-ott-13", "STATUSDATE": "06-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7078, "FCN": "2015AF7078", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "27-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 7079, "FCN": "2015AF7079", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "24-ott-13", "STATUSDATE": "21-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7244, "FCN": "2015AF7244", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "17-ott-13", "STATUSDATE": "07-nov-14", "FAMILYNUMBERS": 6, "ISSUED": 6, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7280, "FCN": "2015AF7280", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "15-ott-13", "STATUSDATE": "31-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 7330, "FCN": "2015AF7330", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "31-ott-13", "STATUSDATE": "27-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7337, "FCN": "2015AF7337", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "10-ott-13", "STATUSDATE": "30-dic-14", "FAMILYNUMBERS": 3, "ISSUED": 3, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7463, "FCN": "2015AF7463", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "02-nov-13", "STATUSDATE": "13-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7546, "FCN": "2015AF7546", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "02-ott-13", "STATUSDATE": "24-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7880, "FCN": "2015AF7880", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "30-ott-13", "STATUSDATE": "24-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7902, "FCN": "2015AF7902", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "07-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 7946, "FCN": "2015AF7946", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "23-ott-13", "STATUSDATE": "17-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 7982, "FCN": "2015AF7982", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "30-ott-13", "STATUSDATE": "13-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 1, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 8080, "FCN": "2015AF8080", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "28-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 8157, "FCN": "2015AF8157", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "19-ott-13", "STATUSDATE": "19-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 8232, "FCN": "2015AF8232", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "14-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 3, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 3 },
+    { "REG": "AF", "CN": 8376, "FCN": "2015AF8376", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "28-ott-13", "STATUSDATE": "30-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 8460, "FCN": "2015AF8460", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "24-ott-13", "STATUSDATE": "11-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 8531, "FCN": "2015AF8531", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "04-ott-13", "STATUSDATE": "19-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 8746, "FCN": "2015AF8746", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "26-ott-13", "STATUSDATE": "30-dic-14", "FAMILYNUMBERS": 3, "ISSUED": 2, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 8909, "FCN": "2015AF8909", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "20-ott-13", "STATUSDATE": "20-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 8982, "FCN": "2015AF8982", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "25-ott-13", "STATUSDATE": "20-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 8998, "FCN": "2015AF8998", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "29-ott-13", "STATUSDATE": "30-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 9016, "FCN": "2015AF9016", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "27-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 9126, "FCN": "2015AF9126", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "19-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 3, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 3 },
+    { "REG": "AF", "CN": 9534, "FCN": "2015AF9534", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "05-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 9566, "FCN": "2015AF9566", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "06-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 9588, "FCN": "2015AF9588", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "21-ott-13", "STATUSDATE": "19-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 9878, "FCN": "2015AF9878", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 10094, "FCN": "2015AF10094", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "29-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 2, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 10239, "FCN": "2015AF10239", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "24-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 10249, "FCN": "2015AF10249", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "25-ott-13", "STATUSDATE": "06-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 10316, "FCN": "2015AF10316", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "12-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 10484, "FCN": "2015AF10484", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "01-nov-13", "STATUSDATE": "29-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 10489, "FCN": "2015AF10489", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "02-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 10511, "FCN": "2015AF10511", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "06-ott-13", "STATUSDATE": "06-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 10515, "FCN": "2015AF10515", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "14-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 10616, "FCN": "2015AF10616", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "15-ott-13", "STATUSDATE": "20-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 10670, "FCN": "2015AF10670", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "22-ott-13", "STATUSDATE": "20-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 10910, "FCN": "2015AF10910", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "24-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 10987, "FCN": "2015AF10987", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "29-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 11181, "FCN": "2015AF11181", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "04-ott-13", "STATUSDATE": "19-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 11268, "FCN": "2015AF11268", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "24-ott-13", "STATUSDATE": "06-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 11291, "FCN": "2015AF11291", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "03-ott-13", "STATUSDATE": "17-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 11314, "FCN": "2015AF11314", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "31-ott-13", "STATUSDATE": "10-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 11325, "FCN": "2015AF11325", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "22-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 11435, "FCN": "2015AF11435", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 11760, "FCN": "2015AF11760", "CON": "YDE", "STATUS": "Refused", "SUBMITDATE": "01-ott-13", "STATUSDATE": "09-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 1, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 11781, "FCN": "2015AF11781", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "31-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 11918, "FCN": "2015AF11918", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "17-ott-13", "STATUSDATE": "10-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 11989, "FCN": "2015AF11989", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "15-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 12007, "FCN": "2015AF12007", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "16-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 12040, "FCN": "2015AF12040", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "13-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 2, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 12277, "FCN": "2015AF12277", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "25-ott-13", "STATUSDATE": "10-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 12316, "FCN": "2015AF12316", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "16-ott-13", "STATUSDATE": "10-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 12341, "FCN": "2015AF12341", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "25-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 12378, "FCN": "2015AF12378", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "31-ott-13", "STATUSDATE": "03-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 12381, "FCN": "2015AF12381", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "04-ott-13", "STATUSDATE": "04-ott-13", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 12508, "FCN": "2015AF12508", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "02-nov-13", "STATUSDATE": "03-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 12554, "FCN": "2015AF12554", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "29-ott-13", "STATUSDATE": "09-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 12782, "FCN": "2015AF12782", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "31-ott-13", "STATUSDATE": "13-nov-14", "FAMILYNUMBERS": 5, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 5 },
+    { "REG": "AF", "CN": 12831, "FCN": "2015AF12831", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "31-ott-13", "STATUSDATE": "20-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 12921, "FCN": "2015AF12921", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "26-ott-13", "STATUSDATE": "06-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 12955, "FCN": "2015AF12955", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "16-ott-13", "STATUSDATE": "06-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 13385, "FCN": "2015AF13385", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "02-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 13510, "FCN": "2015AF13510", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "17-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 13585, "FCN": "2015AF13585", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "05-ott-13", "STATUSDATE": "19-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 13613, "FCN": "2015AF13613", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "30-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 13989, "FCN": "2015AF13989", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "02-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 14156, "FCN": "2015AF14156", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "30-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 14173, "FCN": "2015AF14173", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "14-ott-13", "STATUSDATE": "01-gen-15", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 14453, "FCN": "2015AF14453", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "09-ott-13", "STATUSDATE": "16-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 14625, "FCN": "2015AF14625", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "11-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 14801, "FCN": "2015AF14801", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "28-ott-13", "STATUSDATE": "24-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 15489, "FCN": "2015AF15489", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "26-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 15499, "FCN": "2015AF15499", "CON": "YDE", "STATUS": "Refused", "SUBMITDATE": "01-nov-13", "STATUSDATE": "23-dic-14", "FAMILYNUMBERS": 9, "ISSUED": 0, "REFUSED": 9, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 15515, "FCN": "2015AF15515", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "03-ott-13", "STATUSDATE": "17-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 15686, "FCN": "2015AF15686", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "09-ott-13", "STATUSDATE": "24-dic-14", "FAMILYNUMBERS": 2, "ISSUED": 2, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 15836, "FCN": "2015AF15836", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "25-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 16012, "FCN": "2015AF16012", "CON": "YDE", "STATUS": "Issued", "SUBMITDATE": "01-nov-13", "STATUSDATE": "24-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 1, "REFUSED": 0, "AP": 0, "READY": 0 },
+    { "REG": "AF", "CN": 16100, "FCN": "2015AF16100", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "31-ott-13", "STATUSDATE": "31-ott-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 16314, "FCN": "2015AF16314", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "16-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 16370, "FCN": "2015AF16370", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "28-ott-13", "STATUSDATE": "31-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 16510, "FCN": "2015AF16510", "CON": "YDE", "STATUS": "Administrative Processing", "SUBMITDATE": "01-nov-13", "STATUSDATE": "31-dic-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 1, "READY": 0 },
+    { "REG": "AF", "CN": 16761, "FCN": "2015AF16761", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "28-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 16846, "FCN": "2015AF16846", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "23-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 17450, "FCN": "2015AF17450", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "05-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 4, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 4 },
+    { "REG": "AF", "CN": 17575, "FCN": "2015AF17575", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 17958, "FCN": "2015AF17958", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "29-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 4, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 4 },
+    { "REG": "AF", "CN": 18060, "FCN": "2015AF18060", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "28-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 18333, "FCN": "2015AF18333", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "31-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 18376, "FCN": "2015AF18376", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "22-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 18550, "FCN": "2015AF18550", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "09-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 18621, "FCN": "2015AF18621", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "14-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 18656, "FCN": "2015AF18656", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "27-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 18699, "FCN": "2015AF18699", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "31-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 3, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 3 },
+    { "REG": "AF", "CN": 18740, "FCN": "2015AF18740", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "02-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 18778, "FCN": "2015AF18778", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "31-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 19131, "FCN": "2015AF19131", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "18-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 19132, "FCN": "2015AF19132", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 19265, "FCN": "2015AF19265", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "25-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 19364, "FCN": "2015AF19364", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "02-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 19437, "FCN": "2015AF19437", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 19681, "FCN": "2015AF19681", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "23-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 19713, "FCN": "2015AF19713", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "28-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 19769, "FCN": "2015AF19769", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "20-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 19935, "FCN": "2015AF19935", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "27-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 3, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 3 },
+    { "REG": "AF", "CN": 19949, "FCN": "2015AF19949", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 19962, "FCN": "2015AF19962", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "26-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 20080, "FCN": "2015AF20080", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "11-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 20151, "FCN": "2015AF20151", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "05-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 20368, "FCN": "2015AF20368", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "13-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 20379, "FCN": "2015AF20379", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "12-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 20433, "FCN": "2015AF20433", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "12-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 20505, "FCN": "2015AF20505", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "08-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 20544, "FCN": "2015AF20544", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 20797, "FCN": "2015AF20797", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "07-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 2, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 2 },
+    { "REG": "AF", "CN": 20881, "FCN": "2015AF20881", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "01-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 20951, "FCN": "2015AF20951", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "26-ott-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 1, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 1 },
+    { "REG": "AF", "CN": 20966, "FCN": "2015AF20966", "CON": "YDE", "STATUS": "Ready", "SUBMITDATE": "02-nov-13", "STATUSDATE": "26-nov-14", "FAMILYNUMBERS": 4, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 4 },
+    { "REG": "AF", "CN": 1, "FCN": "", "CON": "YDE", "STATUS": "", "SUBMITDATE": "", "STATUSDATE": "", "FAMILYNUMBERS": 0, "ISSUED": 0, "REFUSED": 0, "AP": 0, "READY": 0 }
+]
+
+
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "",
+                    "frenchspeech": "",
+                    "beginplay": 0,
+                    "endplay": 0
+                }
+            ]
+        }
+    ],
+

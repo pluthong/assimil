@@ -1,0 +1,193 @@
+﻿{
+    "age": 33,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_033",
+    "page_number_descr_left": "65 sixty-five (siks'té faiv)",
+    "page_number_descr_right": "sixty-six (siks'té siks) 66",
+    "page_info_english": { "description_lang": "Thirty-third (33rd) Lesson","description_audio_begin": 0,"description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Trente-troisième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_33.jpg",
+    "audioUrl": "../../audio/audio_lesson_33.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mr Marsden is David's boss. He is the editor of the newspaper for which David works. (1) (2)",
+                    "frenchspeech": "",
+                    "beginplay": 4,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are many responsibilities in his job, but he enjoys it very much. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 21
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In his wife's opinion, there are too many responsabilities; she never sees him!",
+                    "frenchspeech": "",
+                    "beginplay": 21,
+                    "endplay": 29
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She prefers her son's job. He is a bank clerk and is home every day at six.",
+                    "frenchspeech": "",
+                    "beginplay": 29,
+                    "endplay": 38.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "His job is not as well paid as his father's, but he works less. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 38.5,
+                    "endplay": 45.9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And the holiday are better.",
+                    "frenchspeech": "",
+                    "beginplay": 45.9,
+                    "endplay": 49
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In England, twice a year, there is a day's holiday called a \" Bank Holiday \". (5) (6) ",
+                    "frenchspeech": "",
+                    "beginplay": 49,
+                    "endplay": 59
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'll be home late tonight, dear.",
+                    "frenchspeech": "",
+                    "beginplay": 59,
+                    "endplay": 63.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Why?",
+                    "frenchspeech": "",
+                    "beginplay": 63.5,
+                    "endplay": 65.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I've got a new article about taxation to prepare.",
+                    "frenchspeech": "",
+                    "beginplay": 65.5,
+                    "endplay": 69.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But you always go to the office early and come home late!",
+                    "frenchspeech": "",
+                    "beginplay": 69.5,
+                    "endplay": 73.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I can't help it. An editor's life, you know...",
+                    "frenchspeech": "",
+                    "beginplay": 73.8,
+                    "endplay": 77.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And his wife's life...!",
+                    "frenchspeech": "",
+                    "beginplay": 77.8,
+                    "endplay": 81.3
+                }
+            ]
+        },
+          {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'll see you tonight, love, good-bye.",
+                    "frenchspeech": "",
+                    "beginplay": 81.3,
+                    "endplay": 86
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

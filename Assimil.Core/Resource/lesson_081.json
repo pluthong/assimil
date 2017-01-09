@@ -1,0 +1,197 @@
+﻿{
+    "age": 81,
+    "haveIntro": true,
+    "introduction": "A little about England",
+    "idfile": "lesson_081",
+    "page_number_descr_left": "161 one hundred and sixty-one",
+    "page_number_descr_right": "one hundred and sixty-two 162",
+    "page_info_english": { "description_lang": "Eighty-first (81st) Lesson", "description_audio_begin": 0, "description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Quatre-vingt-unième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_81.jpg",
+    "audioUrl": "../../audio/audio_lesson_81.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you seen* a map of England before?",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 10
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You must have (N. 3) noticed the number of large towns and cities. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 17
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "England is less centralised than France. Cities like Manchester and Bristol",
+                    "frenchspeech": "",
+                    "beginplay": 17,
+                    "endplay": 25.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "have an important cultural life of their own (N. 4). (2)",
+                    "frenchspeech": "",
+                    "beginplay": 25.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A city is larger than a town and usually has a cathedral.",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 34.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Birmingham, Nottingham, Leicester and Southampton are all cities; (3)",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 41.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and Guilford, Warwick and Gloucester are towns.",
+                    "frenchspeech": "",
+                    "beginplay": 41.5,
+                    "endplay": 47
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There is a large and important difference between the North and the South of the country:",
+                    "frenchspeech": "",
+                    "beginplay": 47.5,
+                    "endplay": 55.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "a difference in the people and a difference in the accent.",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 60.5
+                }
+            ]
+        },
+          {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You are learning to speak* with a southern accent.",
+                    "frenchspeech": "",
+                    "beginplay": 60.5,
+                    "endplay": 65.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "England is divided into \" counties \", of which there are about forty.",
+                    "frenchspeech": "",
+                    "beginplay": 65.5,
+                    "endplay": 71.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Cornwall, the southern tip of England, is very wild and beautiful. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 71.5,
+                    "endplay": 77.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In the north, Yorkshire is the largest county.",
+                    "frenchspeech": "",
+                    "beginplay": 77.5,
+                    "endplay": 82.5
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Kent is called \" The Garden of England \". ",
+                    "frenchspeech": "",
+                    "beginplay": 82.5,
+                    "endplay": 90
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

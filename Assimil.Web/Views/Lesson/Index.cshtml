@@ -1,0 +1,112 @@
+﻿@{
+    ViewBag.Title = ViewBag.lessonTitle;
+}
+
+<div ng-controller="LessonCtrl" ng-init="init(@ViewBag.lessonId)">
+
+    <div class="row">
+
+        <div class="col-lg-4">
+            <img ng-src="{{lesson.ImageUrl}}" />
+        </div>
+
+        <div class="col-lg-8">
+
+            <div class="row">
+
+            </div>
+
+            <div class="row">
+
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="pagenum_color">{{lesson.PageNumberDescrLeft}}</div>
+                    </div>
+                    <div class="row">
+                        <h3><u tps-playing="{{lesson.AudioUrl}}" start-play="{{lesson.PageInfoEnglish.DescriptionAudioBegin}}" end-play="{{lesson.PageInfoEnglish.DescriptionAudioEnd}}">{{lesson.PageInfoEnglish.DescriptionLang}}</u></h3>
+                    </div>
+                    <div class="row">
+                        <span ng-if="lesson.HaveIntro">{{lesson.Introduction}}</span>
+
+                    </div>
+                </div>
+
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="text-right pagenum_color">{{lesson.PageNumberDescrRight}}</div>
+                    </div>
+                    <div class="row">
+                        <h3 class="text-right"><u>{{lesson.PageInfoFrench.DescriptionLang}}</u></h3>
+                    </div>
+                    <div class="row">
+                        <span ng-if="false">{{lesson.Introduction}}</span>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+    <br />
+
+    <div class="row">
+
+        <div class="col-lg-2 line-top menuLeft-padding">
+
+            <ul id="lessonTabs" class="nav nav-pills nav-stacked">
+                <li><a href="#lesson" data-toggle="pill">Lesson</a></li>
+                <li><a href="#pronounciation" data-toggle="pill">Pronounciation</a></li>
+                <li><a href="#notes" data-toggle="pill">Notes</a></li>
+                <li><a href="#exercises" data-toggle="pill">Exercises</a></li>
+            </ul>
+
+        </div>
+
+        <div class="col-lg-10 line-left line-top">
+
+            <div class="row">
+
+                <div ng-show="loading">Loading...</div>
+                <div ng-hide="loading" class="check-element sample-show-hide">
+
+                    <div class="tab-content">
+
+                        <div class="tab-pane active" id="lesson">
+
+                            <div class="col-lg-12">
+                                <div ng-repeat="par in englishLesson">
+                                    <div ng-repeat="s in par.Sentences">
+                                        <div class="row">
+                                            <div class="bubble-left" ng-if="!s.AlterSpeech" tps-playing="{{lesson.AudioUrl}}" start-play="{{s.BeginPlay}}" end-play="{{s.EndPlay}}"> {{s.Speech}} <br> <span class="frspeech">{{s.FrenchSpeech}}</span> </div>
+                                            <div class="bubble-right" ng-if="s.AlterSpeech" tps-playing="{{lesson.AudioUrl}}" start-play="{{s.BeginPlay}}" end-play="{{s.EndPlay}}"> {{s.Speech}} <br> <span class="frspeech">{{s.FrenchSpeech}}</span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                          
+                        </div>
+
+                        <div class="tab-pane" id="pronounciation">
+                            pronounciation
+                        </div>
+
+                        <div class="tab-pane" id="notes">
+                            <div ng-repeat="l in lesson.Notes">
+                                    <div> {{l.KeyNote}} : {{l.ValueNote}}</div>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane" id="exercises">
+                            exercises
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>

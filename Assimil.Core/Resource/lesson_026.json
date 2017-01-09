@@ -1,0 +1,240 @@
+﻿{
+    "age": 26,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_026",
+    "page_number_descr_left": "51 fifty-one (fivté oueune)",
+    "page_number_descr_right": "fifty-two (fivté tou) 52",
+    "page_info_english": { "description_lang": "Twenty-sixth (26th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Vingt-sixième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_26.jpg",
+    "audioUrl": "../../audio/audio_lesson_26.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Can you lend me five pounds?",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 5.9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But I don't know you!",
+                    "frenchspeech": "",
+                    "beginplay": 5.9,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That's exactly why I'm asking you.",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "(Teacher) - Jane, why do you always come to school with dirty hands?",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "(Jane) - Well, miss, I haven't got any others.",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 24.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "At the concert",
+                    "frenchspeech": "",
+                    "beginplay": 24.5,
+                    "endplay": 28.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This piece is a symphony by Mozart. I suppose it is something new.",
+                    "frenchspeech": "",
+                    "beginplay": 28.5,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What! Don't you know that Mozart is dead?",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 40.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Excuse me, I never read the papers.",
+                    "frenchspeech": "",
+                    "beginplay": 40.5,
+                    "endplay": 46
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He never talks to me",
+                    "frenchspeech": "",
+                    "beginplay": 47,
+                    "endplay": 51
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Don't ever say that! (1)",
+                    "frenchspeech": "",
+                    "beginplay": 51.2,
+                    "endplay": 55.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Say: he always talks to other people.",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 61.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A nervous passenger",
+                    "frenchspeech": "",
+                    "beginplay": 61.5,
+                    "endplay": 66.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm scared of the water.",
+                    "frenchspeech": "",
+                    "beginplay": 66.5,
+                    "endplay": 69.6
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Don't be silly.",
+                    "frenchspeech": "",
+                    "beginplay": 69.7,
+                    "endplay": 71.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "people never drown in these waters.",
+                    "frenchspeech": "",
+                    "beginplay": 71.5,
+                    "endplay": 74.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Are you sure, young man?",
+                    "frenchspeech": "",
+                    "beginplay": 74.5,
+                    "endplay": 77.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Of course I am.",
+                    "frenchspeech": "",
+                    "beginplay": 77.5,
+                    "endplay": 79.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "the sharks never let anybody drown. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 79.5,
+                    "endplay": 84
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

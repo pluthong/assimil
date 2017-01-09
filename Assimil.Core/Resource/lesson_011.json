@@ -1,0 +1,204 @@
+﻿{
+    "age": 11,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_011",
+    "page_number_descr_left": "21 twenty (touèn'té oueune)",
+    "page_number_descr_right": "twenty-two (touèn'té tou) 22",
+    "page_info_english": { "description_lang": "Eleventh (11th) Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Onzième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_11.jpg",
+    "audioUrl": "../../audio/audio_lesson_11.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I play; we play; you play; he (or she) plays. (1) ",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 12.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I speak; we speak; you speak; she (or he) speaks.",
+                    "frenchspeech": "",
+                    "beginplay": 12.6,
+                    "endplay": 23
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We play tennis in the morning, and our neighbours play in the evening.",
+                    "frenchspeech": "",
+                    "beginplay": 23.5,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They have a tennis court in their garden.",
+                    "frenchspeech": "",
+                    "beginplay": 31.7,
+                    "endplay": 36.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you want to play?",
+                    "frenchspeech": "",
+                    "beginplay": 37,
+                    "endplay": 42
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Yes, but I haven't got much time. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 47
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here's a racket for you; there are some balls in the garden.",
+                    "frenchspeech": "",
+                    "beginplay": 48,
+                    "endplay": 53.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Are you ready? Service! Out!",
+                    "frenchspeech": "",
+                    "beginplay": 53.5,
+                    "endplay": 62
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That's enough for today. I'm tired already.",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 70
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I know someone who plays as well as you. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 71,
+                    "endplay": 75
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "My girlfriend speaks Russian. Do you speak Russian?",
+                    "frenchspeech": "",
+                    "beginplay": 76,
+                    "endplay": 84
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Unfortunately no, Does she speak Greek, too?",
+                    "frenchspeech": "",
+                    "beginplay": 84.5,
+                    "endplay": 91.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, she doesn't. Do you speak Greek?",
+                    "frenchspeech": "",
+                    "beginplay": 92,
+                    "endplay": 96.9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, I don't, but I play tennis well.",
+                    "frenchspeech": "",
+                    "beginplay": 96.9,
+                    "endplay": 102
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, you do. Too well for me. (4) (5)",
+                    "frenchspeech": "",
+                    "beginplay": 103,
+                    "endplay": 110
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,204 @@
+﻿{
+    "age": 43,
+    "haveIntro": true,
+    "introduction": "The future",
+    "idfile": "lesson_043",
+    "page_number_descr_left": "85 eighty-five (éeté faiv)",
+    "page_number_descr_right": "eighty-six (éeté siks) 86",
+    "page_info_english": { "description_lang": "Forty-third (43rd) Lesson", "description_audio_begin": 0, "description_audio_end": 3.5 },
+    "page_info_french": { "description_lang": "Quarante-troisième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_43.jpg",
+    "audioUrl": "../../audio/audio_lesson_43.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We will now look at the future tense.",
+                    "frenchspeech": "",
+                    "beginplay": 3.5,
+                    "endplay": 7.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You form the future by putting  “ will ” in front of nearly all our verbs. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 7.5,
+                    "endplay": 14.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "For instance, the verbs  “ to dress ”, in the future, becomes  “ I will dress; you will dress ”. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 14.7,
+                    "endplay": 25.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We continue with the contraction:  “ we'll dress, you'll dress, they'll dress ”. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 25.5,
+                    "endplay": 37.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "you see, it's easy!",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 40.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's look at some sentences in the future;",
+                    "frenchspeech": "",
+                    "beginplay": 40.5,
+                    "endplay": 45
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'll go to the cinema tonight if you'll come with me.",
+                    "frenchspeech": "",
+                    "beginplay": 45,
+                    "endplay": 51
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You will learn English quickly if you read a lesson every day.",
+                    "frenchspeech": "",
+                    "beginplay": 51,
+                    "endplay": 57.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The word  “ shall ” is mainly used for suggestions: It's raining, shall we take a taxi? (4)",
+                    "frenchspeech": "",
+                    "beginplay": 57.5,
+                    "endplay": 67.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How much money will you need? Shall I give you some more? (5) (6)",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 73.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Will you give me some more coffee, please?",
+                    "frenchspeech": "",
+                    "beginplay": 73.5,
+                    "endplay": 77.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How will you go to work? The tube's on strike.",
+                    "frenchspeech": "",
+                    "beginplay": 77.5,
+                    "endplay": 81.8
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I'll take my car.",
+                    "frenchspeech": "",
+                    "beginplay": 81.8,
+                    "endplay": 85
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Shall I phone the office and tell them you'll be late?",
+                    "frenchspeech": "",
+                    "beginplay": 85,
+                    "endplay": 91.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'll drive; you'll be late; you will have problems.",
+                    "frenchspeech": "",
+                    "beginplay": 91.5,
+                    "endplay": 101
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,196 @@
+﻿{
+    "age": 16,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_016",
+    "page_number_descr_left": "31 thirty-one (feûrté oueune)",
+    "page_number_descr_right": "thirty-two (feûrté tou) 32",
+    "page_info_english": { "description_lang": "Sixteenth (16th) Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Seizième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_16.jpg",
+    "audioUrl": "../../audio/audio_lesson_16.mp3",
+    "numSentences": 12,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where do you live?",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 6
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "I live in a suburb called Harrow.",
+                    "frenchspeech": "",
+                    "beginplay": 6.5,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How do you go to work?",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 15.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I take the tube every morning.",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 21
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Why do you take the train? You've got a car. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There is too much traffic and there are too many people. (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 33.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And petrol is too expensive.",
+                    "frenchspeech": "",
+                    "beginplay": 33.5,
+                    "endplay": 39
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When do you use your car?",
+                    "frenchspeech": "",
+                    "beginplay": 39.3,
+                    "endplay": 43.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "At weekends. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 43.5,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We go to the country. We go to Windsor quite often.",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 53.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't know Windsor.",
+                    "frenchspeech": "",
+                    "beginplay": 53.5,
+                    "endplay": 56.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm going there on Saturday. Do you want to come?",
+                    "frenchspeech": "",
+                    "beginplay": 56.5,
+                    "endplay": 63.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, please.",
+                    "frenchspeech": "",
+                    "beginplay": 63.8,
+                    "endplay": 67
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Too much traffic; too many cars.",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 73.8
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Too much noise; too many people.",
+                    "frenchspeech": "",
+                    "beginplay": 73.8,
+                    "endplay": 80
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

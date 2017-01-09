@@ -1,0 +1,214 @@
+﻿{
+    "age": 1,
+    "haveIntro": true,
+    "introduction": "At the Pub",
+    "idfile": "lesson_038",
+    "page_number_descr_left": "75 seventy-five (sèv'nté faiv)",
+    "page_number_descr_right": "seventy-six (sèv'nté siks) 76",
+    "page_info_english": { "description_lang": "Thirty-eighth (38th) Lesson","description_audio_begin": 0,"description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Trente-huitième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_38.jpg",
+    "audioUrl": "../../audio/audio_lesson_38.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David and Pete are playing darts.",
+                    "frenchspeech": "",
+                    "beginplay": 4,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm good, Pete, but I think you're better. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 12.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, that's not true. Oh, sixty! Perhaps you're right.",
+                    "frenchspeech": "",
+                    "beginplay": 12.3,
+                    "endplay": 21
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hey, look, you're closer than me.",
+                    "frenchspeech": "",
+                    "beginplay": 21,
+                    "endplay": 25.5
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Yes, but I'm short-sighted. (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 25.5,
+                    "endplay": 28.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That's no excuse. You can see from here.",
+                    "frenchspeech": "",
+                    "beginplay": 28.5,
+                    "endplay": 32.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, but not very well. Anyway, I don't always win. (4) (5)",
+                    "frenchspeech": "",
+                    "beginplay": 32.5,
+                    "endplay": 40.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But you can buy the drinks. You're richer than me.",
+                    "frenchspeech": "",
+                    "beginplay": 40.5,
+                    "endplay": 44.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Alright. What do you want?",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 49.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "I want to win.",
+                    "frenchspeech": "",
+                    "beginplay": 49.5,
+                    "endplay": 52
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Pete is richer than David, but David is happier.",
+                    "frenchspeech": "",
+                    "beginplay": 52,
+                    "endplay": 60
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm bigger than you.",
+                    "frenchspeech": "",
+                    "beginplay": 60,
+                    "endplay": 62.5
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Yes, but I'm more intelligent.",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 66
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How is your father?",
+                    "frenchspeech": "",
+                    "beginplay": 66,
+                    "endplay": 69.5
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "He's worse, I'm afraid. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 69.5,
+                    "endplay": 73.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This is the best way to go to the museum.",
+                    "frenchspeech": "",
+                    "beginplay": 73.5,
+                    "endplay": 78.5
+                }
+            ]
+        },
+          {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Close, closer, closest; rich, richer, richest; good, better, best; more intelligent, most intelligent.",
+                    "frenchspeech": "",
+                    "beginplay": 78.5,
+                    "endplay": 104
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

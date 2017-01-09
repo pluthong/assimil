@@ -1,0 +1,197 @@
+﻿{
+    "age": 72,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_072",
+    "page_number_descr_left": "143 one hundred and forty-three",
+    "page_number_descr_right": "one hundred and forty-four 144",
+    "page_info_english": { "description_lang": "Seventy-second (72nd) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Soixante-douzième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_72.jpg",
+    "audioUrl": "../../audio/audio_lesson_72.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The train stopped at a station but no one got* on.",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "At the last minute, the door opened",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 12.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and an old gentleman with a grey beard and glasses got* into the compartment. (1) (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 12.7,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I just caught it! he said, sitting* down heavily. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He took* off his glasses and wiped his face with a striped handkerchief. (N.1)",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 33.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Everyone was reading* and smoking, except the old gentleman. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 33.8,
+                    "endplay": 40.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He had obviously had no time to buy* a paper before catching the train. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 40.5,
+                    "endplay": 47.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David soon noticed that the man was reading* his paper with him, but very discreetly.",
+                    "frenchspeech": "",
+                    "beginplay": 47.5,
+                    "endplay": 55
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David's paper had twenty pages and he would have liked to share it with him, (7)",
+                    "frenchspeech": "",
+                    "beginplay": 55,
+                    "endplay": 62.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "but he did not want to show the old gentleman that he had noticed he was reading* it:",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 68.9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "he was afraid of offending him. (8)",
+                    "frenchspeech": "",
+                    "beginplay": 68.9,
+                    "endplay": 72.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David reached the bottom of the page, but did not want to turn it because his neighbour was still reading*.",
+                    "frenchspeech": "",
+                    "beginplay": 72.5,
+                    "endplay": 82.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "At last, David solved the problem. He folded the paper, put it on the seat,",
+                    "frenchspeech": "",
+                    "beginplay": 82.8,
+                    "endplay": 91.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "closed his eyes and pretended to be asleep. (9)",
+                    "frenchspeech": "",
+                    "beginplay": 91.5,
+                    "endplay": 97
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

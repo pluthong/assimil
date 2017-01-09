@@ -1,0 +1,197 @@
+﻿{
+    "age": 32,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_032",
+    "page_number_descr_left": "63 sixty-three (siks'té trî)",
+    "page_number_descr_right": "sixty-four (siks'té fôr) 64",
+    "page_info_english": { "description_lang": "Thirty-second (32th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Trente-deuxième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_32.jpg",
+    "audioUrl": "../../audio/audio_lesson_32.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here are some sentences with the verbs of the last few lessons;",
+                    "frenchspeech": "",
+                    "beginplay": 3.5,
+                    "endplay": 10.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Joan types letters all morning. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David receives a call from a friend.",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Joan cooks at home if she is not too tired. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 24.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Is your husband still working?",
+                    "frenchspeech": "",
+                    "beginplay": 24.5,
+                    "endplay": 28.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, he is not home yet.",
+                    "frenchspeech": "",
+                    "beginplay": 28.5,
+                    "endplay": 32.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Wait for him, he's extremely busy.",
+                    "frenchspeech": "",
+                    "beginplay": 32.6,
+                    "endplay": 38.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The phone is ringing. Answer it, please. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 38.5,
+                    "endplay": 43.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "His wife works full-time.",
+                    "frenchspeech": "",
+                    "beginplay": 43.5,
+                    "endplay": 47.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But he only works part-time.",
+                    "frenchspeech": "",
+                    "beginplay": 47.6,
+                    "endplay": 52.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I can't afford a new car. They're too expensive.",
+                    "frenchspeech": "",
+                    "beginplay": 52.5,
+                    "endplay": 58.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's go out to a restaurant tonight.",
+                    "frenchspeech": "",
+                    "beginplay": 58.5,
+                    "endplay": 62.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No thanks, I'm not hungry.",
+                    "frenchspeech": "",
+                    "beginplay": 62.6,
+                    "endplay": 66.5
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But I am thirsty: let's go to the pub. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 66.5,
+                    "endplay": 72
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

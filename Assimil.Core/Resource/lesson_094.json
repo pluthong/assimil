@@ -1,0 +1,218 @@
+﻿{
+    "age": 94,
+    "haveIntro": true,
+    "introduction": "A letter",
+    "idfile": "lesson_094",
+    "page_number_descr_left": "173 one hundred and seventy-three",
+    "page_number_descr_right": "one hundred and seventy-four 174",
+    "page_info_english": { "description_lang": "Ninety-fourth (94th) Lesson", "description_audio_begin": 0, "description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Quatre-vingt-quatorzième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_94.jpg",
+    "audioUrl": "../../audio/audio_lesson_94.mp3",
+    "numSentences": 16,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Dear David, Thanks very much for your last letter.",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 10.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I hope you are both well. I'm thoroughly enjoying my new job. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 10.8,
+                    "endplay": 17.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The person whose position I've taken resigned last month. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 17.5,
+                    "endplay": 24
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I can understand why, because there's a lot of work to do.",
+                    "frenchspeech": "",
+                    "beginplay": 24,
+                    "endplay": 30.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm writing* to ask you a favour.",
+                    "frenchspeech": "",
+                    "beginplay": 30.5,
+                    "endplay": 35.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Could you get me some information on trade unions?",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 40
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I had to give a lecture last week and I couldn't find* enough details.",
+                    "frenchspeech": "",
+                    "beginplay": 40,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I should have asked you earlier, but you know how it is.",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 52.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Since I last saw* you, nothing much has happened. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 52.5,
+                    "endplay": 59
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I've been working hard for a month and I've had so little spare time! (4)",
+                    "frenchspeech": "",
+                    "beginplay": 59,
+                    "endplay": 66.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I saw* Pete last week. You know*, of course, that he's married.",
+                    "frenchspeech": "",
+                    "beginplay": 66.8,
+                    "endplay": 72.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In fact he's been married for over a year. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 72.3,
+                    "endplay": 78.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He always used to say: 'Marriage is a great institution, (6) ",
+                    "frenchspeech": "",
+                    "beginplay": 78.5,
+                    "endplay": 85
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "but who wants to live in an institution? '. ",
+                    "frenchspeech": "",
+                    "beginplay": 85,
+                    "endplay": 88.5
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Look at him now! There's no more news, so I'll say good-bye. Looking forward to hearing from you soon, (7)",
+                    "frenchspeech": "",
+                    "beginplay": 88.5,
+                    "endplay": 99.8
+                }
+            ]
+        },
+              {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Your friend, George.",
+                    "frenchspeech": "",
+                    "beginplay": 99.8,
+                    "endplay": 105
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+}

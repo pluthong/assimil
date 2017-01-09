@@ -1,0 +1,239 @@
+﻿{
+    "age": 17,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_017",
+    "page_number_descr_left": "33 thirty-three (feûrté trî)",
+    "page_number_descr_right": "thirty-four (feûrté fôr) 34",
+    "page_info_english": { "description_lang": "Seventeenth (17th) Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Dix-septième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_17.jpg",
+    "audioUrl": "../../audio/audio_lesson_17.mp3",
+    "numSentences": 12,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What time is your train?",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 5.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "At eight thirty. (N.2)",
+                    "frenchspeech": "",
+                    "beginplay": 5.5,
+                    "endplay": 7.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well hurry up! It's eight fifteen already.",
+                    "frenchspeech": "",
+                    "beginplay": 7.5,
+                    "endplay": 12.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Alright! Keep calm. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 12.5,
+                    "endplay": 16.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But David, you're late.",
+                    "frenchspeech": "",
+                    "beginplay": 16.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Don't shout. I can hear you.",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 23.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where are my shoes?",
+                    "frenchspeech": "",
+                    "beginplay": 23.5,
+                    "endplay": 26.5
+                },
+                   {
+                    "alterSpeech": true,
+                    "speech": "Here, with your brief-case.",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 29.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Okay. I'm ready",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 32.5
+                },
+                      {
+                    "alterSpeech": true,
+                    "speech": "At last! (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 32.5,
+                    "endplay": 34.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What time is it now?",
+                    "frenchspeech": "",
+                    "beginplay": 34,
+                    "endplay": 36.5
+                },
+                 {
+                    "alterSpeech": false,
+                    "speech": "It's twenty past eight.",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 39.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Right. I'm off. Bye-bye love.",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 42.8
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Good-bye! (4)",
+                    "frenchspeech": "",
+                    "beginplay": 43,
+                    "endplay": 45
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's now twenty-five past eight. David is at the station.",
+                    "frenchspeech": "",
+                    "beginplay": 46,
+                    "endplay": 53
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He has his paper under his arm. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 53.5,
+                    "endplay": 58.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "His brief-case is on the platform and he is waiting for the eight-thirty train. (6) (N.3)",
+                    "frenchspeech": "",
+                    "beginplay": 58.5,
+                    "endplay": 67.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's never on time, he says impatiently.",
+                    "frenchspeech": "",
+                    "beginplay": 67.5,
+                    "endplay": 74
+                }
+            ]
+        },
+            {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What time is it? Hurry up.",
+                    "frenchspeech": "",
+                    "beginplay": 74.5,
+                    "endplay": 80.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "I'm off.",
+                    "frenchspeech": "",
+                    "beginplay": 80.5,
+                    "endplay": 85
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,200 @@
+﻿{
+    "age": 1,
+    "haveIntro": true,
+    "introduction": "Nous introduisons les contractions. Remarquez qu'il s'agit de l'anglais parlé.",
+    "idfile": "lesson_001",
+    "page_number_descr_left": "1 one (oueuno)",
+    "page_number_descr_right": "two (tou) 2",
+    "page_info_english": { "description_lang": "First Lesson","description_audio_begin": 0,"description_audio_end": 2},
+    "page_info_french": { "description_lang": "Première leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_01.jpg",
+    "audioUrl": "../../audio/audio_lesson_01.mp3",
+    "numSentences": 11,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You're an excellent doctor",
+                    "frenchspeech": "Vous êtes un excellent médecin.",
+                    "beginplay": 2,
+                    "endplay": 7
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Thank you, you're very polite",
+                    "frenchspeech": "Merci, vous êtes très poli.",
+                    "beginplay": 7,
+                    "endplay": 12
+
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This is my brother John",
+                    "frenchspeech": "Voici (Ceci est) mon frère John.",
+                    "beginplay": 12,
+                    "endplay": 18
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Hello, I'm David",
+                    "frenchspeech": "Bonjour, je suis David.",
+                    "beginplay": 18,
+                    "endplay": 22
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh dear, we're late again",
+                    "frenchspeech": "Mon Dieu, nous sommes encore [en] retard.",
+                    "beginplay": 22,
+                    "endplay": 28
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It isn't my fault. There isn't a clock in my house. (1)",
+                    "frenchspeech": "Ce n'est pas ma faute. Il n'y a pas [de] pendule dans ma maison.",
+                    "beginplay": 28,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This isn't very difficult",
+                    "frenchspeech": "Ceci n'est pas très difficile.",
+                    "beginplay": 36,
+                    "endplay": 40
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Not at all. It's easy. (2)",
+                    "frenchspeech": "Pas du tout. C'est facile.",
+                    "beginplay": 40,
+                    "endplay": 46
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She isn't very pretty.",
+                    "frenchspeech": "Elle n'est pas très jolie.",
+                    "beginplay": 46,
+                    "endplay": 50
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, but she's kind.",
+                    "frenchspeech": "Non, mais elle est gentille.",
+                    "beginplay": 50,
+                    "endplay": 55
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm sure this is our house.",
+                    "frenchspeech": "Je suis sûr [que] (ceci est) c'est notre maison.",
+                    "beginplay": 55,
+                    "endplay": 60
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, it isn't! (3) (N.3)",
+                    "frenchspeech": "Non ce n'est pas [elle].",
+                    "beginplay": 60,
+                    "endplay": 63
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I am; I'm - you are; you're.",
+                    "frenchspeech": "Je suis ; je suis (contracté) - vous êtes ; vous êtes (contracté).",
+                    "beginplay": 63,
+                    "endplay": 72
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "it is; it's - he is; he's - we are; we're.",
+                    "frenchspeech": "C'est ; c'est (contracté) - il est ; il est (contracté); nous sommes ; nous sommes (contracté).",
+                    "beginplay": 72,
+                    "endplay": 84
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "isn't; he isn't late.",
+                    "frenchspeech": "N'est pas ; Il n'est pas [en] retard.",
+                    "beginplay": 84,
+                    "endplay": 90
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "aren't; we aren't polite.",
+                    "frenchspeech": "Ne sont pas ; nous ne sommes pas polis.",
+                    "beginplay": 90,
+                    "endplay": 100
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "(1)",
+            "valuenote": "Outre les pronoms masculin et féminin (he et she) il y a le neutre it, qui se rapporte aux choses et à la plupart des animaux. Pour le pluriel, il n'y a qu'un seul pronom they qui signifie ils ou elles."
+        },
+        {
+            "keynote": "(2)",
+            "valuenote": "Dans la contraction it's, le it's est sibilant (its izi)."
+        },
+        {
+            "keynote": "(3)",
+            "valuenote": "Notez bien la prononciation de sure : <shour>."
+        },
+        {
+            "keynote": "(N 3)",
+            "valuenote": "signifie qu'il y a une note spéciale dans la révision de fin de semaine (leçon multiple de 7)."
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

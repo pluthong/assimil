@@ -1,0 +1,197 @@
+﻿{
+    "age": 65,
+    "haveIntro": true,
+    "introduction": "Public transport",
+    "idfile": "lesson_065",
+    "page_number_descr_left": "129 one hundred and twenty-nine",
+    "page_number_descr_right": "one hundred and thirty 130",
+    "page_info_english": { "description_lang": "Sixty-fifth (65th) Lesson", "description_audio_begin": 0, "description_audio_end": 5.5 },
+    "page_info_french": { "description_lang": "Soixante-cinquième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_65.jpg",
+    "audioUrl": "../../audio/audio_lesson_65.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David Wilson travels to work every morning by tube.",
+                    "frenchspeech": "",
+                    "beginplay": 5.5,
+                    "endplay": 10.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The tube or the Underground is something like the Metro in Paris.",
+                    "frenchspeech": "",
+                    "beginplay": 10.8,
+                    "endplay": 16.4
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But, unlike the Metro, it is rather oldfashioned and quite expensive. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 16.4,
+                    "endplay": 22.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You pay according to the distance you want to travel. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 22.8,
+                    "endplay": 28.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You can buy* a season ticket, which allows you to travel for a certain period at a lower price.",
+                    "frenchspeech": "",
+                    "beginplay": 28.5,
+                    "endplay": 36.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Although most of the tube is autmatic, there are still employees who check your ticket at the exit. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 44.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "So you must keep* your ticket until you finish your journey. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 49.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You can also travel by bus, which is slower but gives* you a better view.",
+                    "frenchspeech": "",
+                    "beginplay": 49.5,
+                    "endplay": 57.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Most buses are double-deckers and you are allowed to smoke upstairs. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 57.5,
+                    "endplay": 63
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "On these buses, there is a driver and a conductor, who collects your fares. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 63,
+                    "endplay": 70
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Finally, there are the famous London taxis, or \" Hackney Cabs \". (7)",
+                    "frenchspeech": "",
+                    "beginplay": 70,
+                    "endplay": 77
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These large, black, diesel-engined vehicles are a familiar sight in the Capital.",
+                    "frenchspeech": "",
+                    "beginplay": 77,
+                    "endplay": 86.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "If the cab is free, you will see* a little \" For Hire \" sign in the front. (8)",
+                    "frenchspeech": "",
+                    "beginplay": 86.5,
+                    "endplay": 92.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Of course, the best way to see the city is on foot, but you need a rest from time to time.",
+                    "frenchspeech": "",
+                    "beginplay": 92.3,
+                    "endplay": 101
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

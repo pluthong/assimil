@@ -1,0 +1,197 @@
+﻿{
+    "age": 96,
+    "haveIntro": true,
+    "introduction": "Health",
+    "idfile": "lesson_096",
+    "page_number_descr_left": "177 one hundred and seventy-seven",
+    "page_number_descr_right": "one hundred and seventy-eight 178",
+    "page_info_english": { "description_lang": "Ninety-fifth (96th) Lesson", "description_audio_begin": 0, "description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Quatre-vingt-seizième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_96.jpg",
+    "audioUrl": "../../audio/audio_lesson_96.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you remember, in Lesson fifty-seven, John had to see the doctor?",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 12
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In England, you do not pay* the doctor or the hospital, and you pay* only a small charge for the dentist. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 12,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This is because of the National Health Service, which pays* all medical costs. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 27.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It is financed in part by contributions called National Insurance payments.",
+                    "frenchspeech": "",
+                    "beginplay": 27.5,
+                    "endplay": 35.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Every working man or woman has to make* a single National Insurance contribution every week. (3) (4)",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 44.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It is the responsibility of the employer to make* sure that the payments are made.",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 52
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He deducts a sum from the worker's wage or salary and then adds his own contribution. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 52,
+                    "endplay": 60
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The rest of the money for the National Health Service comes* from general taxation. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 60,
+                    "endplay": 66.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Those whose incomes are too low can obtain what is called Supplementary Benefit.",
+                    "frenchspeech": "",
+                    "beginplay": 66.5,
+                    "endplay": 75
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "This is a weekly allocation and is financed entirely by general taxation.",
+                    "frenchspeech": "",
+                    "beginplay": 75,
+                    "endplay": 83
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The State also pays* ' pensions ' to people in retirement. (7) ",
+                    "frenchspeech": "",
+                    "beginplay": 83,
+                    "endplay": 89
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These people are known* as 'senior citizens'.",
+                    "frenchspeech": "",
+                    "beginplay": 89,
+                    "endplay": 93.5
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "So, when you go to the doctor's or, for something more serious, the hospital,",
+                    "frenchspeech": "",
+                    "beginplay": 93.5,
+                    "endplay": 100.2
+                }
+            ]
+        },
+             {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "you do not have to worry about the cost.",
+                    "frenchspeech": "",
+                    "beginplay": 100.2,
+                    "endplay": 106
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

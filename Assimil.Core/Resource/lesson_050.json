@@ -1,0 +1,197 @@
+﻿{
+    "age": 50,
+    "haveIntro": true,
+    "introduction": "The past tense",
+    "idfile": "lesson_050",
+    "page_number_descr_left": "99 ninety-nine (naïnté naïn)",
+    "page_number_descr_right": "one hundred (heun'dr'd) 100",
+    "page_info_english": { "description_lang": "Fiftieth (50th) Lesson", "description_audio_begin": 0, "description_audio_end": 5 },
+    "page_info_french": { "description_lang": "Cinquantième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_50.jpg",
+    "audioUrl": "../../audio/audio_lesson_50.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We worked hard yesterday, and today we must look at something new. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You looked at the lesson and listened to the records (or tapes), so now you are ready to learn the past tense.",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 21
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It is very simple. You add  “ ed ” to the infinitive if it ends in a consonant;",
+                    "frenchspeech": "",
+                    "beginplay": 21,
+                    "endplay": 28.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and simply “ -d ” to the infinitive ending in “ e ”.",
+                    "frenchspeech": "",
+                    "beginplay": 28.5,
+                    "endplay": 33.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "For example: to look, I looked; to work, he worked;",
+                    "frenchspeech": "",
+                    "beginplay": 33.5,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "To like, they liked; to smile, we smiled.",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are, of course, some irregular verbs, but they are not too complicated.",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 58
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's look at our old friends “ to be ” and “ to have ”.",
+                    "frenchspeech": "",
+                    "beginplay": 58,
+                    "endplay": 63.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "“ To have ” is extremely simple. It becomes “ had ”: you had, he had. (N.1)",
+                    "frenchspeech": "",
+                    "beginplay": 63.5,
+                    "endplay": 72.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "“ to be ” has two forms: I was, he was; and “ you were, they were ”. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 72.5,
+                    "endplay": 83.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You see how simple it is!",
+                    "frenchspeech": "",
+                    "beginplay": 83.3,
+                    "endplay": 86
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We had dinner at eight o'clock, John and Peter were there.",
+                    "frenchspeech": "",
+                    "beginplay": 86,
+                    "endplay": 92
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I had a cold last week and I was quite ill.",
+                    "frenchspeech": "",
+                    "beginplay": 92,
+                    "endplay": 97
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We hoped to see her but she was busy.",
+                    "frenchspeech": "",
+                    "beginplay": 97,
+                    "endplay": 102
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

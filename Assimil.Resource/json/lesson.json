@@ -1,0 +1,58 @@
+﻿[
+    {
+        "age": 1,
+        "idfile": "Lesson_01",
+        "description": "First Lesson",
+        "isRevision": false,
+        "imageUrl": "img/lessons/img_lesson_01.jpg",
+        "audioUrl": "audio/audio_lesson_01.mp3"
+    },
+    {
+        "age": 2,
+        "idfile": "Lesson_02",
+        "description": "Second Lesson",
+        "isRevision": false,
+        "imageUrl": "img/lessons/img_lesson_02.jpg",
+        "audioUrl": "audio/audio_lesson_02.mp3"
+    },
+    {
+        "age": 3,
+        "idfile": "Lesson_03",
+        "description": "Third Lesson",
+        "isRevision": false,
+        "imageUrl": "img/lessons/img_lesson_03.jpg",
+        "audioUrl": "audio/audio_lesson_03.mp3"
+    },
+    {
+        "age": 4,
+        "idfile": "Lesson_04",
+        "description": "Fourth Lesson",
+        "isRevision": false,
+        "imageUrl": "img/lessons/img_lesson_04.jpg",
+        "audioUrl": "audio/audio_lesson_04.mp3"
+    },
+    {
+        "age": 5,
+        "idfile": "Lesson_05",
+        "description": "Fifth Lesson",
+        "isRevision": false,
+        "imageUrl": "img/lessons/img_lesson_05.jpg",
+        "audioUrl": "audio/audio_lesson_05.mp3"
+    },
+    {
+        "age": 6,
+        "idfile": "Lesson_06",
+        "description": "Sixth Lesson",
+        "isRevision": false,
+        "imageUrl": "img/lessons/img_lesson_06.jpg",
+        "audioUrl": "audio/audio_lesson_06.mp3"
+    },
+    {
+        "age": 7,
+        "idfile": "Lesson_07",
+        "description": "Seventh Lesson",
+        "isRevision": true,
+        "imageUrl": "img/lessons/img_lesson_07.jpg",
+        "audioUrl": "audio/audio_lesson_07.mp3"
+    }
+]

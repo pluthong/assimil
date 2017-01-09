@@ -1,0 +1,186 @@
+﻿{
+    "age": 86,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_086",
+    "page_number_descr_left": "157 one hundred and fifty-seven",
+    "page_number_descr_right": "one hundred and fifty-eight 158",
+    "page_info_english": { "description_lang": "Eighty-sixth (86th) Lesson", "description_audio_begin": 0, "description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Quatre-vingt-sixième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_86.jpg",
+    "audioUrl": "../../audio/audio_lesson_86.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David's parents spent a traditional English Sunday: (1)",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 7.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They got* up early and went* to church.",
+                    "frenchspeech": "",
+                    "beginplay": 7.8,
+                    "endplay": 12.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When they came* back, Mrs Wilson put* the joint in the oven",
+                    "frenchspeech": "",
+                    "beginplay": 12.5,
+                    "endplay": 16.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "while Mr Wilson took* the Sunday paper and sat down to read*. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 16.5,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Just before lunch, he poured two glasses of sherry and they both drank*.",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 28.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mrs Wilson served the food and they sat* down to eat.",
+                    "frenchspeech": "",
+                    "beginplay": 28.5,
+                    "endplay": 33
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "After lunch, which consisted of roast beef, potatoes and Brussel sprouts and fruit,",
+                    "frenchspeech": "",
+                    "beginplay": 33,
+                    "endplay": 40.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "they both did the washing-up.",
+                    "frenchspeech": "",
+                    "beginplay": 40.5,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When everything was put* away, Mrs Wilson went* into the garden (3)",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 48.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and Mr Wilson sat* in front of the television.",
+                    "frenchspeech": "",
+                    "beginplay": 48.5,
+                    "endplay": 51.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He was intending to watch a play, but he was full, and everything was so peaceful that he dozed. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 51.5,
+                    "endplay": 61.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Later on, Mrs Wilson came* in from the garden and made* some tea.",
+                    "frenchspeech": "",
+                    "beginplay": 61.5,
+                    "endplay": 68
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In the evening, Mr Wilson did the cross-word while Mrs Wilson did some knitting.",
+                    "frenchspeech": "",
+                    "beginplay": 68,
+                    "endplay": 76
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

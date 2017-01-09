@@ -1,0 +1,186 @@
+﻿{
+    "age": 47,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_047",
+    "page_number_descr_left": "93 ninety-three (naïnté trî)",
+    "page_number_descr_right": "ninety-four (naïnté fôr) 94",
+    "page_info_english": { "description_lang": "Forty-seventh (47th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Quarante-septième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_47.jpg",
+    "audioUrl": "../../audio/audio_lesson_47.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "An Englisman and a Frenchman are discussing their respective countries. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Of course, says the Englisman, you Frenchmen are not gentlemen.",
+                    "frenchspeech": "",
+                    "beginplay": 8,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And why not? replies his friend, slightly annoyed. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, for example, if you enter a bathroom by mistake, (3)",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 25.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and you see a young lady washing, what do you say?",
+                    "frenchspeech": "",
+                    "beginplay": 25.5,
+                    "endplay": 30
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "we say  “ Excuse me, madam ”.",
+                    "frenchspeech": "",
+                    "beginplay": 30,
+                    "endplay": 34
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Exactly, says the Englishman, but a gentleman says: Excuse me, sir.",
+                    "frenchspeech": "",
+                    "beginplay": 34,
+                    "endplay": 42
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A gentleman is a person capable of two things.",
+                    "frenchspeech": "",
+                    "beginplay": 42,
+                    "endplay": 47.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He can describe a pretty girl without using gestures,",
+                    "frenchspeech": "",
+                    "beginplay": 47.5,
+                    "endplay": 51.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and he always hears a funny story for the first time.",
+                    "frenchspeech": "",
+                    "beginplay": 51.7,
+                    "endplay": 57
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Two English gentlemen are eating a meal in their club.",
+                    "frenchspeech": "",
+                    "beginplay": 57,
+                    "endplay": 62.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They taste the soup with great interest, and one says to the other: (4)",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 67.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's an interesting soup, but not a great soup.",
+                    "frenchspeech": "",
+                    "beginplay": 67.7,
+                    "endplay": 75
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EC47144B-F812-42C2-A3A5-1E3C333B249A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Assimil.Core</RootNamespace>
+    <AssemblyName>Assimil.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.6\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Concrete\AssimilProvider.cs" />
+    <Compile Include="Concrete\LessonProvider.cs" />
+    <Compile Include="Interface\IAssimil.cs" />
+    <Compile Include="Interface\ILesson.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\Helpers.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Assimil.Domain\Assimil.Domain.csproj">
+      <Project>{dd7391d6-bd73-40d5-a5a1-0bca3313418c}</Project>
+      <Name>Assimil.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resource\lesson.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <EmbeddedResource Include="Resource\lesson_001.json" />
+    <EmbeddedResource Include="Resource\lesson_002.json" />
+    <EmbeddedResource Include="Resource\ceac.json" />
+    <EmbeddedResource Include="Resource\lesson_005.json" />
+    <EmbeddedResource Include="Resource\lesson_003.json" />
+    <EmbeddedResource Include="Resource\lesson_004.json" />
+    <EmbeddedResource Include="Resource\lesson_006.json" />
+    <EmbeddedResource Include="Resource\lesson_007.json" />
+    <EmbeddedResource Include="Resource\lesson_008.json" />
+    <EmbeddedResource Include="Resource\lesson_009.json" />
+    <EmbeddedResource Include="Resource\lesson_010.json" />
+    <EmbeddedResource Include="Resource\lesson_011.json" />
+    <EmbeddedResource Include="Resource\lesson_012.json" />
+    <EmbeddedResource Include="Resource\lesson_013.json" />
+    <EmbeddedResource Include="Resource\lesson_014.json" />
+    <EmbeddedResource Include="Resource\lesson_015.json" />
+    <EmbeddedResource Include="Resource\lesson_016.json" />
+    <EmbeddedResource Include="Resource\lesson_017.json" />
+    <EmbeddedResource Include="Resource\lesson_018.json" />
+    <EmbeddedResource Include="Resource\lesson_019.json" />
+    <EmbeddedResource Include="Resource\lesson_020.json" />
+    <EmbeddedResource Include="Resource\lesson_021.json" />
+    <EmbeddedResource Include="Resource\lesson_022.json" />
+    <EmbeddedResource Include="Resource\lesson_023.json" />
+    <EmbeddedResource Include="Resource\lesson_024.json" />
+    <EmbeddedResource Include="Resource\lesson_025.json" />
+    <EmbeddedResource Include="Resource\lesson_026.json" />
+    <EmbeddedResource Include="Resource\lesson_027.json" />
+    <EmbeddedResource Include="Resource\lesson_028.json" />
+    <EmbeddedResource Include="Resource\lesson_029.json" />
+    <EmbeddedResource Include="Resource\lesson_030.json" />
+    <EmbeddedResource Include="Resource\lesson_031.json" />
+    <EmbeddedResource Include="Resource\lesson_032.json" />
+    <EmbeddedResource Include="Resource\lesson_033.json" />
+    <EmbeddedResource Include="Resource\lesson_034.json" />
+    <EmbeddedResource Include="Resource\lesson_035.json" />
+    <EmbeddedResource Include="Resource\lesson_036.json" />
+    <EmbeddedResource Include="Resource\lesson_037.json" />
+    <EmbeddedResource Include="Resource\lesson_038.json" />
+    <EmbeddedResource Include="Resource\lesson_039.json" />
+    <EmbeddedResource Include="Resource\lesson_040.json" />
+    <EmbeddedResource Include="Resource\lesson_041.json" />
+    <EmbeddedResource Include="Resource\lesson_042.json" />
+    <EmbeddedResource Include="Resource\lesson_043.json" />
+    <EmbeddedResource Include="Resource\lesson_044.json" />
+    <EmbeddedResource Include="Resource\lesson_045.json" />
+    <EmbeddedResource Include="Resource\lesson_046.json" />
+    <EmbeddedResource Include="Resource\lesson_047.json" />
+    <EmbeddedResource Include="Resource\lesson_048.json" />
+    <EmbeddedResource Include="Resource\lesson_049.json" />
+    <EmbeddedResource Include="Resource\lesson_050.json" />
+    <EmbeddedResource Include="Resource\lesson_051.json" />
+    <EmbeddedResource Include="Resource\lesson_052.json" />
+    <EmbeddedResource Include="Resource\lesson_053.json" />
+    <EmbeddedResource Include="Resource\lesson_054.json" />
+    <EmbeddedResource Include="Resource\lesson_055.json" />
+    <EmbeddedResource Include="Resource\lesson_056.json" />
+    <EmbeddedResource Include="Resource\lesson_057.json" />
+    <EmbeddedResource Include="Resource\lesson_058.json" />
+    <EmbeddedResource Include="Resource\lesson_059.json" />
+    <EmbeddedResource Include="Resource\lesson_060.json" />
+    <EmbeddedResource Include="Resource\lesson_061.json" />
+    <EmbeddedResource Include="Resource\lesson_062.json" />
+    <EmbeddedResource Include="Resource\lesson_063.json" />
+    <EmbeddedResource Include="Resource\lesson_077.json" />
+    <EmbeddedResource Include="Resource\lesson_076.json" />
+    <EmbeddedResource Include="Resource\lesson_075.json" />
+    <EmbeddedResource Include="Resource\lesson_074.json" />
+    <EmbeddedResource Include="Resource\lesson_073.json" />
+    <EmbeddedResource Include="Resource\lesson_072.json" />
+    <EmbeddedResource Include="Resource\lesson_071.json" />
+    <EmbeddedResource Include="Resource\lesson_070.json" />
+    <EmbeddedResource Include="Resource\lesson_069.json" />
+    <EmbeddedResource Include="Resource\lesson_068.json" />
+    <EmbeddedResource Include="Resource\lesson_067.json" />
+    <EmbeddedResource Include="Resource\lesson_066.json" />
+    <EmbeddedResource Include="Resource\lesson_065.json" />
+    <EmbeddedResource Include="Resource\lesson_064.json" />
+    <EmbeddedResource Include="Resource\lesson_078.json" />
+    <EmbeddedResource Include="Resource\lesson_079.json" />
+    <EmbeddedResource Include="Resource\lesson_080.json" />
+    <EmbeddedResource Include="Resource\lesson_081.json" />
+    <EmbeddedResource Include="Resource\lesson_082.json" />
+    <EmbeddedResource Include="Resource\lesson_083.json" />
+    <EmbeddedResource Include="Resource\lesson_084.json" />
+    <EmbeddedResource Include="Resource\lesson_085.json" />
+    <EmbeddedResource Include="Resource\lesson_086.json" />
+    <EmbeddedResource Include="Resource\lesson_087.json" />
+    <EmbeddedResource Include="Resource\lesson_088.json" />
+    <EmbeddedResource Include="Resource\lesson_089.json" />
+    <EmbeddedResource Include="Resource\lesson_090.json" />
+    <EmbeddedResource Include="Resource\lesson_091.json" />
+    <EmbeddedResource Include="Resource\lesson_092.json" />
+    <EmbeddedResource Include="Resource\lesson_093.json" />
+    <EmbeddedResource Include="Resource\lesson_094.json" />
+    <EmbeddedResource Include="Resource\lesson_095.json" />
+    <EmbeddedResource Include="Resource\lesson_096.json" />
+    <EmbeddedResource Include="Resource\lesson_097.json" />
+    <EmbeddedResource Include="Resource\lesson_098.json" />
+    <EmbeddedResource Include="Resource\lesson_099.json" />
+    <EmbeddedResource Include="Resource\lesson_100.json" />
+    <EmbeddedResource Include="Resource\lesson_101.json" />
+    <EmbeddedResource Include="Resource\lesson_102.json" />
+    <EmbeddedResource Include="Resource\lesson_103.json" />
+    <EmbeddedResource Include="Resource\lesson_104.json" />
+    <EmbeddedResource Include="Resource\lesson_105.json" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties Resource_2lesson__03_1json__JSONSchema="http://json-schema.org/calendar" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

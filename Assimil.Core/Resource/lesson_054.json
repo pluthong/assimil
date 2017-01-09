@@ -1,0 +1,218 @@
+﻿{
+    "age": 54,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_54",
+    "page_number_descr_left": "107 one hundred and seven",
+    "page_number_descr_right": "one hundred and eight 108",
+    "page_info_english": { "description_lang": "Fifty-fourth (54th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Cinquante-quatrième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_54.jpg",
+    "audioUrl": "../../audio/audio_lesson_54.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Tell me more about your trip. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 5.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, Peter and I took a plane to San Francisco. We stayed there for two days an went down to Monterrey.",
+                    "frenchspeech": "",
+                    "beginplay": 5.5,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There we saw Cannery Row.",
+                    "frenchspeech": "",
+                    "beginplay": 14.4,
+                    "endplay": 17.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Didn't someone write a book about that?",
+                    "frenchspeech": "",
+                    "beginplay": 17.5,
+                    "endplay": 20.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, John Steinbeck wrote one. They also held a pop festival there in the sixties. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 20.8,
+                    "endplay": 27
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then we drove to Los Angeles and visited Disneyland. Peter knew it already.",
+                    "frenchspeech": "",
+                    "beginplay": 27,
+                    "endplay": 34.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I thought Disneyland was fantastic. It reminded me of the « Conciergerie » in Paris. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 42
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What an educated person!",
+                    "frenchspeech": "",
+                    "beginplay": 42,
+                    "endplay": 47
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It was my birthday last week.",
+                    "frenchspeech": "",
+                    "beginplay": 47,
+                    "endplay": 50.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "How old were you?",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 52.5
+                },
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, at least thirty-two",
+                    "frenchspeech": "",
+                    "beginplay": 52.5,
+                    "endplay": 57
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The ten best years of a woman's life.",
+                    "frenchspeech": "",
+                    "beginplay": 57,
+                    "endplay": 60.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Are those between twenty-nine and thirty.",
+                    "frenchspeech": "",
+                    "beginplay": 61,
+                    "endplay": 65
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Shopkeeper. - Your bill isn't paid yet. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 65,
+                    "endplay": 69.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Customer. - Didn't you receive my cheque?",
+                    "frenchspeech": "",
+                    "beginplay": 69.3,
+                    "endplay": 72
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Shopkeeper. - No, I didn't.",
+                    "frenchspeech": "",
+                    "beginplay": 72,
+                    "endplay": 74.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Customer. - I'll post it at once. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 74.6,
+                    "endplay": 78
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

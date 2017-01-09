@@ -1,0 +1,842 @@
+﻿[
+  {
+    "age": 1,
+    "idfile": "lesson_001",
+    "description": "First Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_01.jpg",
+    "audioUrl": "../../audio/audio_lesson_01.mp3"
+  },
+  {
+    "age": 2,
+    "idfile": "lesson_002",
+    "description": "Second Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_02.jpg",
+    "audioUrl": "../../audio/audio_lesson_02.mp3"
+  },
+  {
+    "age": 3,
+    "idfile": "lesson_003",
+    "description": "Third Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_03.jpg",
+    "audioUrl": "../../audio/audio_lesson_03.mp3"
+  },
+  {
+    "age": 4,
+    "idfile": "lesson_004",
+    "description": "Fourth Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_04.jpg",
+    "audioUrl": "../../audio/audio_lesson_04.mp3"
+  },
+  {
+    "age": 5,
+    "idfile": "lesson_005",
+    "description": "Fifth Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_05.jpg",
+    "audioUrl": "../../audio/audio_lesson_05.mp3"
+  },
+  {
+    "age": 6,
+    "idfile": "lesson_006",
+    "description": "Sixth Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_06.jpg",
+    "audioUrl": "../../audio/audio_lesson_06.mp3"
+  },
+  {
+    "age": 7,
+    "idfile": "lesson_007",
+    "description": "Seventh Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_07.jpg",
+    "audioUrl": "../../audio/audio_lesson_07.mp3"
+  },
+  {
+    "age": 8,
+    "idfile": "lesson_008",
+    "description": "Eighth (8th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_08.jpg",
+    "audioUrl": "../../audio/audio_lesson_08.mp3"
+  },
+  {
+    "age": 9,
+    "idfile": "lesson_009",
+    "description": "Ninth (9th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_09.jpg",
+    "audioUrl": "../../audio/audio_lesson_09.mp3"
+  },
+  {
+    "age": 10,
+    "idfile": "lesson_010",
+    "description": "Tenth (10th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_10.jpg",
+    "audioUrl": "../../audio/audio_lesson_10.mp3"
+  },
+  {
+    "age": 11,
+    "idfile": "lesson_011",
+    "description": "Eleventh (11th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_11.jpg",
+    "audioUrl": "../../audio/audio_lesson_11.mp3"
+  },
+  {
+    "age": 12,
+    "idfile": "lesson_012",
+    "description": "Twelfth (12th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_12.jpg",
+    "audioUrl": "../../audio/audio_lesson_12.mp3"
+  },
+  {
+    "age": 13,
+    "idfile": "lesson_013",
+    "description": "Thirteenth (13th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_13.jpg",
+    "audioUrl": "../../audio/audio_lesson_13.mp3"
+  },
+  {
+    "age": 14,
+    "idfile": "lesson_014",
+    "description": "Fourteenth (14th) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_14.jpg",
+    "audioUrl": "../../audio/audio_lesson_14.mp3"
+  },
+  {
+    "age": 15,
+    "idfile": "lesson_015",
+    "description": "Fifteenth (15th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_15.jpg",
+    "audioUrl": "../../audio/audio_lesson_15.mp3"
+  },
+  {
+    "age": 16,
+    "idfile": "lesson_016",
+    "description": "Sixteenth (16th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_16.jpg",
+    "audioUrl": "../../audio/audio_lesson_16.mp3"
+  },
+  {
+    "age": 17,
+    "idfile": "lesson_017",
+    "description": "Seventeenth (17th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_17.jpg",
+    "audioUrl": "../../audio/audio_lesson_17.mp3"
+  },
+  {
+    "age": 18,
+    "idfile": "lesson_018",
+    "description": "Eighteenth (18th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_18.jpg",
+    "audioUrl": "../../audio/audio_lesson_18.mp3"
+  },
+  {
+    "age": 19,
+    "idfile": "lesson_019",
+    "description": "Nineteenth (19th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_19.jpg",
+    "audioUrl": "../../audio/audio_lesson_19.mp3"
+  },
+  {
+    "age": 20,
+    "idfile": "lesson_020",
+    "description": "Twentieth (20th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_20.jpg",
+    "audioUrl": "../../audio/audio_lesson_20.mp3"
+  },
+  {
+    "age": 21,
+    "idfile": "lesson_021",
+    "description": "Twenty-first (21st) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_21.jpg",
+    "audioUrl": "../../audio/audio_lesson_21.mp3"
+  },
+  {
+    "age": 22,
+    "idfile": "lesson_22",
+    "description": "Twenty-second (22rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_22.jpg",
+    "audioUrl": "../../audio/audio_lesson_22.mp3"
+  },
+  {
+    "age": 23,
+    "idfile": "lesson_023",
+    "description": "Twenty-third (23rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_23.jpg",
+    "audioUrl": "../../audio/audio_lesson_23.mp3"
+  },
+  {
+    "age": 24,
+    "idfile": "lesson_024",
+    "description": "Twenty-fourth (24th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_24.jpg",
+    "audioUrl": "../../audio/audio_lesson_24.mp3"
+  },
+  {
+    "age": 25,
+    "idfile": "lesson_025",
+    "description": "Twenty-fifth (25th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_25.jpg",
+    "audioUrl": "../../audio/audio_lesson_25.mp3"
+  },
+  {
+    "age": 26,
+    "idfile": "lesson_026",
+    "description": "Twenty-sixth (26th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_26.jpg",
+    "audioUrl": "../../audio/audio_lesson_26.mp3"
+  },
+  {
+    "age": 27,
+    "idfile": "lesson_027",
+    "description": "Twenty-seventh (27th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_27.jpg",
+    "audioUrl": "../../audio/audio_lesson_27.mp3"
+  },
+  {
+    "age": 28,
+    "idfile": "lesson_028",
+    "description": "Twenty-eighth (28th) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_28.jpg",
+    "audioUrl": "../../audio/audio_lesson_28.mp3"
+  },
+  {
+    "age": 29,
+    "idfile": "lesson_029",
+    "description": "Twenty-ninth (29th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_29.jpg",
+    "audioUrl": "../../audio/audio_lesson_29.mp3"
+  },
+  {
+    "age": 30,
+    "idfile": "lesson_030",
+    "description": "Thirtieth (30th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_30.jpg",
+    "audioUrl": "../../audio/audio_lesson_30.mp3"
+  },
+  {
+    "age": 31,
+    "idfile": "lesson_031",
+    "description": "Thirty-first (31th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_31.jpg",
+    "audioUrl": "../../audio/audio_lesson_31.mp3"
+  },
+  {
+    "age": 32,
+    "idfile": "lesson_032",
+    "description": "Thirty-second (32th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_32.jpg",
+    "audioUrl": "../../audio/audio_lesson_32.mp3"
+  },
+  {
+    "age": 33,
+    "idfile": "lesson_033",
+    "description": "Thirty-third (33rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_33.jpg",
+    "audioUrl": "../../audio/audio_lesson_33.mp3"
+  },
+  {
+    "age": 34,
+    "idfile": "lesson_34",
+    "description": "Thirty-fourth (34th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_34.jpg",
+    "audioUrl": "../../audio/audio_lesson_34.mp3"
+  },
+  {
+    "age": 35,
+    "idfile": "lesson_035",
+    "description": "Thirty-fifth (35th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_35.jpg",
+    "audioUrl": "../../audio/audio_lesson_35.mp3"
+  },
+  {
+    "age": 36,
+    "idfile": "lesson_036",
+    "description": "Thirty-sixth (36th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_36.jpg",
+    "audioUrl": "../../audio/audio_lesson_36.mp3"
+  },
+  {
+    "age": 37,
+    "idfile": "lesson_037",
+    "description": "Thirty-seventh (37th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_37.jpg",
+    "audioUrl": "../../audio/audio_lesson_37.mp3"
+  },
+  {
+    "age": 38,
+    "idfile": "lesson_038",
+    "description": "Thirty-eighth (38th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_38.jpg",
+    "audioUrl": "../../audio/audio_lesson_38.mp3"
+  },
+  {
+    "age": 39,
+    "idfile": "lesson_039",
+    "description": "Thirty-ninth (39th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_39.jpg",
+    "audioUrl": "../../audio/audio_lesson_39.mp3"
+  },
+  {
+    "age": 40,
+    "idfile": "lesson_040",
+    "description": "Fortieth (40th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_40.jpg",
+    "audioUrl": "../../audio/audio_lesson_40.mp3"
+  },
+  {
+    "age": 41,
+    "idfile": "lesson_041",
+    "description": "Forty-first (41st) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_41.jpg",
+    "audioUrl": "../../audio/audio_lesson_41.mp3"
+  },
+  {
+    "age": 42,
+    "idfile": "lesson_042",
+    "description": "Forty-second (42nd) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_42.jpg",
+    "audioUrl": "../../audio/audio_lesson_42.mp3"
+  },
+  {
+    "age": 43,
+    "idfile": "lesson_043",
+    "description": "Forty-third (43rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_43.jpg",
+    "audioUrl": "../../audio/audio_lesson_43.mp3"
+  },
+  {
+    "age": 44,
+    "idfile": "lesson_044",
+    "description": "Forty-fourth (44th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_44.jpg",
+    "audioUrl": "../../audio/audio_lesson_44.mp3"
+  },
+  {
+    "age": 45,
+    "idfile": "lesson_045",
+    "description": "Forty-fifth (45th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_45.jpg",
+    "audioUrl": "../../audio/audio_lesson_45.mp3"
+  },
+  {
+    "age": 46,
+    "idfile": "lesson_046",
+    "description": "Forty-sixth (46th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_46.jpg",
+    "audioUrl": "../../audio/audio_lesson_46.mp3"
+  },
+  {
+    "age": 47,
+    "idfile": "lesson_047",
+    "description": "Forty-seventh (47th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_47.jpg",
+    "audioUrl": "../../audio/audio_lesson_47.mp3"
+  },
+  {
+    "age": 48,
+    "idfile": "lesson_048",
+    "description": "Forty-eighth (48th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_48.jpg",
+    "audioUrl": "../../audio/audio_lesson_48.mp3"
+  },
+  {
+    "age": 49,
+    "idfile": "lesson_049",
+    "description": "Forty-ninth (49th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_49.jpg",
+    "audioUrl": "../../audio/audio_lesson_49.mp3"
+  },
+  {
+    "age": 50,
+    "idfile": "lesson_050",
+    "description": "Fiftieth (50th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_50.jpg",
+    "audioUrl": "../../audio/audio_lesson_50.mp3"
+  },
+  {
+    "age": 51,
+    "idfile": "lesson_051",
+    "description": "Fifty-first (51st) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_51.jpg",
+    "audioUrl": "../../audio/audio_lesson_51.mp3"
+  },
+  {
+    "age": 52,
+    "idfile": "lesson_052",
+    "description": "Fifty-second (52nd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_52.jpg",
+    "audioUrl": "../../audio/audio_lesson_52.mp3"
+  },
+  {
+    "age": 53,
+    "idfile": "lesson_053",
+    "description": "Fifty-third (53rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_53.jpg",
+    "audioUrl": "../../audio/audio_lesson_53.mp3"
+  },
+  {
+    "age": 54,
+    "idfile": "lesson_054",
+    "description": "Fifty-fourth (54th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_54.jpg",
+    "audioUrl": "../../audio/audio_lesson_54.mp3"
+  },
+  {
+    "age": 55,
+    "idfile": "lesson_055",
+    "description": "Fifty-fifth (55th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_55.jpg",
+    "audioUrl": "../../audio/audio_lesson_55.mp3"
+  },
+  {
+    "age": 56,
+    "idfile": "lesson_056",
+    "description": "Fifty-sixth (56th) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_56.jpg",
+    "audioUrl": "../../audio/audio_lesson_56.mp3"
+  },
+  {
+    "age": 57,
+    "idfile": "lesson_057",
+    "description": "Fifty-seventh (57th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_57.jpg",
+    "audioUrl": "../../audio/audio_lesson_57.mp3"
+  },
+  {
+    "age": 58,
+    "idfile": "lesson_058",
+    "description": "Fifty-eighth (58th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_58.jpg",
+    "audioUrl": "../../audio/audio_lesson_58.mp3"
+  },
+  {
+    "age": 59,
+    "idfile": "lesson_059",
+    "description": "Fifty-ninth (59th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_59.jpg",
+    "audioUrl": "../../audio/audio_lesson_59.mp3"
+  },
+  {
+    "age": 60,
+    "idfile": "lesson_060",
+    "description": "Sixtieth (60th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_60.jpg",
+    "audioUrl": "../../audio/audio_lesson_60.mp3"
+  },
+  {
+    "age": 61,
+    "idfile": "lesson_061",
+    "description": "Sixty-first (61st) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_61.jpg",
+    "audioUrl": "../../audio/audio_lesson_61.mp3"
+  },
+  {
+    "age": 62,
+    "idfile": "lesson_062",
+    "description": "Sixty-second (62nd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_62.jpg",
+    "audioUrl": "../../audio/audio_lesson_62.mp3"
+  },
+  {
+    "age": 63,
+    "idfile": "lesson_063",
+    "description": "Sixty-third (63rd) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_63.jpg",
+    "audioUrl": "../../audio/audio_lesson_63.mp3"
+  },
+  {
+    "age": 64,
+    "idfile": "lesson_064",
+    "description": "Sixty-fourth (64th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_64.jpg",
+    "audioUrl": "../../audio/audio_lesson_64.mp3"
+  },
+  {
+    "age": 65,
+    "idfile": "lesson_065",
+    "description": "Sixty-fifth (65th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_65.jpg",
+    "audioUrl": "../../audio/audio_lesson_65.mp3"
+  },
+  {
+    "age": 66,
+    "idfile": "lesson_066",
+    "description": "Sixty-sixth (66th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_66.jpg",
+    "audioUrl": "../../audio/audio_lesson_66.mp3"
+  },
+  {
+    "age": 67,
+    "idfile": "lesson_067",
+    "description": "Sixty-seventh (67th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_67.jpg",
+    "audioUrl": "../../audio/audio_lesson_67.mp3"
+  },
+  {
+    "age": 68,
+    "idfile": "lesson_068",
+    "description": "Sixty-eighth (68th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_68.jpg",
+    "audioUrl": "../../audio/audio_lesson_68.mp3"
+  },
+  {
+    "age": 69,
+    "idfile": "lesson_069",
+    "description": "Sixty-ninth (69th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_69.jpg",
+    "audioUrl": "../../audio/audio_lesson_69.mp3"
+  },
+  {
+    "age": 70,
+    "idfile": "lesson_070",
+    "description": "Seventieth (70th) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_70.jpg",
+    "audioUrl": "../../audio/audio_lesson_70.mp3"
+  },
+  {
+    "age": 71,
+    "idfile": "lesson_071",
+    "description": "Seventy-first (71st) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_71.jpg",
+    "audioUrl": "../../audio/audio_lesson_71.mp3"
+  },
+  {
+    "age": 72,
+    "idfile": "lesson_072",
+    "description": "Seventy-second (72nd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_72.jpg",
+    "audioUrl": "../../audio/audio_lesson_72.mp3"
+  },
+  {
+    "age": 73,
+    "idfile": "lesson_073",
+    "description": "Seventy-third (73rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_73.jpg",
+    "audioUrl": "../../audio/audio_lesson_73.mp3"
+  },
+  {
+    "age": 74,
+    "idfile": "lesson_074",
+    "description": "Seventy-fourth (74th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_74.jpg",
+    "audioUrl": "../../audio/audio_lesson_74.mp3"
+  },
+  {
+    "age": 75,
+    "idfile": "lesson_075",
+    "description": "Seventy-fifth (75th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_75.jpg",
+    "audioUrl": "../../audio/audio_lesson_75.mp3"
+  },
+  {
+    "age": 76,
+    "idfile": "lesson_076",
+    "description": "Seventy-sixth (76th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_76.jpg",
+    "audioUrl": "../../audio/audio_lesson_76.mp3"
+  },
+  {
+    "age": 77,
+    "idfile": "lesson_077",
+    "description": "Seventy-seventh (77th) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_77.jpg",
+    "audioUrl": "../../audio/audio_lesson_77.mp3"
+  },
+  {
+    "age": 78,
+    "idfile": "lesson_078",
+    "description": "Seventy-eighth (78th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_78.jpg",
+    "audioUrl": "../../audio/audio_lesson_78.mp3"
+  },
+  {
+    "age": 79,
+    "idfile": "lesson_079",
+    "description": "Seventy-ninth (79th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_79.jpg",
+    "audioUrl": "../../audio/audio_lesson_79.mp3"
+  },
+  {
+    "age": 80,
+    "idfile": "lesson_080",
+    "description": "Eightieth (80th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_80.jpg",
+    "audioUrl": "../../audio/audio_lesson_80.mp3"
+  },
+  {
+    "age": 81,
+    "idfile": "lesson_081",
+    "description": "Eighty-first (81st) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_81.jpg",
+    "audioUrl": "../../audio/audio_lesson_81.mp3"
+  },
+  {
+    "age": 82,
+    "idfile": "lesson_082",
+    "description": "Eighty-second (82nd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_82.jpg",
+    "audioUrl": "../../audio/audio_lesson_82.mp3"
+  },
+  {
+    "age": 83,
+    "idfile": "lesson_083",
+    "description": "Eighty-third (83rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_83.jpg",
+    "audioUrl": "../../audio/audio_lesson_83.mp3"
+  },
+  {
+    "age": 84,
+    "idfile": "lesson_084",
+    "description": "Eighty-fourth (84th) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_84.jpg",
+    "audioUrl": "../../audio/audio_lesson_84.mp3"
+  },
+  {
+    "age": 85,
+    "idfile": "lesson_085",
+    "description": "Eighty-fifth (85th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_85.jpg",
+    "audioUrl": "../../audio/audio_lesson_85.mp3"
+  },
+  {
+    "age": 86,
+    "idfile": "lesson_086",
+    "description": "Eighty-sixth (86th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_86.jpg",
+    "audioUrl": "../../audio/audio_lesson_86.mp3"
+  },
+  {
+    "age": 87,
+    "idfile": "lesson_087",
+    "description": "Eighty-seventh (87th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_87.jpg",
+    "audioUrl": "../../audio/audio_lesson_87.mp3"
+  },
+  {
+    "age": 88,
+    "idfile": "lesson_088",
+    "description": "Eighty-eighth (88th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_88.jpg",
+    "audioUrl": "../../audio/audio_lesson_88.mp3"
+  },
+  {
+    "age": 89,
+    "idfile": "lesson_089",
+    "description": "Eighty-ninth (89th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_89.jpg",
+    "audioUrl": "../../audio/audio_lesson_89.mp3"
+  },
+  {
+    "age": 90,
+    "idfile": "lesson_090",
+    "description": "Quatre-vingt-dixième leçon",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_90.jpg",
+    "audioUrl": "../../audio/audio_lesson_90.mp3"
+  },
+  {
+    "age": 91,
+    "idfile": "lesson_091",
+    "description": "Ninety-first (91st) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_91.jpg",
+    "audioUrl": "../../audio/audio_lesson_91.mp3"
+  },
+  {
+    "age": 92,
+    "idfile": "lesson_092",
+    "description": "Ninety-second (92nd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_92.jpg",
+    "audioUrl": "../../audio/audio_lesson_92.mp3"
+  },
+  {
+    "age": 93,
+    "idfile": "lesson_093",
+    "description": "Ninety-third (93rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_93.jpg",
+    "audioUrl": "../../audio/audio_lesson_93.mp3"
+  },
+  {
+    "age": 94,
+    "idfile": "lesson_094",
+    "description": "Ninety-fourth (94th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_94.jpg",
+    "audioUrl": "../../audio/audio_lesson_94.mp3"
+  },
+  {
+    "age": 95,
+    "idfile": "lesson_095",
+    "description": "Ninety-fifth (95th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_95.jpg",
+    "audioUrl": "../../audio/audio_lesson_95.mp3"
+  },
+  {
+    "age": 96,
+    "idfile": "lesson_096",
+    "description": "Ninety-fifth (96th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_96.jpg",
+    "audioUrl": "../../audio/audio_lesson_96.mp3"
+  },
+  {
+    "age": 97,
+    "idfile": "lesson_097",
+    "description": "Ninety-seventh (97th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_97.jpg",
+    "audioUrl": "../../audio/audio_lesson_97.mp3"
+  },
+  {
+    "age": 98,
+    "idfile": "lesson_098",
+    "description": "Ninety-eighth (98th) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_98.jpg",
+    "audioUrl": "../../audio/audio_lesson_98.mp3"
+  },
+  {
+    "age": 99,
+    "idfile": "lesson_099",
+    "description": "Ninety-eighth (98th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_98.jpg",
+    "audioUrl": "../../audio/audio_lesson_98.mp3"
+  },
+  {
+    "age": 100,
+    "idfile": "lesson_100",
+    "description": "Hundredth (100th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_100.jpg",
+    "audioUrl": "../../audio/audio_lesson_100.mp3"
+  },
+  {
+    "age": 101,
+    "idfile": "lesson_101",
+    "description": "Hundred and first (101st) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_101.jpg",
+    "audioUrl": "../../audio/audio_lesson_101.mp3"
+  },
+  {
+    "age": 102,
+    "idfile": "lesson_102",
+    "description": "Hundred and second (102nd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_102.jpg",
+    "audioUrl": "../../audio/audio_lesson_102.mp3"
+  },
+  {
+    "age": 103,
+    "idfile": "lesson_103",
+    "description": "Hundred and third (103rd) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_103.jpg",
+    "audioUrl": "../../audio/audio_lesson_103.mp3"
+  },
+  {
+    "age": 104,
+    "idfile": "lesson_104",
+    "description": "Hundred and fourth (104th) Lesson",
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_104.jpg",
+    "audioUrl": "../../audio/audio_lesson_104.mp3"
+  },
+    {
+    "age": 105,
+    "idfile": "lesson_105",
+    "description": "Hundred and fifth (105th) Lesson",
+    "isRevision": true,
+    "imageUrl": "../../img/lessons/img_lesson_105.jpg",
+    "audioUrl": "../../audio/audio_lesson_105.mp3"
+  }
+]

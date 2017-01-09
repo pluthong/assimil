@@ -1,0 +1,197 @@
+﻿{
+    "age": 73,
+    "haveIntro": true,
+    "introduction": "A little mystery",
+    "idfile": "lesson_073",
+    "page_number_descr_left": "145 one hundred and forty-five",
+    "page_number_descr_right": "one hundred and forty-six 146",
+    "page_info_english": { "description_lang": "Seventy-third (73rd) Lesson", "description_audio_begin": 0, "description_audio_end": 3.5 },
+    "page_info_french": { "description_lang": "Soixante-treizième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_73.jpg",
+    "audioUrl": "../../audio/audio_lesson_73.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The police were interviewing a soldier suspected of robbery. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 3.5,
+                    "endplay": 9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't know* the restaurant. I've never been there in my life, said* the suspect.",
+                    "frenchspeech": "",
+                    "beginplay": 9,
+                    "endplay": 17.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Well, people say* that a soldier like you robbed the restaurant and wounded the owner, replied the detective. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 17.5,
+                    "endplay": 28
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But there must be thousands of soldiers in this town. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 28,
+                    "endplay": 33.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, but only one who was near the scene of the crime.",
+                    "frenchspeech": "",
+                    "beginplay": 33.5,
+                    "endplay": 39
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Listen. I was walking quietly down the street. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 39,
+                    "endplay": 46.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When someone ran* down the street shouting: \" He robbed the till !!! \";",
+                    "frenchspeech": "",
+                    "beginplay": 46.2,
+                    "endplay": 54
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "So, I stopped and went* back to the restaurant.",
+                    "frenchspeech": "",
+                    "beginplay": 54,
+                    "endplay": 59.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And the witnesses said* I was the robber because of my uniform. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 59.5,
+                    "endplay": 67
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "So the police arrested me and here I am.",
+                    "frenchspeech": "",
+                    "beginplay": 67,
+                    "endplay": 74
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You say* you never saw* the restaurant before?",
+                    "frenchspeech": "",
+                    "beginplay": 74,
+                    "endplay": 79.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, that's right, said* the soldier nervously.",
+                    "frenchspeech": "",
+                    "beginplay": 79.2,
+                    "endplay": 85.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then I arrest you for armed robbery, said* the detective.",
+                    "frenchspeech": "",
+                    "beginplay": 85.5,
+                    "endplay": 90.8
+                }
+            ]
+        },
+                {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What was the soldier's mistake? (The answer is in the revision lesson.)",
+                    "frenchspeech": "",
+                    "beginplay": 90.8,
+                    "endplay": 99
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,260 @@
+﻿{
+    "age": 51,
+    "haveIntro": true,
+    "introduction": "More past tenses",
+    "idfile": "lesson_51",
+    "page_number_descr_left": "101 one hundred and one",
+    "page_number_descr_right": "one hundred and two 102",
+    "page_info_english": { "description_lang": "Fifty-first (51st) Lesson", "description_audio_begin": 0, "description_audio_end": 5 },
+    "page_info_french": { "description_lang": "Cinquante-et-unième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_51.jpg",
+    "audioUrl": "../../audio/audio_lesson_51.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Was he at home yesterday?",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 9.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I think so but I didn't phone. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 9.5,
+                    "endplay": 13.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He called yesterday, but he didn't see me.",
+                    "frenchspeech": "",
+                    "beginplay": 13.5,
+                    "endplay": 18.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Did he phone?",
+                    "frenchspeech": "",
+                    "beginplay": 18.5,
+                    "endplay": 19.8
+                },
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't think so.",
+                    "frenchspeech": "",
+                    "beginplay": 19.8,
+                    "endplay": 22.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These are the interrogative and negative forms in the past.",
+                    "frenchspeech": "",
+                    "beginplay": 22.5,
+                    "endplay": 28
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You do not change the verb, you simply put the auxiliary “ do ” into the past “ did ”: ",
+                    "frenchspeech": "",
+                    "beginplay": 28,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I did not (didn't) like the food. He did not (didn't) phone. We did not (didn't) like him.",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 47.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Questions are easy, too: Did he like it? Did she phone?",
+                    "frenchspeech": "",
+                    "beginplay": 47.5,
+                    "endplay": 54.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Did you like the play last night?",
+                    "frenchspeech": "",
+                    "beginplay": 54.5,
+                    "endplay": 58.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I didn't see it. (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 58.5,
+                    "endplay": 60.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But did you go the theatre?",
+                    "frenchspeech": "",
+                    "beginplay": 60.5,
+                    "endplay": 64.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Yes, but I was so tired I closed my eyes. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 64.5,
+                    "endplay": 69.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Tell me, was the play interesting?",
+                    "frenchspeech": "",
+                    "beginplay": 69.5,
+                    "endplay": 72
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I didn't understand very much, it was in Greek.",
+                    "frenchspeech": "",
+                    "beginplay": 72,
+                    "endplay": 77
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then why did you go?",
+                    "frenchspeech": "",
+                    "beginplay": 77,
+                    "endplay": 79.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I liked the main actor. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 79.5,
+                    "endplay": 82.4
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Did he act well?",
+                    "frenchspeech": "",
+                    "beginplay": 82.4,
+                    "endplay": 84.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I didn't watch the acting. I looked at him. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 84.5,
+                    "endplay": 88.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What did you do after the play?",
+                    "frenchspeech": "",
+                    "beginplay": 88.5,
+                    "endplay": 92
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I dreamed about the actor! (7)",
+                    "frenchspeech": "",
+                    "beginplay": 92,
+                    "endplay": 95.4
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He did not, he didn't: He didn't like the play.",
+                    "frenchspeech": "",
+                    "beginplay": 95.4,
+                    "endplay": 103.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Did they...?: Did they phone you?",
+                    "frenchspeech": "",
+                    "beginplay": 103.5,
+                    "endplay": 108
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

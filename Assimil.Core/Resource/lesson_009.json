@@ -1,0 +1,214 @@
+﻿{
+    "age": 9,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_009",
+    "page_number_descr_left": "17 seventeen (sèv'ntin)",
+    "page_number_descr_right": "eighteen (ée'tin') 18",
+    "page_info_english": { "description_lang": "Ninth (9th) Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Neuvième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_09.jpg",
+    "audioUrl": "../../audio/audio_lesson_09.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I've got some; I don't want any.",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you got any peas, please?",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 12.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, I've got some big tins. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 12.5,
+                    "endplay": 18
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Is anyone at home? I can hear someone. (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 20,
+                    "endplay": 26
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes it's me. I'm in the kitchen.",
+                    "frenchspeech": "",
+                    "beginplay": 27,
+                    "endplay": 32
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you want a cup of tea?",
+                    "frenchspeech": "",
+                    "beginplay": 33,
+                    "endplay": 36
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Yes please. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 38
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Come in then.",
+                    "frenchspeech": "",
+                    "beginplay": 38.4,
+                    "endplay": 40.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have a cigarette.",
+                    "frenchspeech": "",
+                    "beginplay": 41,
+                    "endplay": 43
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Thank you, I haven't got any. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 44,
+                    "endplay": 48
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These are good!",
+                    "frenchspeech": "",
+                    "beginplay": 49,
+                    "endplay": 51.3
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Yes, they're Turkish.",
+                    "frenchspeech": "",
+                    "beginplay": 51.5,
+                    "endplay": 57.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I've got a pipe, but I prefer cigarettes.",
+                    "frenchspeech": "",
+                    "beginplay": 57.5,
+                    "endplay": 62
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A pipe isn't as dangerous as cigarettes. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 66.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I know... but it isn't as good!",
+                    "frenchspeech": "",
+                    "beginplay": 67,
+                    "endplay": 72
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have you got a light?",
+                    "frenchspeech": "",
+                    "beginplay": 72.5,
+                    "endplay": 75.5
+                },
+                   {
+                    "alterSpeech": false,
+                    "speech": "Thanks. (7)",
+                    "frenchspeech": "",
+                    "beginplay": 76,
+                    "endplay": 80
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,208 @@
+﻿{
+    "age": 93,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_093",
+    "page_number_descr_left": "171 one hundred and seventy-one",
+    "page_number_descr_right": "one hundred and seventy-two 172",
+    "page_info_english": { "description_lang": "Ninety-third (93rd) Lesson", "description_audio_begin": 0, "description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Quatre-vingt-treizième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_93.jpg",
+    "audioUrl": "../../audio/audio_lesson_93.mp3",
+    "numSentences": 15,
+ "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He stopped smoking last week and has been unbearable ever since. (1) (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 9.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He enjoys teasing his wife about her spending,",
+                    "frenchspeech": "",
+                    "beginplay": 9.5,
+                    "endplay": 14.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "but, to avoid causing an argument, he always agrees with her in the end. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 22.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The criminal denied robbing the bank, but there were too many witnesses.",
+                    "frenchspeech": "",
+                    "beginplay": 22.5,
+                    "endplay": 30.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Would you mind not smoking? This is a non-smoking compartment.",
+                    "frenchspeech": "",
+                    "beginplay": 30.5,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's no use trying to run* before you can walk.",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That new film about Switzerland is worth seeing*.",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 47.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Imagine being a pop-star. It must be great!",
+                    "frenchspeech": "",
+                    "beginplay": 47.5,
+                    "endplay": 54
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A lady who felt* sorry for a beggar invited him into the kitchen. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 54,
+                    "endplay": 61
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "On the table, there were some sardines and some smoked salmon.",
+                    "frenchspeech": "",
+                    "beginplay": 61,
+                    "endplay": 66.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The beggar immediately began* eating* the smoked salmon.",
+                    "frenchspeech": "",
+                    "beginplay": 66.5,
+                    "endplay": 72.1
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are some sardines as well, said the lady in a loud voice.",
+                    "frenchspeech": "",
+                    "beginplay": 72.1,
+                    "endplay": 78.5
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I prefer the smoked salmon, replied the beggar.",
+                    "frenchspeech": "",
+                    "beginplay": 78.5,
+                    "endplay": 83.5
+                }
+            ]
+        },
+                {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But it's more expensive, complained his unwilling hostess.",
+                    "frenchspeech": "",
+                    "beginplay": 83.5,
+                    "endplay": 89.5
+                }
+            ]
+        },
+                     {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes I know, lady... but it's worth it!",
+                    "frenchspeech": "",
+                    "beginplay": 89.5,
+                    "endplay": 94
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

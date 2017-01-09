@@ -1,0 +1,186 @@
+﻿{
+    "age": 68,
+    "haveIntro": true,
+    "introduction": "Sport",
+    "idfile": "lesson_068",
+    "page_number_descr_left": "135 one hundred and thirty-five",
+    "page_number_descr_right": "one hundred and thirty-six 136",
+    "page_info_english": { "description_lang": "Sixty-eighth (68th) Lesson", "description_audio_begin": 0, "description_audio_end": 4 },
+    "page_info_french": { "description_lang": "Soixante-huitième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_68.jpg",
+    "audioUrl": "../../audio/audio_lesson_68.mp3",
+    "numSentences": 13,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "English people are very fond of sport. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 4,
+                    "endplay": 8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They play it and they watch it; they talk about it and think* about it. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 8,
+                    "endplay": 14.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The most typically English game is cricket, which is played during the summer months.",
+                    "frenchspeech": "",
+                    "beginplay": 14.8,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But the most popular game is football, which is played during the rest of the year (for eight months).",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 30
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Professional football is very exciting to watch and the players earn large sums of money.",
+                    "frenchspeech": "",
+                    "beginplay": 30,
+                    "endplay": 37.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Another ball-game, less popular than football, is Rugby.",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 43.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Called Rugby football, it was invented at Rugby School in about 1820 (eighteen twenty).",
+                    "frenchspeech": "",
+                    "beginplay": 43.5,
+                    "endplay": 52
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A boy, called Ellis, was so bored with playing with his feet,",
+                    "frenchspeech": "",
+                    "beginplay": 52,
+                    "endplay": 58.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "that he took* the ball in his hands and new game was born! (3)",
+                    "frenchspeech": "",
+                    "beginplay": 58.3,
+                    "endplay": 63
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Another popular sport is horse-racing, which is forbidden* in England on Sundays.",
+                    "frenchspeech": "",
+                    "beginplay": 63,
+                    "endplay": 70.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There is no State lottery in England, but a game called Bingo is very successful. (4) (5)",
+                    "frenchspeech": "",
+                    "beginplay": 70.5,
+                    "endplay": 79
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Many cinemas are closing and being converted into Bingo halls.",
+                    "frenchspeech": "",
+                    "beginplay": 79,
+                    "endplay": 86.3
+                }
+            ]
+        },
+          {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It is estimated that about six million people, mainly women, play Bingo regularly.",
+                    "frenchspeech": "",
+                    "beginplay": 86.3,
+                    "endplay": 95
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

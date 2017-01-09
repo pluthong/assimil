@@ -1,0 +1,215 @@
+﻿{
+    "age": 60,
+    "haveIntro": true,
+    "introduction": "To get",
+    "idfile": "lesson_60",
+    "page_number_descr_left": "119 one hundred and nineteen",
+    "page_number_descr_right": "one hundred and twenty 120",
+    "page_info_english": { "description_lang": "Sixtieth (60th) Lesson", "description_audio_begin": 0, "description_audio_end": 3.5 },
+    "page_info_french": { "description_lang": "Soixantième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_60.jpg",
+    "audioUrl": "../../audio/audio_lesson_60.mp3",
+    "numSentences": 15,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's look at some expressions with the verb \" to get \"*. (N.1) ",
+                    "frenchspeech": "",
+                    "beginplay": 3.5,
+                    "endplay": 9
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These expressions are very common, and you already know* a few. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 9,
+                    "endplay": 15.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Here are some more. Try and learn them.",
+                    "frenchspeech": "",
+                    "beginplay": 15.8,
+                    "endplay": 21
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He gets* up at half-past seven every morning.",
+                    "frenchspeech": "",
+                    "beginplay": 21,
+                    "endplay": 25.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The train gets* in at eleven thirty.",
+                    "frenchspeech": "",
+                    "beginplay": 25.5,
+                    "endplay": 31
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It took* him a long time to get* over his illness. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 31,
+                    "endplay": 37
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Let's go* home. It's getting* dark.",
+                    "frenchspeech": "",
+                    "beginplay": 37,
+                    "endplay": 42
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Speak* louder. She's getting* very deaf.",
+                    "frenchspeech": "",
+                    "beginplay": 42,
+                    "endplay": 48
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These records are cheaper than those, but they are still quite expensive.",
+                    "frenchspeech": "",
+                    "beginplay": 48,
+                    "endplay": 56
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Please, go* and get* me a paper, I'm too busy to go* myself.",
+                    "frenchspeech": "",
+                    "beginplay": 56,
+                    "endplay": 63.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The burglar got* into the house through a small window. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 63.5,
+                    "endplay": 69
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Take* a number thirty seven bus and get* off at Charing Cross.",
+                    "frenchspeech": "",
+                    "beginplay": 69,
+                    "endplay": 75.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Everyone was trying to get* on the bus at once. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 75.5,
+                    "endplay": 80.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What's the matter?",
+                    "frenchspeech": "",
+                    "beginplay": 80.5,
+                    "endplay": 84.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I've got* a headache, a toothache, a sore throat and a cold,",
+                    "frenchspeech": "",
+                    "beginplay": 84.5,
+                    "endplay": 91.5
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and nobody asks me how I feel*!",
+                    "frenchspeech": "",
+                    "beginplay": 91.5,
+                    "endplay": 96
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

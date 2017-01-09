@@ -1,0 +1,218 @@
+﻿{
+    "age": 55,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_55",
+    "page_number_descr_left": "109 one hundred and nine",
+    "page_number_descr_right": "one hundred and ten 110",
+    "page_info_english": { "description_lang": "Fifty-fifth (55th) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Cinquante-cinquième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_55.jpg",
+    "audioUrl": "../../audio/audio_lesson_55.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "When I was in America, I took some very good photos.",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello, how are you?",
+                    "frenchspeech": "",
+                    "beginplay": 8,
+                    "endplay": 11.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I'm tired. I only came back from my trip yesterday.",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 18
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That was my wife's car you saw me with.",
+                    "frenchspeech": "",
+                    "beginplay": 18,
+                    "endplay": 23
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "We heard about his trip and the things he did. It was very interesting.",
+                    "frenchspeech": "",
+                    "beginplay": 23,
+                    "endplay": 29
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How about a glass of beer?",
+                    "frenchspeech": "",
+                    "beginplay": 29,
+                    "endplay": 33
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No thanks, I'm not thirsty.",
+                    "frenchspeech": "",
+                    "beginplay": 33,
+                    "endplay": 37
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Did you see him yesterday?",
+                    "frenchspeech": "",
+                    "beginplay": 37,
+                    "endplay": 40.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, I didn't.",
+                    "frenchspeech": "",
+                    "beginplay": 40.5,
+                    "endplay": 42.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He didn't pay his bill because he didn't have any money.",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 48
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Who was that lady I saw you with last night? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 48,
+                    "endplay": 53.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "That wasn't a lady, that was my wife.",
+                    "frenchspeech": "",
+                    "beginplay": 53.5,
+                    "endplay": 58
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "we thought he had understood.",
+                    "frenchspeech": "",
+                    "beginplay": 58,
+                    "endplay": 63
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mother. - What did you do on your first day at school?",
+                    "frenchspeech": "",
+                    "beginplay": 64,
+                    "endplay": 68
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Child. - I learnt to write.",
+                    "frenchspeech": "",
+                    "beginplay": 68,
+                    "endplay": 70.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mother. - Already! Well, what did you write?",
+                    "frenchspeech": "",
+                    "beginplay": 70.5,
+                    "endplay": 75.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Child. - I don't know. I can't read. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 75.5,
+                    "endplay": 80
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

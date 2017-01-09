@@ -1,0 +1,243 @@
+﻿{
+    "age": 37,
+    "haveIntro": true,
+    "introduction": "Directions",
+    "idfile": "lesson_037",
+    "page_number_descr_left": "73 seventy-three (sèv'nté trî)",
+    "page_number_descr_right": "seventy-four (sèv'nté fôr) 74",
+    "page_info_english": { "description_lang": "Thirty-seventh (37th) Lesson", "description_audio_begin": 0, "description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Trente-septième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_37.jpg",
+    "audioUrl": "../../audio/audio_lesson_37.mp3",
+    "numSentences": 12,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Can you tell me the way to the British Museum? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 8.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mmmm... Let me see. Yes. Are you on foot?",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 14.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, I am.",
+                    "frenchspeech": "",
+                    "beginplay": 14.5,
+                    "endplay": 15.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Well, go up Charing Cross Road and take Shaftesbury Avenue. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 21.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You come to New Oxford Street. Er, then it's er, just opposite I think.",
+                    "frenchspeech": "",
+                    "beginplay": 21.5,
+                    "endplay": 29.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes, that's it, just opposite is Bloomsbury Street.",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 34.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Sorry, say that again? (3)",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 37.5
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Just opposite, you've got Bloomsbury Street. Go down there and it's on your right.",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 45.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You can't miss it.",
+                    "frenchspeech": "",
+                    "beginplay": 45.3,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Thanks very much.",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 48.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "That's okay.",
+                    "frenchspeech": "",
+                    "beginplay": 48.5,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have another beer.",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 55.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I don't want one, but have one yourself.",
+                    "frenchspeech": "",
+                    "beginplay": 55.5,
+                    "endplay": 59.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I will. I'm very thirsty.",
+                    "frenchspeech": "",
+                    "beginplay": 59.5,
+                    "endplay": 63.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "You're always thirsty.",
+                    "frenchspeech": "",
+                    "beginplay": 63.5,
+                    "endplay": 65.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Perhaps it's because I don't drink enough.",
+                    "frenchspeech": "",
+                    "beginplay": 65.5,
+                    "endplay": 70
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A glutton",
+                    "frenchspeech": "",
+                    "beginplay": 70,
+                    "endplay": 73.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "(A mother to her son, after the sixth piece of cake);",
+                    "frenchspeech": "",
+                    "beginplay": 73.5,
+                    "endplay": 78.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Tom, you are a glutton. How can you eat so much?",
+                    "frenchspeech": "",
+                    "beginplay": 78.8,
+                    "endplay": 85.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I don't know. It's just good luck.",
+                    "frenchspeech": "",
+                    "beginplay": 85.8,
+                    "endplay": 91
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

@@ -1,0 +1,204 @@
+﻿{
+    "age": 101,
+    "haveIntro": false,
+    "introduction": "Some stories",
+    "idfile": "lesson_101",
+    "page_number_descr_left": "187 one hundred and eighty-seven",
+    "page_number_descr_right": "one hundred and eighty-eight 188",
+    "page_info_english": { "description_lang": "Hundred and first (101st) Lesson", "description_audio_begin": 0, "description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Cent-unième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_101.jpg",
+    "audioUrl": "../../audio/audio_lesson_101.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+          "paragraph": [
+            {
+              "alterSpeech": false,
+              "speech": "Confirmed bachelor.",
+              "frenchspeech": "",
+              "beginplay": 2,
+              "endplay": 10.5
+            },
+            {
+              "alterSpeech": true,
+              "speech": "Believe me, all women are silly; I have only met* one intelligent woman in my whole life. (1)",
+              "frenchspeech": "",
+              "beginplay": 2,
+              "endplay": 10.5
+            }
+          ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Why didn't you marry her then?",
+                    "frenchspeech": "",
+                    "beginplay": 10.5,
+                    "endplay": 19.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I asked her, but she refused me.",
+                    "frenchspeech": "",
+                    "beginplay": 19.5,
+                    "endplay": 22.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Baber: - Have I shaved you before, sir?",
+                    "frenchspeech": "",
+                    "beginplay": 22.2,
+                    "endplay": 27.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Customer: - No, I got those scars during the war.",
+                    "frenchspeech": "",
+                    "beginplay": 27.5,
+                    "endplay": 30
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Listen, Tommy, if you promise never to say that rude word again, I will give* you ten pence.",
+                    "frenchspeech": "",
+                    "beginplay": 36,
+                    "endplay": 42
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, I know* another that is worth at least fifty pence!",
+                    "frenchspeech": "",
+                    "beginplay": 42,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The manager of a large firm criticised an employee for his inefficiency. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 60.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The employee was so annoyed that he started criticising the way in which the company was run*. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 60.5,
+                    "endplay": 67
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Are you the manager of this company? the manager asked him furiously.",
+                    "frenchspeech": "",
+                    "beginplay": 67,
+                    "endplay": 74
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Of course not, said the employee.",
+                    "frenchspeech": "",
+                    "beginplay": 74,
+                    "endplay": 78.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Then don't talk like a fool! shouted the manager.",
+                    "frenchspeech": "",
+                    "beginplay": 78.7,
+                    "endplay": 86
+                }
+            ]
+        },
+      {
+        "paragraph": [
+          {
+            "alterSpeech": false,
+            "speech": "A pessimist reminds us that a cup is half empty",
+            "frenchspeech": "",
+            "beginplay": 86,
+            "endplay": 94
+          }
+        ]
+      },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and an optimist reminds us that it is half full.",
+                    "frenchspeech": "",
+                    "beginplay": 86,
+                    "endplay": 94
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

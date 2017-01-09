@@ -1,0 +1,246 @@
+﻿{
+    "age": 25,
+    "haveIntro": true,
+    "introduction": "A polite conversation",
+    "idfile": "lesson_025",
+    "page_number_descr_left": "49 forty-nine (forté naïn')",
+    "page_number_descr_right": "fifty (fifté) 50",
+    "page_info_english": { "description_lang": "Twenty-fifth (25th) Lesson", "description_audio_begin": 0, "description_audio_end": 5 },
+    "page_info_french": { "description_lang": "Vingt-cinquième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_25.jpg",
+    "audioUrl": "../../audio/audio_lesson_25.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David and his wife are at a party. David is talking to a tall, good-looking woman. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 5,
+                    "endplay": 14.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello, my name's David Wilson.",
+                    "frenchspeech": "",
+                    "beginplay": 14.8,
+                    "endplay": 20.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I'm Susan Price.",
+                    "frenchspeech": "",
+                    "beginplay": 20.5,
+                    "endplay": 23.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What do you do, David?",
+                    "frenchspeech": "",
+                    "beginplay": 23.5,
+                    "endplay": 26
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I'm a journalist.",
+                    "frenchspeech": "",
+                    "beginplay": 26,
+                    "endplay": 28.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, how interesting. Do you write for the \"Times\" ?",
+                    "frenchspeech": "",
+                    "beginplay": 28.5,
+                    "endplay": 33
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No. I work on the \"Daily Wall\", but I hope to change soon.",
+                    "frenchspeech": "",
+                    "beginplay": 33,
+                    "endplay": 40
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And what about you?",
+                    "frenchspeech": "",
+                    "beginplay": 40.2,
+                    "endplay": 42.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Oh, I'm an author.",
+                    "frenchspeech": "",
+                    "beginplay": 42.5,
+                    "endplay": 46.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm writing a book about British painters.",
+                    "frenchspeech": "",
+                    "beginplay": 46.5,
+                    "endplay": 50.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have we got any?",
+                    "frenchspeech": "",
+                    "beginplay": 50.5,
+                    "endplay": 52.2
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Don't be silly. Of course we have. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 52.2,
+                    "endplay": 56.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "People like Constable. Turner and so on. (3) (4) (5)",
+                    "frenchspeech": "",
+                    "beginplay": 56.8,
+                    "endplay": 60.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "But it's taking a long time because the information is difficult to find. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 60.8,
+                    "endplay": 66.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "May I read it when it's finished?",
+                    "frenchspeech": "",
+                    "beginplay": 66.5,
+                    "endplay": 69.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "With pleasure.",
+                    "frenchspeech": "",
+                    "beginplay": 69.5,
+                    "endplay": 72
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh dear, my wife's looking at me. I had better go.",
+                    "frenchspeech": "",
+                    "beginplay": 72,
+                    "endplay": 79
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What do you do?",
+                    "frenchspeech": "",
+                    "beginplay": 79.5,
+                    "endplay": 83.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I'm an author.",
+                    "frenchspeech": "",
+                    "beginplay": 83.5,
+                    "endplay": 86.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What are you doing?",
+                    "frenchspeech": "",
+                    "beginplay": 86.5,
+                    "endplay": 88.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I'm learning English.",
+                    "frenchspeech": "",
+                    "beginplay": 88.5,
+                    "endplay": 92
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

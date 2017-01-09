@@ -1,0 +1,211 @@
+﻿{
+    "age": 13,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_013",
+    "page_number_descr_left": "25 twenty-five (touèn'té faïv)",
+    "page_number_descr_right": "twenty-six (touèn'té siks') 26",
+    "page_info_english": { "description_lang": "Thirteenth (13th) Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Treizième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_13.jpg",
+    "audioUrl": "../../audio/audio_lesson_13.mp3",
+    "numSentences": 12,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where do you live?",
+                    "frenchspeech": "",
+                    "beginplay": 2,
+                    "endplay": 5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "I live in London.",
+                    "frenchspeech": "",
+                    "beginplay": 5.5,
+                    "endplay": 8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Do you like it?",
+                    "frenchspeech": "",
+                    "beginplay": 8.5,
+                    "endplay": 11
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "Yes, I like big cities. Do you?",
+                    "frenchspeech": "",
+                    "beginplay": 12,
+                    "endplay": 17.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Not really. I prefer the country.",
+                    "frenchspeech": "",
+                    "beginplay": 17.5,
+                    "endplay": 22
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How do you spend your evenings in the country?",
+                    "frenchspeech": "",
+                    "beginplay": 22.5,
+                    "endplay": 27
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I read, I work in the garden. My wife paints.",
+                    "frenchspeech": "",
+                    "beginplay": 27.5,
+                    "endplay": 35.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does she paint portraits?",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 38.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, she paints the bathroom and the hall.",
+                    "frenchspeech": "",
+                    "beginplay": 38.5,
+                    "endplay": 44
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Does your wife like the country too?",
+                    "frenchspeech": "",
+                    "beginplay": 44.5,
+                    "endplay": 48.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "No, she prefers hotels in London.",
+                    "frenchspeech": "",
+                    "beginplay": 48.6,
+                    "endplay": 55
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "To read is the infinitive of the verb. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 56,
+                    "endplay": 62
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She likes to read novels.",
+                    "frenchspeech": "",
+                    "beginplay": 62.5,
+                    "endplay": 65.6
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I prefer to live in the country.",
+                    "frenchspeech": "",
+                    "beginplay": 65.7,
+                    "endplay": 69
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "She doesn't like to live in the country.",
+                    "frenchspeech": "",
+                    "beginplay": 69.5,
+                    "endplay": 74
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There is a lot of work. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 74.5,
+                    "endplay": 79
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

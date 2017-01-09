@@ -1,0 +1,21 @@
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\bin\Debug\Assimil.Domain.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\bin\Debug\Assimil.Domain.pdb
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\bin\Debug\Newtonsoft.Json.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\bin\Debug\Newtonsoft.Json.xml
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.csprojResolveAssemblyReference.cache
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.dll
+E:\PROJECTS\Anglais\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Domain\bin\Debug\Assimil.Domain.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Domain\bin\Debug\Assimil.Domain.pdb
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.dll
+C:\Users\Tecnosphera SpA\Desktop\DESKTOP\PROJECT\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.pdb
+C:\Projects\Assimil\Assimil.Domain\bin\Debug\Assimil.Domain.dll
+C:\Projects\Assimil\Assimil.Domain\bin\Debug\Assimil.Domain.pdb
+C:\Projects\Assimil\Assimil.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Assimil\Assimil.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.dll
+C:\Projects\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.pdb
+C:\Projects\Assimil\Assimil.Domain\obj\Debug\Assimil.Domain.csprojResolveAssemblyReference.cache

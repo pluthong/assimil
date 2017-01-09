@@ -1,0 +1,204 @@
+﻿{
+    "age": 36,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_036",
+    "page_number_descr_left": "71 seventy-one (sèv'nté oueune)",
+    "page_number_descr_right": "seventy-two (sèv'nté tou) 72",
+    "page_info_english": { "description_lang": "Thirty-sixth (36th) Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Trente-sixième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_36.jpg",
+    "audioUrl": "../../audio/audio_lesson_36.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "David and Joan are going to the Marsden's for dinner.",
+                    "frenchspeech": "",
+                    "beginplay": 3.5,
+                    "endplay": 7.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "They arrive at seven thirty and Mr Marsden opens the door and invites them in.",
+                    "frenchspeech": "",
+                    "beginplay": 7.5,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Come into the sitting-room and sit down. What will you have to drink? (N.1) (1)",
+                    "frenchspeech": "",
+                    "beginplay": 15.5,
+                    "endplay": 22.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A whisky for me.",
+                    "frenchspeech": "",
+                    "beginplay": 22.5,
+                    "endplay": 24.5
+                },
+                    {
+                    "alterSpeech": true,
+                    "speech": "Joan, What will you have? (2)",
+                    "frenchspeech": "",
+                    "beginplay": 24.5,
+                    "endplay": 27.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A sherry, if I may. Dry, please. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 27.5,
+                    "endplay": 31.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He serves the drinks and they all sit down.",
+                    "frenchspeech": "",
+                    "beginplay": 31.5,
+                    "endplay": 35.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Mrs Marden comes downstairs and joins them. (N.2)",
+                    "frenchspeech": "",
+                    "beginplay": 35.5,
+                    "endplay": 40.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The cook comes in and says: \" Dinner is ready \". They go into the dining-room. ",
+                    "frenchspeech": "",
+                    "beginplay": 40.5,
+                    "endplay": 51.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The meat is excellent. They eat soup, lamb, fruit salad and cheese. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 51.5,
+                    "endplay": 61.8
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "You're very lucky to have a cook, Mrs Marsden, says Joan.",
+                    "frenchspeech": "",
+                    "beginplay": 61.8,
+                    "endplay": 69.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Yes. You see, I have so little time to cook.",
+                    "frenchspeech": "",
+                    "beginplay": 69.5,
+                    "endplay": 74.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "So do I. But David doesn't earn enough money, so...",
+                    "frenchspeech": "",
+                    "beginplay": 74.5,
+                    "endplay": 80.2
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There is an embarrassed silence.",
+                    "frenchspeech": "",
+                    "beginplay": 80.2,
+                    "endplay": 82.5
+                }
+            ]
+        },
+           {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Have a brandy, says Mr Marsden.",
+                    "frenchspeech": "",
+                    "beginplay": 82.5,
+                    "endplay": 89
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

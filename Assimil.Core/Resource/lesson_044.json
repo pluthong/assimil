@@ -1,0 +1,250 @@
+﻿{
+    "age": 44,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_044",
+    "page_number_descr_left": "87 eighty-seven (éeté sèv'n)",
+    "page_number_descr_right": "eighty-eight (éeté èe't) 88",
+    "page_info_english": { "description_lang": "Forty-fourth (44th) Lesson", "description_audio_begin": 0, "description_audio_end": 2.5 },
+    "page_info_french": { "description_lang": "Quarante-quatrième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_44.jpg",
+    "audioUrl": "../../audio/audio_lesson_44.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Give me that wallet, it's mine.",
+                    "frenchspeech": "",
+                    "beginplay": 2.5,
+                    "endplay": 5.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How do you know?",
+                    "frenchspeech": "",
+                    "beginplay": 5.5,
+                    "endplay": 7.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Well, it's not yours, and there are ten pounds inside it. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 7.5,
+                    "endplay": 12
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He borrows my things, but he isn't pleased when I borrow his. (2) (N.2)",
+                    "frenchspeech": "",
+                    "beginplay": 12,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "These people are all friends of hers. They want to come to the party. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 20,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What, all of them?",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 29.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Well, perhaps only a few of them.",
+                    "frenchspeech": "",
+                    "beginplay": 29.5,
+                    "endplay": 34
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where is my pen?",
+                    "frenchspeech": "",
+                    "beginplay": 34,
+                    "endplay": 37.5
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "Here, you can use mine.",
+                    "frenchspeech": "",
+                    "beginplay": 37.5,
+                    "endplay": 40
+                },
+                {
+                    "alterSpeech": false,
+                    "speech": "That's very kind of you.",
+                    "frenchspeech": "",
+                    "beginplay": 40,
+                    "endplay": 42
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Whose is this sports car?",
+                    "frenchspeech": "",
+                    "beginplay": 42,
+                    "endplay": 47
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "It's theirs.",
+                    "frenchspeech": "",
+                    "beginplay": 47,
+                    "endplay": 50
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I suppose they are very rich.",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 52.8
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "no, their house is smaller than yours.",
+                    "frenchspeech": "",
+                    "beginplay": 52.8,
+                    "endplay": 57.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "in fact, they live in a tent!",
+                    "frenchspeech": "",
+                    "beginplay": 57.5,
+                    "endplay": 62
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A cynic",
+                    "frenchspeech": "",
+                    "beginplay": 62,
+                    "endplay": 64.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "So you're going to marry Haroid. What is he like? (4)",
+                    "frenchspeech": "",
+                    "beginplay": 64.7,
+                    "endplay": 70.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "He's honest, kind, gentle, sweet and noble. (5)",
+                    "frenchspeech": "",
+                    "beginplay": 70.5,
+                    "endplay": 80.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And what are you going to eat?",
+                    "frenchspeech": "",
+                    "beginplay": 80.5,
+                    "endplay": 83
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "A cynic is a person who knows the price of everything",
+                    "frenchspeech": "",
+                    "beginplay": 83,
+                    "endplay": 89.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "and the value of nothing (Oscar Wilde).",
+                    "frenchspeech": "",
+                    "beginplay": 89.5,
+                    "endplay": 94
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

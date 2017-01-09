@@ -1,0 +1,197 @@
+﻿{
+    "age": 62,
+    "haveIntro": true,
+    "introduction": "Scotland",
+    "idfile": "lesson_62",
+    "page_number_descr_left": "123 one hundred and twenty-three",
+    "page_number_descr_right": "one hundred and twenty-four 124",
+    "page_info_english": { "description_lang": "Sixty-second (62nd) Lesson", "description_audio_begin": 0, "description_audio_end": 4.5 },
+    "page_info_french": { "description_lang": "Soixante-deuxième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_62.jpg",
+    "audioUrl": "../../audio/audio_lesson_62.mp3",
+    "numSentences": 14,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Scotland is half as big as England but the population is much smaller.",
+                    "frenchspeech": "",
+                    "beginplay": 4.5,
+                    "endplay": 11.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "There are two main regions: in the north, the Highlands which are wild and beautiful.",
+                    "frenchspeech": "",
+                    "beginplay": 11.5,
+                    "endplay": 20
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "And in the south, the Lowlands which are more agricultural.",
+                    "frenchspeech": "",
+                    "beginplay": 20,
+                    "endplay": 26.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Although Edinburgh is the capital, Glasgow is the main industrial center.",
+                    "frenchspeech": "",
+                    "beginplay": 26.5,
+                    "endplay": 34.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Scotland was separated from England by a wall, built* by the Roman emperor Hadrian.",
+                    "frenchspeech": "",
+                    "beginplay": 34.5,
+                    "endplay": 41.7
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Parts of this wall still exist today.",
+                    "frenchspeech": "",
+                    "beginplay": 41.7,
+                    "endplay": 46
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Some older people still speak* Gaelic, but most Scots speak* English. (1)",
+                    "frenchspeech": "",
+                    "beginplay": 46,
+                    "endplay": 54.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Scoltish towns look very different from English ones.",
+                    "frenchspeech": "",
+                    "beginplay": 54.5,
+                    "endplay": 60.4
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "In English towns, the houses are mainly built of red brick.",
+                    "frenchspeech": "",
+                    "beginplay": 60.4,
+                    "endplay": 66.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Whereas in Scotland, the houses are mainly of grey slate.",
+                    "frenchspeech": "",
+                    "beginplay": 66.5,
+                    "endplay": 72
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Britain's highest mountain, Ben Nevis, is in Scotland. (2) (3)",
+                    "frenchspeech": "",
+                    "beginplay": 72,
+                    "endplay": 78
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "The Scots have their own religion, called Presbyterianism, and their own laws. (4)",
+                    "frenchspeech": "",
+                    "beginplay": 78,
+                    "endplay": 86.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "So, although Scotland is part of Great Britain.",
+                    "frenchspeech": "",
+                    "beginplay": 86.5,
+                    "endplay": 91.3
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It has never been united with England in the same way as Wales.",
+                    "frenchspeech": "",
+                    "beginplay": 91.3,
+                    "endplay": 100
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}

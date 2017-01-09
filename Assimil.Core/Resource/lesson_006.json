@@ -1,0 +1,238 @@
+﻿{
+    "age": 6,
+    "haveIntro": false,
+    "introduction": "",
+    "idfile": "lesson_006",
+    "page_number_descr_left": "11 eleven (elêv'n)",
+    "page_number_descr_right": "twelve (touèlv') 12",
+    "page_info_english": { "description_lang": "Sixth Lesson","description_audio_begin": 0,"description_audio_end": 2 },
+    "page_info_french": { "description_lang": "Sixième leçon" },
+    "isRevision": false,
+    "imageUrl": "../../img/lessons/img_lesson_06.jpg",
+    "audioUrl": "../../audio/audio_lesson_06.mp3",
+    "numSentences": 12,
+    "english_lesson": [
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Hello, how are you?",
+                    "frenchspeech": "",
+                    "beginplay": 3,
+                    "endplay": 6.5
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Very well, thanks. And you?",
+                    "frenchspeech": "",
+                    "beginplay": 6.8,
+                    "endplay": 11
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Oh, I'm alright.",
+                    "frenchspeech": "",
+                    "beginplay": 11.3,
+                    "endplay": 13
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "What's the matter? (1)",
+                    "frenchspeech": "",
+                    "beginplay": 13.7,
+                    "endplay": 15.5
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "It's Monday, the first day of the week; I'm never well on Monday. (2)",
+                    "frenchspeech": "",
+                    "beginplay": 16,
+                    "endplay": 25
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Where's High Street please?",
+                    "frenchspeech": "",
+                    "beginplay": 26,
+                    "endplay": 29
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "This is High Street.",
+                    "frenchspeech": "",
+                    "beginplay": 29,
+                    "endplay": 32
+                },
+                  {
+                    "alterSpeech": false,
+                    "speech": "Of course; thanks very much.",
+                    "frenchspeech": "",
+                    "beginplay": 32.5,
+                    "endplay": 36
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Is that your car?",
+                    "frenchspeech": "",
+                    "beginplay": 36.5,
+                    "endplay": 39.5
+                },
+                  {
+                    "alterSpeech": true,
+                    "speech": "No, my boss is still abroad. It's his car. (3)",
+                    "frenchspeech": "",
+                    "beginplay": 39.5,
+                    "endplay": 46
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "What's that?",
+                    "frenchspeech": "",
+                    "beginplay": 47,
+                    "endplay": 49
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "That is the cassette player and this is the cigarette lighter.",
+                    "frenchspeech": "",
+                    "beginplay": 50,
+                    "endplay": 57
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Very nice. Is your boss often abroad? (4) (5)",
+                    "frenchspeech": "",
+                    "beginplay": 58,
+                    "endplay": 64.4
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Not often enough. (6)",
+                    "frenchspeech": "",
+                    "beginplay": 64.5,
+                    "endplay": 68
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Is his brother in yet?",
+                    "frenchspeech": "",
+                    "beginplay": 69,
+                    "endplay": 72
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No, not yet. (7)",
+                    "frenchspeech": "",
+                    "beginplay": 73,
+                    "endplay": 78
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "I'm well; we're tired; it's Monday again.",
+                    "frenchspeech": "",
+                    "beginplay": 79,
+                    "endplay": 87
+                }
+            ]
+        },
+        {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "Sugar?",
+                    "frenchspeech": "",
+                    "beginplay": 89,
+                    "endplay": 91
+                },
+                {
+                    "alterSpeech": true,
+                    "speech": "No thank you, this is enough.",
+                    "frenchspeech": "",
+                    "beginplay": 91,
+                    "endplay": 96
+                }
+            ]
+        },
+         {
+            "paragraph": [
+                {
+                    "alterSpeech": false,
+                    "speech": "How is your sister?",
+                    "frenchspeech": "",
+                    "beginplay": 97,
+                    "endplay": 100
+                },
+                 {
+                    "alterSpeech": true,
+                    "speech": "Not very well",
+                    "frenchspeech": "",
+                    "beginplay": 100.5,
+                    "endplay": 105
+                }
+            ]
+        }
+    ],
+    "pronunciation": [
+        "pronunciation1",
+        "pronunciation2"
+    ],
+    "notes": [
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+        {
+            "keynote": "",
+            "valuenote": ""
+        },
+         {
+            "keynote": "",
+            "valuenote": ""
+        }
+    ],
+    "exercises": [
+        "exercises1",
+        "exercises2"
+    ]
+
+}
